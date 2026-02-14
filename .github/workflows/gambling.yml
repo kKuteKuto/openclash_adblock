@@ -15,7 +15,7 @@ jobs:
           echo "Downloading oisd big block list..."
           curl -s 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts' -o gambling_domainswild.txt
           awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock \n\npayload:"; x=1} 1' gambling_domainswild.txt > gambling.yaml
-          sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' gambling.yaml
+          sed -i '/^[^#]/ s/^[[:space:]]*[^[:space:]]\+/+.&/  - DOMAIN-SUFFIX,/g' gambling.yaml
           rm -fr gambling.yamle gambling_domainswild.txt
 
         # curl -s 'https://big.oisd.nl/' -o ob_passwall.txt
