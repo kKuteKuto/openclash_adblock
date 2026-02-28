@@ -1,0 +1,35 @@
+name: Download adblock source list
+
+on:
+  schedule:
+    - cron: 0 */12 * * *
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: adblock
+        run: |
+          echo "Downloading tiktok native ext block list..."
+          curl -s 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended.txt' -o tt_native_ext_domainswild.txt
+          awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock \n\npayload:"; x=1} 1' tt_native_ext_domainswild.txt > tt_native_ext.yaml
+          sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' tt_native_ext.yaml
+          rm -fr tt_native_ext.yamle tt_native_ext_domainswild.txt
+
+
+          echo "Downloading gambling block list..."
+          curl -s 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/gambling.txt' -o gambling_domainswild.txt
+          awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock \n\npayload:"; x=1} 1' gambling_domainswild.txt > gambling.yaml
+          sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' gambling.yaml
+          rm -fr gambling.yamle gambling_domainswild.txt
+
+          echo "Downloading popup-ads block list..."
+          curl -s 'https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads.txt' -o popupads_domainswild.txt
+          awk '/^\*\./ && !x {print "# OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock \n\npayload:"; x=1} 1' popupads_domainswild.txt > popupads.yaml
+          sed -i 's/^[*]\./  - DOMAIN-SUFFIX,/g' popupads.yaml
+          rm -fr popupads.yamle popupads_domainswild.txt
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Automatic update
