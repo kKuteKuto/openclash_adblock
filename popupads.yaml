@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Feb 2026 03:33 UTC
-# Version: 2026.0228.0333.14
+# Last modified: 28 Feb 2026 09:32 UTC
+# Version: 2026.0228.0932.50
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57505
+# Number of entries: 57504
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -14909,6 +14909,7 @@ payload:
   - DOMAIN-SUFFIX,isboost.co.jp
   - DOMAIN-SUFFIX,www.jinailedit.co.uk
   - DOMAIN-SUFFIX,join-slash.co.com
+  - DOMAIN-SUFFIX,kexornero.co.in
   - DOMAIN-SUFFIX,kikon-match.co.jp
   - DOMAIN-SUFFIX,www.littlelightjewellery.co.uk
   - DOMAIN-SUFFIX,localsearch24.co.uk
@@ -21812,11 +21813,7 @@ payload:
   - DOMAIN-SUFFIX,famsmdfn.net
   - DOMAIN-SUFFIX,famtoaphoobo.com
   - DOMAIN-SUFFIX,fanatics.bet
-  - DOMAIN-SUFFIX,avzrv.fancifuidates.net
-  - DOMAIN-SUFFIX,dqjvx.fancifuidates.net
-  - DOMAIN-SUFFIX,ekdnk.fancifuidates.net
-  - DOMAIN-SUFFIX,gzqqd.fancifuidates.net
-  - DOMAIN-SUFFIX,wjkda.fancifuidates.net
+  - DOMAIN-SUFFIX,fancifuidates.net
   - DOMAIN-SUFFIX,bgqvxe.fancifuldates.net
   - DOMAIN-SUFFIX,yvaod.fancifuldates.net
   - DOMAIN-SUFFIX,argbq.fanclfuldates.com
@@ -25647,6 +25644,7 @@ payload:
   - DOMAIN-SUFFIX,grincircus.com
   - DOMAIN-SUFFIX,grindcriticismpanic.com
   - DOMAIN-SUFFIX,grindgoodwillcamouflage.com
+  - DOMAIN-SUFFIX,grindsteeplesprung.com
   - DOMAIN-SUFFIX,grip.asia
   - DOMAIN-SUFFIX,gripcares.com
   - DOMAIN-SUFFIX,gripdownload.co
@@ -53338,6 +53336,7 @@ payload:
   - DOMAIN-SUFFIX,virginityinvasion.com
   - DOMAIN-SUFFIX,wv.virgosclavis.com
   - DOMAIN-SUFFIX,rp.viridinpergola.com
+  - DOMAIN-SUFFIX,vironexta.com
   - DOMAIN-SUFFIX,virsfeqtfhlnp.site
   - DOMAIN-SUFFIX,virtrotech.com
   - DOMAIN-SUFFIX,virtualbox.es
