@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 05 Mar 2026 22:00 UTC
-# Version: 2026.0305.2200.50
+# Last modified: 06 Mar 2026 09:52 UTC
+# Version: 2026.0306.0952.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54853
+# Number of entries: 54842
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -15158,6 +15158,7 @@ payload:
   - DOMAIN-SUFFIX,cong-keren.site
   - DOMAIN-SUFFIX,pg.congeesaquafer.com
   - DOMAIN-SUFFIX,congerstunish.com
+  - DOMAIN-SUFFIX,congestprowessburger.com
   - DOMAIN-SUFFIX,conghui.net
   - DOMAIN-SUFFIX,congratulatedconfusionstrength.com
   - DOMAIN-SUFFIX,congratulateddepositioneasiest.com
@@ -30020,7 +30021,6 @@ payload:
   - DOMAIN-SUFFIX,klltoghtuhydo.club
   - DOMAIN-SUFFIX,klmmnd.com
   - DOMAIN-SUFFIX,klonedaset.org
-  - DOMAIN-SUFFIX,klook.com
   - DOMAIN-SUFFIX,kloperd.com
   - DOMAIN-SUFFIX,klpgmansuchcesu.com
   - DOMAIN-SUFFIX,klrtisidtgrgn.website
@@ -34821,19 +34821,7 @@ payload:
   - DOMAIN-SUFFIX,mybidad.com
   - DOMAIN-SUFFIX,mybiddd.com
   - DOMAIN-SUFFIX,mybikebuilds.com
-  - DOMAIN-SUFFIX,mst.ail.mybluehost.me
-  - DOMAIN-SUFFIX,amz.boy.mybluehost.me
-  - DOMAIN-SUFFIX,isz.bqv.mybluehost.me
-  - DOMAIN-SUFFIX,fgt.ive.mybluehost.me
-  - DOMAIN-SUFFIX,kvv.jxc.mybluehost.me
-  - DOMAIN-SUFFIX,the.jxc.mybluehost.me
-  - DOMAIN-SUFFIX,kby.oqp.mybluehost.me
-  - DOMAIN-SUFFIX,vdv.oqp.mybluehost.me
-  - DOMAIN-SUFFIX,yah.ppl.mybluehost.me
-  - DOMAIN-SUFFIX,mtm.rnz.mybluehost.me
-  - DOMAIN-SUFFIX,llq.rsq.mybluehost.me
-  - DOMAIN-SUFFIX,vmb.wvs.mybluehost.me
-  - DOMAIN-SUFFIX,ija.xwi.mybluehost.me
+  - DOMAIN-SUFFIX,mybluehost.me
   - DOMAIN-SUFFIX,mybmrtrg.com
   - DOMAIN-SUFFIX,mybrew2.com
   - DOMAIN-SUFFIX,mybro.online
@@ -51506,6 +51494,7 @@ payload:
   - DOMAIN-SUFFIX,waichoumo.net
   - DOMAIN-SUFFIX,wailinghassle.com
   - DOMAIN-SUFFIX,tb.wainfulabasias.com
+  - DOMAIN-SUFFIX,wairingcheney.com
   - DOMAIN-SUFFIX,wairong.com
   - DOMAIN-SUFFIX,waistcoataskeddone.com
   - DOMAIN-SUFFIX,waistcoatreferchemistry.com
