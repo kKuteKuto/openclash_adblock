@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 Mar 2026 09:52 UTC
-# Version: 2026.0306.0952.07
+# Last modified: 06 Mar 2026 16:24 UTC
+# Version: 2026.0306.1624.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54842
+# Number of entries: 54844
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -14090,6 +14090,7 @@ payload:
   - DOMAIN-SUFFIX,cleaningmystical.com
   - DOMAIN-SUFFIX,cleanlinessmock.com
   - DOMAIN-SUFFIX,cleanmediaads.com
+  - DOMAIN-SUFFIX,cleanmymacos.org
   - DOMAIN-SUFFIX,cleannaturalists.com
   - DOMAIN-SUFFIX,cleanupharm.com
   - DOMAIN-SUFFIX,clear-cousin.com
@@ -29955,6 +29956,7 @@ payload:
   - DOMAIN-SUFFIX,kirvecaverns.world
   - DOMAIN-SUFFIX,kisaenglatigos.qpon
   - DOMAIN-SUFFIX,kiseki.com
+  - DOMAIN-SUFFIX,kissbaketurpentine.com
   - DOMAIN-SUFFIX,kisscallingviewed.com
   - DOMAIN-SUFFIX,kissoffering.com
   - DOMAIN-SUFFIX,kitabersatu.pro

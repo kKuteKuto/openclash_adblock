@@ -5,15 +5,14 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Feb 2026 16:10 UTC
-# Version: 2026.0227.1610.44
+# Last modified: 06 Mar 2026 16:57 UTC
+# Version: 2026.0306.1657.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 525
+# Number of entries: 527
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
 payload:
-  - DOMAIN-SUFFIX,mon-ru.tiktokv.com.blinkt.de
   - DOMAIN-SUFFIX,frontier23-normal-alisg.tiktokv.com.bpgslb.com
   - DOMAIN-SUFFIX,frontier.byteoversea.com
   - DOMAIN-SUFFIX,gplog-sg.byteoversea.com
@@ -96,6 +95,11 @@ payload:
   - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,frontier.capcutw.us
+  - DOMAIN-SUFFIX,mon-i18n.tiktokv.com.dvaitas.lt
+  - DOMAIN-SUFFIX,mon16-normal-no1a.tiktokv.eu.dvaitas.lt
+  - DOMAIN-SUFFIX,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
+  - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.dvaitas.lt
+  - DOMAIN-SUFFIX,mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
   - DOMAIN-SUFFIX,mcs-i18n.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-va.tiktok.com.edgekey.net
@@ -200,8 +204,6 @@ payload:
   - DOMAIN-SUFFIX,mcs-ttp2.us.tiktok.com
   - DOMAIN-SUFFIX,mssdk.us.tiktok.com
   - DOMAIN-SUFFIX,mcs.tiktok-row.net
-  - DOMAIN-SUFFIX,p16-ad-site-sign-sg.tiktokcdn.com
-  - DOMAIN-SUFFIX,p19-ad-site-sign-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,sf19-ads-format-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
