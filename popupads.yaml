@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Mar 2026 15:28 UTC
-# Version: 2026.0311.1528.48
+# Last modified: 12 Mar 2026 09:30 UTC
+# Version: 2026.0312.0930.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55339
+# Number of entries: 55337
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -127,7 +127,6 @@ payload:
   - DOMAIN-SUFFIX,001.sbs
   - DOMAIN-SUFFIX,001.wiki
   - DOMAIN-SUFFIX,0010.me
-  - DOMAIN-SUFFIX,33795b3c71.00104186da.com
   - DOMAIN-SUFFIX,0010d.com
   - DOMAIN-SUFFIX,0010jz.com
   - DOMAIN-SUFFIX,0011av.com
@@ -3492,7 +3491,6 @@ payload:
   - DOMAIN-SUFFIX,1bank.info
   - DOMAIN-SUFFIX,1bbl.com
   - DOMAIN-SUFFIX,1be.biz
-  - DOMAIN-SUFFIX,1d36f919d8.1be795e9c2.com
   - DOMAIN-SUFFIX,1be953d1cc.com
   - DOMAIN-SUFFIX,1betandgonow.com
   - DOMAIN-SUFFIX,1betbet.com
@@ -4825,7 +4823,6 @@ payload:
   - DOMAIN-SUFFIX,53mr2r25q4s3.top
   - DOMAIN-SUFFIX,540484935e.com
   - DOMAIN-SUFFIX,540f8cca2b.com
-  - DOMAIN-SUFFIX,4027d86a39.542cf0845e.com
   - DOMAIN-SUFFIX,545316.vip
   - DOMAIN-SUFFIX,6c062330ce.54653cc53d.com
   - DOMAIN-SUFFIX,548f23e472.com
@@ -5252,7 +5249,7 @@ payload:
   - DOMAIN-SUFFIX,7amz.com
   - DOMAIN-SUFFIX,7app.top
   - DOMAIN-SUFFIX,7b624d2bdd.com
-  - DOMAIN-SUFFIX,7b91f8c7a4.com
+  - DOMAIN-SUFFIX,fb995e68d9.7b91f8c7a4.com
   - DOMAIN-SUFFIX,7ba3fa4259.com
   - DOMAIN-SUFFIX,7bb.cc
   - DOMAIN-SUFFIX,7bchhgh.de
@@ -5699,7 +5696,6 @@ payload:
   - DOMAIN-SUFFIX,a1tai7.jp
   - DOMAIN-SUFFIX,a2255d1d36.com
   - DOMAIN-SUFFIX,a233106.com
-  - DOMAIN-SUFFIX,06034bade6.a240878707.com
   - DOMAIN-SUFFIX,a273656d15.com
   - DOMAIN-SUFFIX,44b6d66394.a2e5b82fea.com
   - DOMAIN-SUFFIX,a2gw.com
@@ -19417,7 +19413,6 @@ payload:
   - DOMAIN-SUFFIX,e8853962d1.com
   - DOMAIN-SUFFIX,e89d45b16370ee7e43daeaf6ce8d9547.com
   - DOMAIN-SUFFIX,e8jp9.com
-  - DOMAIN-SUFFIX,305791ddd9.ea1e71ef6c.com
   - DOMAIN-SUFFIX,ea6c0ac4.xyz
   - DOMAIN-SUFFIX,eaagzbrscgtzw.space
   - DOMAIN-SUFFIX,eaaratte.net
@@ -37408,6 +37403,7 @@ payload:
   - DOMAIN-SUFFIX,onsandindeedth.com
   - DOMAIN-SUFFIX,onscrn.com
   - DOMAIN-SUFFIX,onscroll.com
+  - DOMAIN-SUFFIX,onsetblouselampshade.com
   - DOMAIN-SUFFIX,onshoring.solutions
   - DOMAIN-SUFFIX,onshow.site
   - DOMAIN-SUFFIX,onshowit.com
@@ -38947,6 +38943,7 @@ payload:
   - DOMAIN-SUFFIX,cj.persismchamois.com
   - DOMAIN-SUFFIX,persistarcticthese.com
   - DOMAIN-SUFFIX,persona3.tech
+  - DOMAIN-SUFFIX,personal-bowl.pro
   - DOMAIN-SUFFIX,personal-effort.com
   - DOMAIN-SUFFIX,personalengage.com
   - DOMAIN-SUFFIX,personalfinanceshacks.me
@@ -43095,6 +43092,7 @@ payload:
   - DOMAIN-SUFFIX,romil-jdd.com
   - DOMAIN-SUFFIX,romperspardesi.com
   - DOMAIN-SUFFIX,vc.rompishvariola.com
+  - DOMAIN-SUFFIX,romsns.com
   - DOMAIN-SUFFIX,romsxqicvnbvx.store
   - DOMAIN-SUFFIX,oj.romulusniuan.com
   - DOMAIN-SUFFIX,rondachang.xyz
