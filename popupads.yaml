@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Mar 2026 21:29 UTC
-# Version: 2026.0312.2129.35
+# Last modified: 13 Mar 2026 09:30 UTC
+# Version: 2026.0313.0930.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55334
+# Number of entries: 55337
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -3164,7 +3164,6 @@ payload:
   - DOMAIN-SUFFIX,16below.com
   - DOMAIN-SUFFIX,16c8nh2801z2.top
   - DOMAIN-SUFFIX,16circuit.org
-  - DOMAIN-SUFFIX,f3b712f1f4.16d9c2d09e.com
   - DOMAIN-SUFFIX,16days.org
   - DOMAIN-SUFFIX,16gang.com
   - DOMAIN-SUFFIX,16handsgallery.com
@@ -7532,6 +7531,7 @@ payload:
   - DOMAIN-SUFFIX,aibeautia1.jp
   - DOMAIN-SUFFIX,aibeltaidoogli.com
   - DOMAIN-SUFFIX,aibsgc.com
+  - DOMAIN-SUFFIX,aiclaude.jp
   - DOMAIN-SUFFIX,aidata.io
   - DOMAIN-SUFFIX,aidbp.ca
   - DOMAIN-SUFFIX,aideaiwofukameteikuyo.xyz
@@ -13300,6 +13300,7 @@ payload:
   - DOMAIN-SUFFIX,cateringquakeunfortunately.com
   - DOMAIN-SUFFIX,catfun.tv
   - DOMAIN-SUFFIX,cathedraldentalclinic.com
+  - DOMAIN-SUFFIX,cathedralofpraiseag.com
   - DOMAIN-SUFFIX,catherinebrochure.com
   - DOMAIN-SUFFIX,ze.cathinunquit.com
   - DOMAIN-SUFFIX,catholiccommandment.com
@@ -19579,6 +19580,7 @@ payload:
   - DOMAIN-SUFFIX,eclnqdlbtgokj.site
   - DOMAIN-SUFFIX,eclvgswxvthwx.space
   - DOMAIN-SUFFIX,ecoedgeinnovations.xyz
+  - DOMAIN-SUFFIX,ecomicrolab.com
   - DOMAIN-SUFFIX,ecommercecall.com
   - DOMAIN-SUFFIX,economicalathlete.com
   - DOMAIN-SUFFIX,economicaldashcentral.com
@@ -23754,7 +23756,6 @@ payload:
   - DOMAIN-SUFFIX,gdmconvtrck.com
   - DOMAIN-SUFFIX,gdmgsecure.com
   - DOMAIN-SUFFIX,gdonqrdtzhvfq.space
-  - DOMAIN-SUFFIX,gdrttf.com
   - DOMAIN-SUFFIX,gdtrbrsyziwmw.website
   - DOMAIN-SUFFIX,gdxt10.cn
   - DOMAIN-SUFFIX,gearbootflask.com
@@ -43214,6 +43215,8 @@ payload:
   - DOMAIN-SUFFIX,royalvictorianweddings.com
   - DOMAIN-SUFFIX,hm.rozumnarcose.com
   - DOMAIN-SUFFIX,rpbielpssuigs.space
+  - DOMAIN-SUFFIX,rpcs4.com
+  - DOMAIN-SUFFIX,rpcs5.com
   - DOMAIN-SUFFIX,rpeqmzqgutuxv.online
   - DOMAIN-SUFFIX,rpjahb.icu
   - DOMAIN-SUFFIX,rpobkzwuqmqqq.store
