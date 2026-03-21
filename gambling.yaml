@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Mar 2026 10:46 UTC
-# Version: 2026.0320.1046.55
+# Last modified: 20 Mar 2026 16:02 UTC
+# Version: 2026.0320.1602.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 203145
+# Number of entries: 203143
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -115245,7 +115245,6 @@ payload:
   - DOMAIN-SUFFIX,fastpayoutcasinos.hu.net
   - DOMAIN-SUFFIX,nieuweonlinecasino.hu.net
   - DOMAIN-SUFFIX,nieuweonlinecasinos.hu.net
-  - DOMAIN-SUFFIX,no-kyc-casinos.hu.net
   - DOMAIN-SUFFIX,nokyccryptocasino.hu.net
   - DOMAIN-SUFFIX,robocat-casino.hu.net
   - DOMAIN-SUFFIX,schweizercasino.hu.net
@@ -132886,7 +132885,6 @@ payload:
   - DOMAIN-SUFFIX,life-kentcasino.com
   - DOMAIN-SUFFIX,lifeandbraincasino.de
   - DOMAIN-SUFFIX,lifecasino.club
-  - DOMAIN-SUFFIX,lifelessonsforlittleones.com
   - DOMAIN-SUFFIX,lifemirror.net
   - DOMAIN-SUFFIX,lifepokerstore.com
   - DOMAIN-SUFFIX,lifestylefitnessbd.com
