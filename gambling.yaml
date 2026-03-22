@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Mar 2026 10:48 UTC
-# Version: 2026.0321.1048.03
+# Last modified: 21 Mar 2026 22:51 UTC
+# Version: 2026.0321.2251.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 199793
+# Number of entries: 199791
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -72606,6 +72606,7 @@ payload:
   - DOMAIN-SUFFIX,cartoonfile.net
   - DOMAIN-SUFFIX,carvalhopg.com
   - DOMAIN-SUFFIX,cas.casino
+  - DOMAIN-SUFFIX,cas-uk.com
   - DOMAIN-SUFFIX,cas0mbie-7391.com
   - DOMAIN-SUFFIX,cas0mbie-9835.com
   - DOMAIN-SUFFIX,cas2bet.com
@@ -105543,7 +105544,6 @@ payload:
   - DOMAIN-SUFFIX,gameroc.com
   - DOMAIN-SUFFIX,gamersbets.com
   - DOMAIN-SUFFIX,gamerscasino.info
-  - DOMAIN-SUFFIX,games-1xbet-casino.ru
   - DOMAIN-SUFFIX,games-casino-vavada-1.cfd
   - DOMAIN-SUFFIX,games-casino95.win
   - DOMAIN-SUFFIX,games-casinoz.site
@@ -116759,7 +116759,6 @@ payload:
   - DOMAIN-SUFFIX,pin-up-casino.info.tr
   - DOMAIN-SUFFIX,yep-casino.info.pl
   - DOMAIN-SUFFIX,info-1win-poker.ru
-  - DOMAIN-SUFFIX,info-1xbet-casino.ru
   - DOMAIN-SUFFIX,info-casino.online
   - DOMAIN-SUFFIX,info-casino-bn.com
   - DOMAIN-SUFFIX,info-ls168.com
@@ -181630,7 +181629,6 @@ payload:
   - DOMAIN-SUFFIX,twinwinslots.ca
   - DOMAIN-SUFFIX,twistcasino.com
   - DOMAIN-SUFFIX,twistcasino.net
-  - DOMAIN-SUFFIX,twistedbulb.com
   - DOMAIN-SUFFIX,twistedpoker.com
   - DOMAIN-SUFFIX,twisterwins777.co
   - DOMAIN-SUFFIX,twistst.xyz
