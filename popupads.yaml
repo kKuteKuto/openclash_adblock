@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 09:37 UTC
-# Version: 2026.0327.0937.03
+# Last modified: 27 Mar 2026 15:55 UTC
+# Version: 2026.0327.1555.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 53290
+# Number of entries: 53285
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -46750,20 +46750,14 @@ payload:
   - DOMAIN-SUFFIX,ads.tmdlead.com
   - DOMAIN-SUFFIX,tmdqlk.top
   - DOMAIN-SUFFIX,aomenxinpujing.baijiale.tmdss.com
-  - DOMAIN-SUFFIX,aomenwangshangduchangwangzhi.bocaiwang.tmdss.com
-  - DOMAIN-SUFFIX,hongzuyishi.bocaiwang.tmdss.com
-  - DOMAIN-SUFFIX,huangmazhiboba.bocaiwang.tmdss.com
-  - DOMAIN-SUFFIX,mengtekaluoyulewang.bocaiwang.tmdss.com
-  - DOMAIN-SUFFIX,tianduguojiyulehuisuo.bocaiwang.tmdss.com
+  - DOMAIN-SUFFIX,bocaiwang.tmdss.com
   - DOMAIN-SUFFIX,dubowangyeyouxi.tmdss.com
   - DOMAIN-SUFFIX,duboyouxijipojiefangfa.tmdss.com
   - DOMAIN-SUFFIX,feilvbintaiyangcheng77suncjty.tmdss.com
   - DOMAIN-SUFFIX,jishibifenwang.tmdss.com
   - DOMAIN-SUFFIX,liboguojiyule.tmdss.com
   - DOMAIN-SUFFIX,ligaoyulecheng.tmdss.com
-  - DOMAIN-SUFFIX,boebaiyulecheng.yulecheng.tmdss.com
-  - DOMAIN-SUFFIX,huangguanzhengwangyounajige.yulecheng.tmdss.com
-  - DOMAIN-SUFFIX,huanqiuyulecheng.yulecheng.tmdss.com
+  - DOMAIN-SUFFIX,yulecheng.tmdss.com
   - DOMAIN-SUFFIX,tmfjas.com
   - DOMAIN-SUFFIX,tmfngnuqxzpux.online
   - DOMAIN-SUFFIX,tmll1.com
@@ -51248,6 +51242,7 @@ payload:
   - DOMAIN-SUFFIX,qb.worsencabaan.com
   - DOMAIN-SUFFIX,worshippers.store
   - DOMAIN-SUFFIX,worst-message.pro
+  - DOMAIN-SUFFIX,worst-parent.pro
   - DOMAIN-SUFFIX,worst-recognition.pro
   - DOMAIN-SUFFIX,worstbreath.pro
   - DOMAIN-SUFFIX,worstvoice.com
