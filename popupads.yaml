@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Mar 2026 08:35 UTC
-# Version: 2026.0329.0835.50
+# Last modified: 31 Mar 2026 08:36 UTC
+# Version: 2026.0331.0836.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 53292
+# Number of entries: 53306
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -7844,6 +7844,7 @@ payload:
   - DOMAIN-SUFFIX,amazingblackened.com
   - DOMAIN-SUFFIX,amazingchang.com
   - DOMAIN-SUFFIX,amazinglyperception.com
+  - DOMAIN-SUFFIX,amazingmeaning.com
   - DOMAIN-SUFFIX,mads-fe.amazon.com
   - DOMAIN-SUFFIX,amazon-cornerstone.com
   - DOMAIN-SUFFIX,amazon8898.com
@@ -8457,6 +8458,7 @@ payload:
   - DOMAIN-SUFFIX,apprupt.com
   - DOMAIN-SUFFIX,apps-analytics.net
   - DOMAIN-SUFFIX,apps-okx.com
+  - DOMAIN-SUFFIX,apps-sougoupinyin.com
   - DOMAIN-SUFFIX,appslime.com
   - DOMAIN-SUFFIX,bizerba-dot-azure-projectfiles.uk.r.appspot.com
   - DOMAIN-SUFFIX,chargerlogistics-dot-exceldocsverification.uk.r.appspot.com
@@ -12629,6 +12631,7 @@ payload:
   - DOMAIN-SUFFIX,eu.can-get-some.com
   - DOMAIN-SUFFIX,can2025.click
   - DOMAIN-SUFFIX,canadairelandfund.com
+  - DOMAIN-SUFFIX,canadamilksettlement.com
   - DOMAIN-SUFFIX,canadasultimatechallengecasting.com
   - DOMAIN-SUFFIX,canadianglacierswater.ca
   - DOMAIN-SUFFIX,canalthinkcleaning.com
@@ -14523,6 +14526,7 @@ payload:
   - DOMAIN-SUFFIX,admatic.com.tr
   - DOMAIN-SUFFIX,adtarget.com.tr
   - DOMAIN-SUFFIX,www.aestheticdoctors.com.mx
+  - DOMAIN-SUFFIX,ai-sogou.com.cn
   - DOMAIN-SUFFIX,aimoda.com.cn
   - DOMAIN-SUFFIX,allywll.com.cn
   - DOMAIN-SUFFIX,andertonindustries.com.cn
@@ -14532,6 +14536,7 @@ payload:
   - DOMAIN-SUFFIX,forexxzx.blogspot.com.eg
   - DOMAIN-SUFFIX,boins.com.cn
   - DOMAIN-SUFFIX,boomcoffee.com.br
+  - DOMAIN-SUFFIX,bp-sogou.com.cn
   - DOMAIN-SUFFIX,bykj.com.cn
   - DOMAIN-SUFFIX,cdragon.com.cn
   - DOMAIN-SUFFIX,www.citygame.com.au
@@ -14559,7 +14564,6 @@ payload:
   - DOMAIN-SUFFIX,fzpress.com.cn
   - DOMAIN-SUFFIX,gacyl.com.cn
   - DOMAIN-SUFFIX,panel.gemius.com.ua
-  - DOMAIN-SUFFIX,survey.gemius.com.ua
   - DOMAIN-SUFFIX,gfjl.com.cn
   - DOMAIN-SUFFIX,www.goggin.com.br
   - DOMAIN-SUFFIX,www.golocalconctruction.com.au
@@ -14600,8 +14604,10 @@ payload:
   - DOMAIN-SUFFIX,njob.com.cn
   - DOMAIN-SUFFIX,nnfls.com.cn
   - DOMAIN-SUFFIX,panoeye.com.cn
+  - DOMAIN-SUFFIX,pc-sogou.com.cn
   - DOMAIN-SUFFIX,pian.com.cn
   - DOMAIN-SUFFIX,qingfa.com.cn
+  - DOMAIN-SUFFIX,qishmusic.com.cn
   - DOMAIN-SUFFIX,qufu.com.cn
   - DOMAIN-SUFFIX,ralliant.com.cn
   - DOMAIN-SUFFIX,recompensaszurichsantander.com.mx
@@ -14614,6 +14620,7 @@ payload:
   - DOMAIN-SUFFIX,sfjx.com.cn
   - DOMAIN-SUFFIX,shegotloud.com.au
   - DOMAIN-SUFFIX,shuanshu.com.com
+  - DOMAIN-SUFFIX,soougou.com.cn
   - DOMAIN-SUFFIX,arnonym.spotify.com.cn
   - DOMAIN-SUFFIX,cohorts.spotify.com.cn
   - DOMAIN-SUFFIX,mcwp.spotify.com.cn
@@ -18961,6 +18968,7 @@ payload:
   - DOMAIN-SUFFIX,eclnqdlbtgokj.site
   - DOMAIN-SUFFIX,eclvgswxvthwx.space
   - DOMAIN-SUFFIX,ecoedgeinnovations.xyz
+  - DOMAIN-SUFFIX,ecomicrolab.com
   - DOMAIN-SUFFIX,ecommercecall.com
   - DOMAIN-SUFFIX,economicalathlete.com
   - DOMAIN-SUFFIX,economicaldashcentral.com
@@ -43980,6 +43988,7 @@ payload:
   - DOMAIN-SUFFIX,sogetcoupes.com
   - DOMAIN-SUFFIX,soggy-surround.com
   - DOMAIN-SUFFIX,sognoansofou.net
+  - DOMAIN-SUFFIX,sogoushurf.com
   - DOMAIN-SUFFIX,sogropidy.com
   - DOMAIN-SUFFIX,soha.jp
   - DOMAIN-SUFFIX,soholfit.com
@@ -45402,6 +45411,7 @@ payload:
   - DOMAIN-SUFFIX,suspendsymptom.com
   - DOMAIN-SUFFIX,suspensionpersonwand.com
   - DOMAIN-SUFFIX,suspicionshutnutshell.com
+  - DOMAIN-SUFFIX,suspicious-scheme.com
   - DOMAIN-SUFFIX,nx.suspiregaud.top
   - DOMAIN-SUFFIX,sustac.com
   - DOMAIN-SUFFIX,sustainnotableworld.com
@@ -47265,6 +47275,7 @@ payload:
   - DOMAIN-SUFFIX,go1.trakit26.com
   - DOMAIN-SUFFIX,go1.trakit27.com
   - DOMAIN-SUFFIX,go1.trakit28.com
+  - DOMAIN-SUFFIX,go1.trakit29.com
   - DOMAIN-SUFFIX,go1.trakit30.com
   - DOMAIN-SUFFIX,traktortds.com
   - DOMAIN-SUFFIX,traktrafficflow.com
@@ -48634,6 +48645,7 @@ payload:
   - DOMAIN-SUFFIX,upbeatdualyahoo.com
   - DOMAIN-SUFFIX,upbindsswythe.com
   - DOMAIN-SUFFIX,upcascoonr.com
+  - DOMAIN-SUFFIX,upcomingperusehike.com
   - DOMAIN-SUFFIX,upcommunity.click
   - DOMAIN-SUFFIX,updaight.com
   - DOMAIN-SUFFIX,update-check.com
@@ -50837,6 +50849,7 @@ payload:
   - DOMAIN-SUFFIX,wiltiqkc.com
   - DOMAIN-SUFFIX,wimproamjail.com
   - DOMAIN-SUFFIX,wimxvpcbsfhyz.store
+  - DOMAIN-SUFFIX,win-sogou.com
   - DOMAIN-SUFFIX,win32diskimager.org
   - DOMAIN-SUFFIX,llmmad.win4chance.com
   - DOMAIN-SUFFIX,xbqqzj.win4chance.com
@@ -51526,6 +51539,7 @@ payload:
   - DOMAIN-SUFFIX,x-cafevn.org
   - DOMAIN-SUFFIX,x-compass.com
   - DOMAIN-SUFFIX,x-flirt.co
+  - DOMAIN-SUFFIX,x-sogou.com
   - DOMAIN-SUFFIX,x-ssp.com
   - DOMAIN-SUFFIX,x011bt.com
   - DOMAIN-SUFFIX,x1playgame.com
