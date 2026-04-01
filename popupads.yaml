@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 31 Mar 2026 08:36 UTC
-# Version: 2026.0331.0836.45
+# Last modified: 31 Mar 2026 14:37 UTC
+# Version: 2026.0331.1437.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 53306
+# Number of entries: 53307
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -13376,6 +13376,7 @@ payload:
   - DOMAIN-SUFFIX,cheap-jewelry-online.com
   - DOMAIN-SUFFIX,cheap-promise.pro
   - DOMAIN-SUFFIX,cheapenleaving.com
+  - DOMAIN-SUFFIX,cheaplyhumiliatedhunt.com
   - DOMAIN-SUFFIX,um.cheaplytropins.com
   - DOMAIN-SUFFIX,cheapmachinerywail.com
   - DOMAIN-SUFFIX,cheapseospytools.com
