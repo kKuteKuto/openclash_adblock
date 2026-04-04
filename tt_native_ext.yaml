@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Mar 2026 16:12 UTC
-# Version: 2026.0327.1612.54
+# Last modified: 03 Apr 2026 17:02 UTC
+# Version: 2026.0403.1702.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 531
+# Number of entries: 538
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -245,6 +245,7 @@ payload:
   - DOMAIN-SUFFIX,location-v6-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,location-v6-va.tiktokv.com
   - DOMAIN-SUFFIX,location-va.tiktokv.com
+  - DOMAIN-SUFFIX,location16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,locationv16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,log.tiktokv.com
   - DOMAIN-SUFFIX,log.tiktokv.us
@@ -293,8 +294,10 @@ payload:
   - DOMAIN-SUFFIX,log3-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log31-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,log31-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,log31-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,log32-normal.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal-no1a.tiktokv.eu
@@ -357,10 +360,14 @@ payload:
   - DOMAIN-SUFFIX,mon22-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon31-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,mon31-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,mon31-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,mon32-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon32-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon32-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,mon32-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,mon32-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,monbk.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-boot.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-i18n.tiktokv.com
