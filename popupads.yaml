@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Apr 2026 09:38 UTC
-# Version: 2026.0415.0938.02
+# Last modified: 15 Apr 2026 16:46 UTC
+# Version: 2026.0415.1646.10
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54093
+# Number of entries: 54055
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -38,7 +38,6 @@ payload:
   - DOMAIN-SUFFIX,0-9.net
   - DOMAIN-SUFFIX,0-architecture.com
   - DOMAIN-SUFFIX,0-btc.com
-  - DOMAIN-SUFFIX,0-chameleon-0.com
   - DOMAIN-SUFFIX,0-downpayment.com
   - DOMAIN-SUFFIX,0-emission.com
   - DOMAIN-SUFFIX,0-emissions.com
@@ -295,7 +294,6 @@ payload:
   - DOMAIN-SUFFIX,007mh.com
   - DOMAIN-SUFFIX,007mission.com
   - DOMAIN-SUFFIX,007nft.com
-  - DOMAIN-SUFFIX,007paintballguns.com
   - DOMAIN-SUFFIX,007pay.com
   - DOMAIN-SUFFIX,007phone.com
   - DOMAIN-SUFFIX,007roms.com
@@ -484,7 +482,6 @@ payload:
   - DOMAIN-SUFFIX,0146.org
   - DOMAIN-SUFFIX,01484.com
   - DOMAIN-SUFFIX,0149.org
-  - DOMAIN-SUFFIX,014p.com
   - DOMAIN-SUFFIX,015150.com
   - DOMAIN-SUFFIX,01562.net
   - DOMAIN-SUFFIX,01578.com
@@ -1428,7 +1425,6 @@ payload:
   - DOMAIN-SUFFIX,0nthemarket.com
   - DOMAIN-SUFFIX,0o2.net
   - DOMAIN-SUFFIX,0o5y.com
-  - DOMAIN-SUFFIX,0penmypremiercard.net
   - DOMAIN-SUFFIX,0pig.com
   - DOMAIN-SUFFIX,0porno.name
   - DOMAIN-SUFFIX,0ptique.com
@@ -2249,7 +2245,6 @@ payload:
   - DOMAIN-SUFFIX,113bx.com
   - DOMAIN-SUFFIX,113d.net
   - DOMAIN-SUFFIX,113hackgame.com
-  - DOMAIN-SUFFIX,113movies.com
   - DOMAIN-SUFFIX,113n.net
   - DOMAIN-SUFFIX,113washington.com
   - DOMAIN-SUFFIX,113ys.com
@@ -2312,7 +2307,6 @@ payload:
   - DOMAIN-SUFFIX,119h.net
   - DOMAIN-SUFFIX,119t.net
   - DOMAIN-SUFFIX,11aa0.com
-  - DOMAIN-SUFFIX,11acemovies.site
   - DOMAIN-SUFFIX,11adcss.com
   - DOMAIN-SUFFIX,11akay.com
   - DOMAIN-SUFFIX,11b11t.org
@@ -2337,7 +2331,6 @@ payload:
   - DOMAIN-SUFFIX,11hilo.org
   - DOMAIN-SUFFIX,11holding.com
   - DOMAIN-SUFFIX,11informationenor.com
-  - DOMAIN-SUFFIX,11moe.com
   - DOMAIN-SUFFIX,11nick.com
   - DOMAIN-SUFFIX,11photography.com
   - DOMAIN-SUFFIX,11pointsmeals.com
@@ -2423,7 +2416,6 @@ payload:
   - DOMAIN-SUFFIX,123123movies.net
   - DOMAIN-SUFFIX,12315tt.com
   - DOMAIN-SUFFIX,12316ccr.com
-  - DOMAIN-SUFFIX,12316psu.com
   - DOMAIN-SUFFIX,12316vdd.com
   - DOMAIN-SUFFIX,12316xsw.com
   - DOMAIN-SUFFIX,1232aa.com
@@ -2524,7 +2516,6 @@ payload:
   - DOMAIN-SUFFIX,123kupi.net
   - DOMAIN-SUFFIX,123lagu.org
   - DOMAIN-SUFFIX,123latex4free.com
-  - DOMAIN-SUFFIX,123lendingcorp.com
   - DOMAIN-SUFFIX,123linsen.de
   - DOMAIN-SUFFIX,123logmein.com
   - DOMAIN-SUFFIX,123marketingtips.com
@@ -2758,7 +2749,6 @@ payload:
   - DOMAIN-SUFFIX,12voltguy.net
   - DOMAIN-SUFFIX,12voltsmagazine.com
   - DOMAIN-SUFFIX,12wo.com
-  - DOMAIN-SUFFIX,12x18popdisplays.com
   - DOMAIN-SUFFIX,12x30.net
   - DOMAIN-SUFFIX,12xelagua.org
   - DOMAIN-SUFFIX,13000towed.com
@@ -3028,7 +3018,6 @@ payload:
   - DOMAIN-SUFFIX,15cm.xyz
   - DOMAIN-SUFFIX,15dgbyg.com
   - DOMAIN-SUFFIX,15doc.com
-  - DOMAIN-SUFFIX,15domains.com
   - DOMAIN-SUFFIX,15eflac.org
   - DOMAIN-SUFFIX,15emit.net
   - DOMAIN-SUFFIX,15gga.com
@@ -3165,7 +3154,6 @@ payload:
   - DOMAIN-SUFFIX,1782group.com
   - DOMAIN-SUFFIX,178st.com
   - DOMAIN-SUFFIX,179832.com
-  - DOMAIN-SUFFIX,179jd.com
   - DOMAIN-SUFFIX,17aa.net
   - DOMAIN-SUFFIX,17ayw.com
   - DOMAIN-SUFFIX,17bdb.com
@@ -3568,7 +3556,6 @@ payload:
   - DOMAIN-SUFFIX,1o1birekstrax1.click
   - DOMAIN-SUFFIX,1odi7j43c.de
   - DOMAIN-SUFFIX,1p8ln1dtr.de
-  - DOMAIN-SUFFIX,1parkplace.org
   - DOMAIN-SUFFIX,1payer.net
   - DOMAIN-SUFFIX,1phads.com
   - DOMAIN-SUFFIX,1piece.online
@@ -3755,7 +3742,6 @@ payload:
   - DOMAIN-SUFFIX,21sexturycash.com
   - DOMAIN-SUFFIX,21stcenturyfluency.com
   - DOMAIN-SUFFIX,21streetwear.com
-  - DOMAIN-SUFFIX,21wevan.com
   - DOMAIN-SUFFIX,21wiz.com
   - DOMAIN-SUFFIX,22-plaisir.com
   - DOMAIN-SUFFIX,220qp.com
@@ -3815,7 +3801,6 @@ payload:
   - DOMAIN-SUFFIX,24-timepass.com
   - DOMAIN-SUFFIX,24403.com
   - DOMAIN-SUFFIX,2441march2024.com
-  - DOMAIN-SUFFIX,2443march2024.com
   - DOMAIN-SUFFIX,2445march2024.com
   - DOMAIN-SUFFIX,2449march2024.com
   - DOMAIN-SUFFIX,244kecmb3.de
@@ -21566,18 +21551,7 @@ payload:
   - DOMAIN-SUFFIX,flixtrial.com
   - DOMAIN-SUFFIX,fllilr.icu
   - DOMAIN-SUFFIX,krqkk.fllirtconnects.com
-  - DOMAIN-SUFFIX,anjxjo.flndboy.net
-  - DOMAIN-SUFFIX,jnlwgq.flndboy.net
-  - DOMAIN-SUFFIX,kekvlg.flndboy.net
-  - DOMAIN-SUFFIX,keoarr.flndboy.net
-  - DOMAIN-SUFFIX,olvma.flndboy.net
-  - DOMAIN-SUFFIX,qgerjk.flndboy.net
-  - DOMAIN-SUFFIX,rnozdd.flndboy.net
-  - DOMAIN-SUFFIX,rnwnle.flndboy.net
-  - DOMAIN-SUFFIX,wanmow.flndboy.net
-  - DOMAIN-SUFFIX,wjkda.flndboy.net
-  - DOMAIN-SUFFIX,zowman.flndboy.net
-  - DOMAIN-SUFFIX,zozlal.flndboy.net
+  - DOMAIN-SUFFIX,flndboy.net
   - DOMAIN-SUFFIX,nrjbow.flndiove.net
   - DOMAIN-SUFFIX,flndmyman.com
   - DOMAIN-SUFFIX,float-next.com
@@ -25556,21 +25530,7 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-  - DOMAIN-SUFFIX,app-google-zh.hl.cn
-  - DOMAIN-SUFFIX,apps-chrome-zh.hl.cn
-  - DOMAIN-SUFFIX,apps-google-hl.hl.cn
-  - DOMAIN-SUFFIX,chrome-gooogle-zh.hl.cn
-  - DOMAIN-SUFFIX,chrome-hl.hl.cn
-  - DOMAIN-SUFFIX,cnzh-google-apps.hl.cn
-  - DOMAIN-SUFFIX,go-todesk.hl.cn
-  - DOMAIN-SUFFIX,googgle-chrrome.hl.cn
-  - DOMAIN-SUFFIX,google-chrrome-zh.hl.cn
-  - DOMAIN-SUFFIX,office-wps-hl.hl.cn
-  - DOMAIN-SUFFIX,qishui-yinle.hl.cn
-  - DOMAIN-SUFFIX,qishui-zn.hl.cn
-  - DOMAIN-SUFFIX,todesk-zh.hl.cn
-  - DOMAIN-SUFFIX,zh-googlle-chrome.hl.cn
-  - DOMAIN-SUFFIX,zhcn-googele.hl.cn
+  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -27311,6 +27271,7 @@ payload:
   - DOMAIN-SUFFIX,insouloxymel.com
   - DOMAIN-SUFFIX,inspannondeaf.shop
   - DOMAIN-SUFFIX,inspectioninstantly.com
+  - DOMAIN-SUFFIX,inspectionrefutation.com
   - DOMAIN-SUFFIX,inspectorstrongerpill.com
   - DOMAIN-SUFFIX,llozqb.inspiiredreams.com
   - DOMAIN-SUFFIX,inspirationhistorical.com
@@ -45252,6 +45213,7 @@ payload:
   - DOMAIN-SUFFIX,starrylightlake.com
   - DOMAIN-SUFFIX,starrylook.com
   - DOMAIN-SUFFIX,starryprogress.pro
+  - DOMAIN-SUFFIX,starsallowyear.com
   - DOMAIN-SUFFIX,qw.starsgallops.com
   - DOMAIN-SUFFIX,starspoker222.com
   - DOMAIN-SUFFIX,starswalker.site
