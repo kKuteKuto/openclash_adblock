@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Apr 2026 09:08 UTC
-# Version: 2026.0420.0908.15
+# Last modified: 20 Apr 2026 14:53 UTC
+# Version: 2026.0420.1453.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 203177
+# Number of entries: 203175
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -116186,7 +116186,6 @@ payload:
   - DOMAIN-SUFFIX,hg1323.com
   - DOMAIN-SUFFIX,hg13556.com
   - DOMAIN-SUFFIX,hg13678.com
-  - DOMAIN-SUFFIX,hg13888.com
   - DOMAIN-SUFFIX,hg1525.com
   - DOMAIN-SUFFIX,hg158.com
   - DOMAIN-SUFFIX,hg1585.com
@@ -201749,7 +201748,6 @@ payload:
   - DOMAIN-SUFFIX,yyybet3.com
   - DOMAIN-SUFFIX,yyybetsk.com
   - DOMAIN-SUFFIX,yyyboi.bet
-  - DOMAIN-SUFFIX,yyycaasinouae.com
   - DOMAIN-SUFFIX,yyycasino.online
   - DOMAIN-SUFFIX,yyycasino.top
   - DOMAIN-SUFFIX,yyycasino-eg.com
