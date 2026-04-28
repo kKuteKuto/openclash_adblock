@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Apr 2026 07:35 UTC
-# Version: 2026.0427.0735.48
+# Last modified: 27 Apr 2026 16:47 UTC
+# Version: 2026.0427.1647.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 52002
+# Number of entries: 52003
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -13785,6 +13785,7 @@ payload:
   - DOMAIN-SUFFIX,cmzdm.com
   - DOMAIN-SUFFIX,dynamic.163data.com.cn.tv
   - DOMAIN-SUFFIX,everpharmanet.cn.tv
+  - DOMAIN-SUFFIX,tudthrone.cn.com
   - DOMAIN-SUFFIX,cn-idm.com
   - DOMAIN-SUFFIX,cn2f.cn
   - DOMAIN-SUFFIX,cn846.com
@@ -18460,6 +18461,7 @@ payload:
   - DOMAIN-SUFFIX,eclnqdlbtgokj.site
   - DOMAIN-SUFFIX,eclvgswxvthwx.space
   - DOMAIN-SUFFIX,ecoedgeinnovations.xyz
+  - DOMAIN-SUFFIX,ecomicrolab.com
   - DOMAIN-SUFFIX,ecommercecall.com
   - DOMAIN-SUFFIX,economicalathlete.com
   - DOMAIN-SUFFIX,economicaldashcentral.com
@@ -47557,7 +47559,6 @@ payload:
   - DOMAIN-SUFFIX,urtirepor.com
   - DOMAIN-SUFFIX,urtyert.com
   - DOMAIN-SUFFIX,urwvphdnwhdzl.site
-  - DOMAIN-SUFFIX,checkedtakemyclassonline.us.com
   - DOMAIN-SUFFIX,us-aliexpress.com
   - DOMAIN-SUFFIX,us0704.com
   - DOMAIN-SUFFIX,us2date.net
