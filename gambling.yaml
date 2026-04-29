@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Apr 2026 09:09 UTC
-# Version: 2026.0428.0909.11
+# Last modified: 28 Apr 2026 16:55 UTC
+# Version: 2026.0428.1655.45
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 207796
+# Number of entries: 207799
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -58407,7 +58407,6 @@ payload:
   - DOMAIN-SUFFIX,asianext.net
   - DOMAIN-SUFFIX,asiankitchentpa.com
   - DOMAIN-SUFFIX,asianstar.ph
-  - DOMAIN-SUFFIX,asianwin.lat
   - DOMAIN-SUFFIX,asiapacific-lotteries.com
   - DOMAIN-SUFFIX,asiapoker777.com
   - DOMAIN-SUFFIX,asiapokeronline.com
@@ -59768,10 +59767,16 @@ payload:
   - DOMAIN-SUFFIX,absolutebriopainting.b-cdn.net
   - DOMAIN-SUFFIX,aimautotinting.b-cdn.net
   - DOMAIN-SUFFIX,chance.b-cdn.net
+  - DOMAIN-SUFFIX,izin-kink.b-cdn.net
   - DOMAIN-SUFFIX,macao777.b-cdn.net
   - DOMAIN-SUFFIX,manajercity-noy10.b-cdn.net
+  - DOMAIN-SUFFIX,pasarslot.b-cdn.net
   - DOMAIN-SUFFIX,rgv-employmentlawyer.b-cdn.net
+  - DOMAIN-SUFFIX,rtpkayabet99-0.b-cdn.net
   - DOMAIN-SUFFIX,rtpslotpoker3.b-cdn.net
+  - DOMAIN-SUFFIX,situs-slot.b-cdn.net
+  - DOMAIN-SUFFIX,slot88-rank1.b-cdn.net
+  - DOMAIN-SUFFIX,stay-humble-eh.b-cdn.net
   - DOMAIN-SUFFIX,b-s303.site
   - DOMAIN-SUFFIX,b0255.com
   - DOMAIN-SUFFIX,b02wt3i2y.com
@@ -161946,7 +161951,6 @@ payload:
   - DOMAIN-SUFFIX,playbytr.com
   - DOMAIN-SUFFIX,playcanadiancasinos.com
   - DOMAIN-SUFFIX,playcasino.ca
-  - DOMAIN-SUFFIX,playcasino.cash
   - DOMAIN-SUFFIX,playcasino.cc
   - DOMAIN-SUFFIX,playcasino.com
   - DOMAIN-SUFFIX,playcasino.cyou
@@ -185327,7 +185331,6 @@ payload:
   - DOMAIN-SUFFIX,tigerexch2027.casino
   - DOMAIN-SUFFIX,tigerexch2028.casino
   - DOMAIN-SUFFIX,tigergaming.com
-  - DOMAIN-SUFFIX,tigerhoki.net
   - DOMAIN-SUFFIX,tigerslots.net
   - DOMAIN-SUFFIX,tigerspin.de
   - DOMAIN-SUFFIX,tigersportsbets.com
