@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 06 May 2026 16:47 UTC
-# Version: 2026.0506.1647.25
+# Last modified: 07 May 2026 16:49 UTC
+# Version: 2026.0507.1649.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 51313
+# Number of entries: 51357
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -13961,6 +13961,7 @@ payload:
   - DOMAIN-SUFFIX,91xueli.com.cn
   - DOMAIN-SUFFIX,9221.com.cn
   - DOMAIN-SUFFIX,a-todesk.com.cn
+  - DOMAIN-SUFFIX,aaa-youdao.com.cn
   - DOMAIN-SUFFIX,abtiedu.com.au
   - DOMAIN-SUFFIX,ad4.com.cn
   - DOMAIN-SUFFIX,admatic.com.tr
@@ -13970,6 +13971,7 @@ payload:
   - DOMAIN-SUFFIX,allywll.com.cn
   - DOMAIN-SUFFIX,andertonindustries.com.cn
   - DOMAIN-SUFFIX,apd-todesk.com.cn
+  - DOMAIN-SUFFIX,app-dingding.com.cn
   - DOMAIN-SUFFIX,artistrylab.com.cn
   - DOMAIN-SUFFIX,as-i4.com.cn
   - DOMAIN-SUFFIX,australissystems.com.au
@@ -13989,15 +13991,19 @@ payload:
   - DOMAIN-SUFFIX,www.cyberfortradies.com.au
   - DOMAIN-SUFFIX,da-bank.com.co
   - DOMAIN-SUFFIX,datanine.com.cn
+  - DOMAIN-SUFFIX,de-todesk.com.cn
   - DOMAIN-SUFFIX,destinychurchwa.com.au
   - DOMAIN-SUFFIX,dgrj.com.cn
   - DOMAIN-SUFFIX,ck1.duanzipai.com.cn
   - DOMAIN-SUFFIX,dusk.com.tw
   - DOMAIN-SUFFIX,tr.dwjq.com.cn
   - DOMAIN-SUFFIX,ebayobjects.com.au
+  - DOMAIN-SUFFIX,ee-web-youdao.com.cn
   - DOMAIN-SUFFIX,faceb00k.com.vn
+  - DOMAIN-SUFFIX,fanxa-youdao.com.cn
   - DOMAIN-SUFFIX,www.fifthwall.com.au
   - DOMAIN-SUFFIX,fire3.com.cn
+  - DOMAIN-SUFFIX,firefox-zh.com.cn
   - DOMAIN-SUFFIX,foxea.com.cn
   - DOMAIN-SUFFIX,foyue.com.cn
   - DOMAIN-SUFFIX,fsxc.com.cn
@@ -14007,6 +14013,7 @@ payload:
   - DOMAIN-SUFFIX,panel.gemius.com.ua
   - DOMAIN-SUFFIX,gfjl.com.cn
   - DOMAIN-SUFFIX,ggooglle-chrrome.com.cn
+  - DOMAIN-SUFFIX,go-youdao.com.cn
   - DOMAIN-SUFFIX,www.golocalconctruction.com.au
   - DOMAIN-SUFFIX,google-ch-chrome.com.cn
   - DOMAIN-SUFFIX,google-zhcn-chrome.com.cn
@@ -14017,7 +14024,10 @@ payload:
   - DOMAIN-SUFFIX,www.helmhorizon.com.au
   - DOMAIN-SUFFIX,hergunavantaj.com.tr
   - DOMAIN-SUFFIX,500wanjishibifen.hfqx.com.cn
+  - DOMAIN-SUFFIX,hj-wps.com.cn
   - DOMAIN-SUFFIX,hotelscombined.com.au
+  - DOMAIN-SUFFIX,hq-wps.com.cn
+  - DOMAIN-SUFFIX,hv-youdao.com.cn
   - DOMAIN-SUFFIX,dan.ibridge.com.cn
   - DOMAIN-SUFFIX,implarededeensino.com.br
   - DOMAIN-SUFFIX,sacolamobile.influenciadormagalu.com.br
@@ -14025,21 +14035,28 @@ payload:
   - DOMAIN-SUFFIX,jinjiacai.com.cn
   - DOMAIN-SUFFIX,jmch.com.cn
   - DOMAIN-SUFFIX,jrhp.com.cn
+  - DOMAIN-SUFFIX,kb-wps.com.cn
   - DOMAIN-SUFFIX,klzj.com.cn
+  - DOMAIN-SUFFIX,ks-wps.com.cn
   - DOMAIN-SUFFIX,ladbrokesaffiliates.com.au
   - DOMAIN-SUFFIX,langjiewei.com.cn
   - DOMAIN-SUFFIX,legoeducation.com.cn
   - DOMAIN-SUFFIX,letsign.com.cn
+  - DOMAIN-SUFFIX,lineapps.com.cn
   - DOMAIN-SUFFIX,linjiang.com.cn
   - DOMAIN-SUFFIX,livi.com.cn
+  - DOMAIN-SUFFIX,lline.com.cn
   - DOMAIN-SUFFIX,llmhub.com.br
   - DOMAIN-SUFFIX,localonline.com.cn
   - DOMAIN-SUFFIX,luxbetaffiliates.com.au
   - DOMAIN-SUFFIX,m-facebookk.com.vn
+  - DOMAIN-SUFFIX,m-todesk.com.cn
   - DOMAIN-SUFFIX,maguan.com.cn
   - DOMAIN-SUFFIX,mariejo.com.cn
   - DOMAIN-SUFFIX,delivery.momentummedia.com.au
+  - DOMAIN-SUFFIX,mu-qishuimusic.com.cn
   - DOMAIN-SUFFIX,muk.com.cn
+  - DOMAIN-SUFFIX,n-todesk.com.cn
   - DOMAIN-SUFFIX,nbshute.com.cn
   - DOMAIN-SUFFIX,needhamco.com.cn
   - DOMAIN-SUFFIX,njob.com.cn
@@ -14047,8 +14064,10 @@ payload:
   - DOMAIN-SUFFIX,panoeye.com.cn
   - DOMAIN-SUFFIX,pc-todesk.com.cn
   - DOMAIN-SUFFIX,pian.com.cn
+  - DOMAIN-SUFFIX,po-todesk.com.cn
   - DOMAIN-SUFFIX,qingfa.com.cn
   - DOMAIN-SUFFIX,qishmusic.com.cn
+  - DOMAIN-SUFFIX,qishuiq.com.cn
   - DOMAIN-SUFFIX,qka.com.cn
   - DOMAIN-SUFFIX,qufu.com.cn
   - DOMAIN-SUFFIX,ralliant.com.cn
@@ -14071,6 +14090,7 @@ payload:
   - DOMAIN-SUFFIX,www.supportcoordinationassociation.com.au
   - DOMAIN-SUFFIX,taikhoanvps.com.vn
   - DOMAIN-SUFFIX,todeskappa.com.cn
+  - DOMAIN-SUFFIX,translate-youdao.com.cn
   - DOMAIN-SUFFIX,tranyasy.com.cn
   - DOMAIN-SUFFIX,vdbank.com.vn
   - DOMAIN-SUFFIX,vertiselevadores.com.br
@@ -14078,15 +14098,21 @@ payload:
   - DOMAIN-SUFFIX,vjp.com.cn
   - DOMAIN-SUFFIX,vww-facebook.com.vn
   - DOMAIN-SUFFIX,vzt.com.cn
+  - DOMAIN-SUFFIX,w-dingding.com.cn
+  - DOMAIN-SUFFIX,w-todesk.com.cn
   - DOMAIN-SUFFIX,wangping721.com.cn
   - DOMAIN-SUFFIX,wcsl.com.cn
+  - DOMAIN-SUFFIX,web-todesk.com.cn
   - DOMAIN-SUFFIX,tickets.website.com.se
+  - DOMAIN-SUFFIX,wk-wps.com.cn
   - DOMAIN-SUFFIX,www-facebooks.com.vn
   - DOMAIN-SUFFIX,www-qishiu.com.cn
   - DOMAIN-SUFFIX,wzlaw.com.cn
   - DOMAIN-SUFFIX,www.xzc.com.tw
   - DOMAIN-SUFFIX,yingjie.com.cn
+  - DOMAIN-SUFFIX,yu-qishui.com.cn
   - DOMAIN-SUFFIX,zggxkj.com.cn
+  - DOMAIN-SUFFIX,zhcn-chrome-chrome.com.cn
   - DOMAIN-SUFFIX,zlx.com.br
   - DOMAIN-SUFFIX,comalonger.com
   - DOMAIN-SUFFIX,ay.comalpanzer.top
@@ -19499,6 +19525,7 @@ payload:
   - DOMAIN-SUFFIX,exposepresentimentunfriendly.com
   - DOMAIN-SUFFIX,exposesunhang.com
   - DOMAIN-SUFFIX,exposeunspeakabledynamite.com
+  - DOMAIN-SUFFIX,exposureapartment.com
   - DOMAIN-SUFFIX,express-new.com
   - DOMAIN-SUFFIX,expressionistarts.com
   - DOMAIN-SUFFIX,expressiveclinksuperiority.com
@@ -23446,6 +23473,7 @@ payload:
   - DOMAIN-SUFFIX,gumseparately.com
   - DOMAIN-SUFFIX,gumvarycirculate.com
   - DOMAIN-SUFFIX,gunfirebouquetattending.com
+  - DOMAIN-SUFFIX,gunfireendorse.com
   - DOMAIN-SUFFIX,gunft.com
   - DOMAIN-SUFFIX,gunkyjossmnla.store
   - DOMAIN-SUFFIX,gunlortnzuzax.space
@@ -24491,15 +24519,24 @@ payload:
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
   - DOMAIN-SUFFIX,app-google-zh.hl.cn
   - DOMAIN-SUFFIX,apps-chrome-zh.hl.cn
+  - DOMAIN-SUFFIX,chrome-chrome-cn.hl.cn
+  - DOMAIN-SUFFIX,chrome-chrome-zh.hl.cn
   - DOMAIN-SUFFIX,chrome-gooogle-zh.hl.cn
   - DOMAIN-SUFFIX,chrome-hl.hl.cn
+  - DOMAIN-SUFFIX,cn-qishui-music-zh.hl.cn
   - DOMAIN-SUFFIX,cnzh-google-apps.hl.cn
   - DOMAIN-SUFFIX,go-todesk.hl.cn
   - DOMAIN-SUFFIX,googgle-chrrome.hl.cn
   - DOMAIN-SUFFIX,google-chrrome-zh.hl.cn
+  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+  - DOMAIN-SUFFIX,line-go.hl.cn
   - DOMAIN-SUFFIX,office-wps-hl.hl.cn
+  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+  - DOMAIN-SUFFIX,todesk-web.hl.cn
   - DOMAIN-SUFFIX,todesk-zh.hl.cn
+  - DOMAIN-SUFFIX,yd-fanyi.hl.cn
   - DOMAIN-SUFFIX,zh-googlle-chrome.hl.cn
+  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,zhcn-googele.hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
@@ -25062,6 +25099,7 @@ payload:
   - DOMAIN-SUFFIX,huntingtroll.com
   - DOMAIN-SUFFIX,huntnewest.com
   - DOMAIN-SUFFIX,huntoperate.com
+  - DOMAIN-SUFFIX,huoronggk.com
   - DOMAIN-SUFFIX,huosp.com
   - DOMAIN-SUFFIX,hupot.site
   - DOMAIN-SUFFIX,huprokupon.com
@@ -28467,7 +28505,6 @@ payload:
   - DOMAIN-SUFFIX,laihua.xyz
   - DOMAIN-SUFFIX,rd.laijiuye.com
   - DOMAIN-SUFFIX,laikaush.com
-  - DOMAIN-SUFFIX,laikeeboathaip.com
   - DOMAIN-SUFFIX,lailawahba.net
   - DOMAIN-SUFFIX,laim.tv
   - DOMAIN-SUFFIX,laimroll.ru
@@ -29164,6 +29201,7 @@ payload:
   - DOMAIN-SUFFIX,line-channel-info.com
   - DOMAIN-SUFFIX,line-e.com
   - DOMAIN-SUFFIX,line-special-information.com
+  - DOMAIN-SUFFIX,line163.com
   - DOMAIN-SUFFIX,lined-influence.com
   - DOMAIN-SUFFIX,linedloop.org
   - DOMAIN-SUFFIX,linemanphasing.top
@@ -29912,7 +29950,6 @@ payload:
   - DOMAIN-SUFFIX,luationiamcu.org
   - DOMAIN-SUFFIX,lubbardstrouds.com
   - DOMAIN-SUFFIX,lubovdlyatebya.ink
-  - DOMAIN-SUFFIX,lubowitz.biz
   - DOMAIN-SUFFIX,lubuchagle.com
   - DOMAIN-SUFFIX,lucasdonadelloadv.com
   - DOMAIN-SUFFIX,uf.lucencypatrist.com
@@ -30195,6 +30232,7 @@ payload:
   - DOMAIN-SUFFIX,test.mabnk.pl
   - DOMAIN-SUFFIX,mabtcaraqdho.com
   - DOMAIN-SUFFIX,ql.mabyermarsi.top
+  - DOMAIN-SUFFIX,mac-youdao.com
   - DOMAIN-SUFFIX,cn.macacusdame.com
   - DOMAIN-SUFFIX,macan-native.com
   - DOMAIN-SUFFIX,macaroniambiguity.com
@@ -30495,6 +30533,7 @@ payload:
   - DOMAIN-SUFFIX,manushafarms.xyz
   - DOMAIN-SUFFIX,manwaybawneen.com
   - DOMAIN-SUFFIX,manxajc.com
+  - DOMAIN-SUFFIX,manyapostle.com
   - DOMAIN-SUFFIX,manyielding.com
   - DOMAIN-SUFFIX,manzijf.com
   - DOMAIN-SUFFIX,maocsjbcjljog.online
@@ -32309,8 +32348,6 @@ payload:
   - DOMAIN-SUFFIX,mxyaawbtgxomq.online
   - DOMAIN-SUFFIX,mxzvgxtcjlrmg.online
   - DOMAIN-SUFFIX,ekey.my.id
-  - DOMAIN-SUFFIX,obedieval.my.id
-  - DOMAIN-SUFFIX,oscarey.my.id
   - DOMAIN-SUFFIX,my-games-online.ru
   - DOMAIN-SUFFIX,my-meet-theflirts.com
   - DOMAIN-SUFFIX,my-promo7.com
@@ -33308,6 +33345,7 @@ payload:
   - DOMAIN-SUFFIX,nomismaannexe.click
   - DOMAIN-SUFFIX,nomqpopwibcln.website
   - DOMAIN-SUFFIX,nomswargus.top
+  - DOMAIN-SUFFIX,nonchalancefireextinguishersuperhero.com
   - DOMAIN-SUFFIX,nonchalantnerve.com
   - DOMAIN-SUFFIX,nonculifus.com
   - DOMAIN-SUFFIX,nondescriptcrowd.com
@@ -34648,6 +34686,7 @@ payload:
   - DOMAIN-SUFFIX,burnercombustion.org.cn
   - DOMAIN-SUFFIX,cfcc-caf.org.cn
   - DOMAIN-SUFFIX,fjtx.org.cn
+  - DOMAIN-SUFFIX,huoronggw.org.cn
   - DOMAIN-SUFFIX,jinshanduba.org.cn
   - DOMAIN-SUFFIX,jlsqgsp.org.cn
   - DOMAIN-SUFFIX,mzxl.org.cn
@@ -36494,6 +36533,7 @@ payload:
   - DOMAIN-SUFFIX,plump-message.pro
   - DOMAIN-SUFFIX,plump-middle.pro
   - DOMAIN-SUFFIX,plump-park.com
+  - DOMAIN-SUFFIX,plump-plastic.com
   - DOMAIN-SUFFIX,plumpmost.pro
   - DOMAIN-SUFFIX,plumpnativeresound.com
   - DOMAIN-SUFFIX,plunderadequatemumble.com
@@ -41314,6 +41354,7 @@ payload:
   - DOMAIN-SUFFIX,shapo.fun
   - DOMAIN-SUFFIX,share-server.com
   - DOMAIN-SUFFIX,sharedrop.io
+  - DOMAIN-SUFFIX,shareease.link
   - DOMAIN-SUFFIX,sharemedia.rs
   - DOMAIN-SUFFIX,sharemefiles.ru
   - DOMAIN-SUFFIX,shareno1wish.net
@@ -42450,6 +42491,7 @@ payload:
   - DOMAIN-SUFFIX,soughstreek.com
   - DOMAIN-SUFFIX,soughtnicefoe.com
   - DOMAIN-SUFFIX,sougoapha.com
+  - DOMAIN-SUFFIX,sougoucom.cn
   - DOMAIN-SUFFIX,soul-of-compass.com
   - DOMAIN-SUFFIX,soulereserve.com
   - DOMAIN-SUFFIX,soulful-contact.com
@@ -43201,6 +43243,7 @@ payload:
   - DOMAIN-SUFFIX,storageimagedisplay.com
   - DOMAIN-SUFFIX,storagelassitudeblend.com
   - DOMAIN-SUFFIX,storageshatterscowled.com
+  - DOMAIN-SUFFIX,store-sogou.com
   - DOMAIN-SUFFIX,ogamiya.stores.jp
   - DOMAIN-SUFFIX,tokujirou.stores.jp
   - DOMAIN-SUFFIX,storeslope.com
@@ -50438,6 +50481,7 @@ payload:
   - DOMAIN-SUFFIX,youaredreames.com
   - DOMAIN-SUFFIX,youaredreames.net
   - DOMAIN-SUFFIX,youareunemployable.com
+  - DOMAIN-SUFFIX,youdaoi.com
   - DOMAIN-SUFFIX,youfindsoul.com
   - DOMAIN-SUFFIX,mrvraz.youfuckteeangers.com
   - DOMAIN-SUFFIX,yougetwhatyoupayfor.net
