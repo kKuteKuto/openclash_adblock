@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 11:34 UTC
-# Version: 2026.0522.1134.24
+# Last modified: 22 May 2026 17:03 UTC
+# Version: 2026.0522.1703.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 211934
+# Number of entries: 211974
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -184,7 +184,6 @@ payload:
   - DOMAIN-SUFFIX,api.dodo.bet23af.com
   - DOMAIN-SUFFIX,maxwin50jt.betdewi.com
   - DOMAIN-SUFFIX,play.betoranje2.com
-  - DOMAIN-SUFFIX,www2.betsson.mx
   - DOMAIN-SUFFIX,cache.bhara88.com
   - DOMAIN-SUFFIX,alawin-casino.biz.pl
   - DOMAIN-SUFFIX,betoncasino.biz.ua
@@ -211,6 +210,7 @@ payload:
   - DOMAIN-SUFFIX,germany1-2.blogspot.com
   - DOMAIN-SUFFIX,guiahipicaelpotroalex.blogspot.com
   - DOMAIN-SUFFIX,hipicasenvivo.blogspot.com
+  - DOMAIN-SUFFIX,inbethorses.blogspot.com
   - DOMAIN-SUFFIX,k9inr.blogspot.com
   - DOMAIN-SUFFIX,lpr08gacor.blogspot.com
   - DOMAIN-SUFFIX,lpr09gacor.blogspot.com
@@ -2547,6 +2547,7 @@ payload:
   - DOMAIN-SUFFIX,juegocasino.com.co
   - DOMAIN-SUFFIX,juegoresponsable.com.ar
   - DOMAIN-SUFFIX,jugamax.com.py
+  - DOMAIN-SUFFIX,jugandoando.com.ar
   - DOMAIN-SUFFIX,juicybet.com.au
   - DOMAIN-SUFFIX,junglebet.com.au
   - DOMAIN-SUFFIX,just-wepoker.com.cn
@@ -2642,9 +2643,11 @@ payload:
   - DOMAIN-SUFFIX,megaparicasino.com.de
   - DOMAIN-SUFFIX,mejorcasino.com.es
   - DOMAIN-SUFFIX,mejorescasinosenlinea.com.ar
+  - DOMAIN-SUFFIX,melbet.com.ci
   - DOMAIN-SUFFIX,melbet.com.gh
   - DOMAIN-SUFFIX,melbet.com.ph
   - DOMAIN-SUFFIX,melbet.com.ve
+  - DOMAIN-SUFFIX,melbetregistration.com.ve
   - DOMAIN-SUFFIX,menacecasino.com.pl
   - DOMAIN-SUFFIX,mercuresantarosa.com.ar
   - DOMAIN-SUFFIX,merikting2020.com.tr
@@ -3040,10 +3043,13 @@ payload:
   - DOMAIN-SUFFIX,treezy.com.au
   - DOMAIN-SUFFIX,trex777.com.br
   - DOMAIN-SUFFIX,trillonario.com.mx
+  - DOMAIN-SUFFIX,tripleplay.com.ve
   - DOMAIN-SUFFIX,triunfobet.com.ve
   - DOMAIN-SUFFIX,trivela.com.br
   - DOMAIN-SUFFIX,truebet.com.au
   - DOMAIN-SUFFIX,trustedcasinosingapore.com.sg
+  - DOMAIN-SUFFIX,tuanimalito.com.ve
+  - DOMAIN-SUFFIX,tuazar.com.ve
   - DOMAIN-SUFFIX,tuchance.com.ve
   - DOMAIN-SUFFIX,turbo-casino.com.pl
   - DOMAIN-SUFFIX,turbocasino.com.pl
@@ -4455,6 +4461,7 @@ payload:
   - DOMAIN-SUFFIX,lvbetcasino.net.pl
   - DOMAIN-SUFFIX,maisonroll-casino.net.pl
   - DOMAIN-SUFFIX,maisonrollcasino.net.pl
+  - DOMAIN-SUFFIX,melbet.net.et
   - DOMAIN-SUFFIX,merscasinoo.net.ru
   - DOMAIN-SUFFIX,merscasinos.net.ru
   - DOMAIN-SUFFIX,mgmgrandmacau.net.cn
@@ -65894,6 +65901,7 @@ payload:
   - DOMAIN-SUFFIX,99ngvwnb.me
   - DOMAIN-SUFFIX,99niceph.net
   - DOMAIN-SUFFIX,99nn55.com
+  - DOMAIN-SUFFIX,99o.org
   - DOMAIN-SUFFIX,99ok.asia
   - DOMAIN-SUFFIX,99ok.city
   - DOMAIN-SUFFIX,99ok.co
@@ -67254,6 +67262,7 @@ payload:
   - DOMAIN-SUFFIX,acenter4change.com
   - DOMAIN-SUFFIX,acenxry.life
   - DOMAIN-SUFFIX,aceocus.com
+  - DOMAIN-SUFFIX,aceodds.com
   - DOMAIN-SUFFIX,aceofbingo.com
   - DOMAIN-SUFFIX,aceonline.casino
   - DOMAIN-SUFFIX,aceowiu.life
@@ -69614,6 +69623,8 @@ payload:
   - DOMAIN-SUFFIX,anim6b4.com
   - DOMAIN-SUFFIX,animalitos.bet
   - DOMAIN-SUFFIX,animalitos.site
+  - DOMAIN-SUFFIX,animalitosdeoriente.com
+  - DOMAIN-SUFFIX,animalitosvenezuela.com
   - DOMAIN-SUFFIX,animalpoker.club
   - DOMAIN-SUFFIX,animalslist.org
   - DOMAIN-SUFFIX,animalsofmontana.com
@@ -70095,6 +70106,7 @@ payload:
   - DOMAIN-SUFFIX,applicationcasinoenligne.org
   - DOMAIN-SUFFIX,appliness.com
   - DOMAIN-SUFFIX,applistingbrand.xyz
+  - DOMAIN-SUFFIX,appmelbet-venezuela.com
   - DOMAIN-SUFFIX,appmillionaireslots.store
   - DOMAIN-SUFFIX,appmillionslots.store
   - DOMAIN-SUFFIX,appmkwin1.com
@@ -70140,6 +70152,7 @@ payload:
   - DOMAIN-SUFFIX,apuestalave.com
   - DOMAIN-SUFFIX,apuestalegal.ec
   - DOMAIN-SUFFIX,apuestalegal.pe
+  - DOMAIN-SUFFIX,apuestalegalchile.com
   - DOMAIN-SUFFIX,apuestamos.com
   - DOMAIN-SUFFIX,apuestan.com
   - DOMAIN-SUFFIX,apuestarey.com
@@ -79768,6 +79781,7 @@ payload:
   - DOMAIN-SUFFIX,betsson.es
   - DOMAIN-SUFFIX,betsson.fr
   - DOMAIN-SUFFIX,betsson.it
+  - DOMAIN-SUFFIX,betsson.mx
   - DOMAIN-SUFFIX,betsson.pe
   - DOMAIN-SUFFIX,betsson.se
   - DOMAIN-SUFFIX,betsson.sport
@@ -87424,6 +87438,7 @@ payload:
   - DOMAIN-SUFFIX,carrefour-casino.com
   - DOMAIN-SUFFIX,carrefourbet.com
   - DOMAIN-SUFFIX,carrefourjogo.com
+  - DOMAIN-SUFFIX,carrerasamericanas.xyz
   - DOMAIN-SUFFIX,carrey55.com
   - DOMAIN-SUFFIX,carrimagerygarage.com
   - DOMAIN-SUFFIX,carrycasino.com
@@ -91580,6 +91595,7 @@ payload:
   - DOMAIN-SUFFIX,casino-vegazone-online.com
   - DOMAIN-SUFFIX,casino-vegazone-uk.com
   - DOMAIN-SUFFIX,casino-velobet.org
+  - DOMAIN-SUFFIX,casino-venezuela.com
   - DOMAIN-SUFFIX,casino-verajohn.org
   - DOMAIN-SUFFIX,casino-vergleich.site
   - DOMAIN-SUFFIX,casino-verywell.net
@@ -107425,6 +107441,7 @@ payload:
   - DOMAIN-SUFFIX,dermaga168.org
   - DOMAIN-SUFFIX,derpokerabend.de
   - DOMAIN-SUFFIX,desacerdas.id
+  - DOMAIN-SUFFIX,desafiohipico.com
   - DOMAIN-SUFFIX,desafiopg.net
   - DOMAIN-SUFFIX,desafiopg.org
   - DOMAIN-SUFFIX,desajambe.com
@@ -110314,6 +110331,7 @@ payload:
   - DOMAIN-SUFFIX,efesbetcasinogiris.co
   - DOMAIN-SUFFIX,efescasino3.com
   - DOMAIN-SUFFIX,efesebetcasino.vip
+  - DOMAIN-SUFFIX,effi-lotto.com
   - DOMAIN-SUFFIX,effwurdsbooteek.com
   - DOMAIN-SUFFIX,efh.casino
   - DOMAIN-SUFFIX,efirbet.com
@@ -110438,6 +110456,7 @@ payload:
   - DOMAIN-SUFFIX,elbetaso.com
   - DOMAIN-SUFFIX,elbingo.com
   - DOMAIN-SUFFIX,elbowrivercasinocalgary.ca
+  - DOMAIN-SUFFIX,elbrujodelosanimalitos.com
   - DOMAIN-SUFFIX,elcarado.com
   - DOMAIN-SUFFIX,elcaradocasino.com
   - DOMAIN-SUFFIX,elcasino.online
@@ -110902,6 +110921,7 @@ payload:
   - DOMAIN-SUFFIX,elgordo.com
   - DOMAIN-SUFFIX,elgordo.net
   - DOMAIN-SUFFIX,elgrullensepaloalto.com
+  - DOMAIN-SUFFIX,elguacharitomillonario.com
   - DOMAIN-SUFFIX,elicitbets.store
   - DOMAIN-SUFFIX,elinmejorable.com
   - DOMAIN-SUFFIX,elisa.bet
@@ -110998,8 +111018,10 @@ payload:
   - DOMAIN-SUFFIX,elonmusk-casino-ca.com
   - DOMAIN-SUFFIX,eloracasino.ca
   - DOMAIN-SUFFIX,eloterija.si
+  - DOMAIN-SUFFIX,elparley.com
   - DOMAIN-SUFFIX,elpaso411.com
   - DOMAIN-SUFFIX,elpotroroberto.com
+  - DOMAIN-SUFFIX,elrecoleo.com
   - DOMAIN-SUFFIX,elresultadodelaloteria.com
   - DOMAIN-SUFFIX,elroyale-casino.vip
   - DOMAIN-SUFFIX,elroyalecasino.club
@@ -114631,6 +114653,7 @@ payload:
   - DOMAIN-SUFFIX,filmcasino.at
   - DOMAIN-SUFFIX,filmcasino-event.net
   - DOMAIN-SUFFIX,filmseansi.com
+  - DOMAIN-SUFFIX,filoelomoparley.com
   - DOMAIN-SUFFIX,filthyrichslots.com
   - DOMAIN-SUFFIX,fin.casino
   - DOMAIN-SUFFIX,fina88.com
@@ -137155,6 +137178,7 @@ payload:
   - DOMAIN-SUFFIX,junbet88.com
   - DOMAIN-SUFFIX,junelo.com
   - DOMAIN-SUFFIX,junfn.com
+  - DOMAIN-SUFFIX,jungladinamica.com
   - DOMAIN-SUFFIX,jungle-spins.casino
   - DOMAIN-SUFFIX,jungle68.com
   - DOMAIN-SUFFIX,jungleerummy.com
@@ -145285,6 +145309,7 @@ payload:
   - DOMAIN-SUFFIX,loto678.com
   - DOMAIN-SUFFIX,lotobet.com
   - DOMAIN-SUFFIX,lotochaima.com
+  - DOMAIN-SUFFIX,lotodia.com
   - DOMAIN-SUFFIX,lotofreebie.org
   - DOMAIN-SUFFIX,lotofreebie.ru
   - DOMAIN-SUFFIX,lotofreebie.xyz
@@ -150656,6 +150681,7 @@ payload:
   - DOMAIN-SUFFIX,mel-bet.com
   - DOMAIN-SUFFIX,mel-bet.mobi
   - DOMAIN-SUFFIX,mel-bet.ug
+  - DOMAIN-SUFFIX,mel-bet-bangladesh.com
   - DOMAIN-SUFFIX,mel25.world
   - DOMAIN-SUFFIX,mel77.com
   - DOMAIN-SUFFIX,mel777.xyz
@@ -150677,6 +150703,7 @@ payload:
   - DOMAIN-SUFFIX,melbet.ec
   - DOMAIN-SUFFIX,melbet.ke
   - DOMAIN-SUFFIX,melbet.mobi
+  - DOMAIN-SUFFIX,melbet.network
   - DOMAIN-SUFFIX,melbet.ng
   - DOMAIN-SUFFIX,melbet.org
   - DOMAIN-SUFFIX,melbet.ph
@@ -150766,13 +150793,16 @@ payload:
   - DOMAIN-SUFFIX,melbet-kazakhstan.com
   - DOMAIN-SUFFIX,melbet-licence.com
   - DOMAIN-SUFFIX,melbet-ma.com
+  - DOMAIN-SUFFIX,melbet-melbet.com
   - DOMAIN-SUFFIX,melbet-mn.com
   - DOMAIN-SUFFIX,melbet-mobile.com
+  - DOMAIN-SUFFIX,melbet-mongolia.org
   - DOMAIN-SUFFIX,melbet-pe.com
   - DOMAIN-SUFFIX,melbet-pe1.com
   - DOMAIN-SUFFIX,melbet-pe2.com
   - DOMAIN-SUFFIX,melbet-ph.mobi
   - DOMAIN-SUFFIX,melbet-phi.com
+  - DOMAIN-SUFFIX,melbet-philippines.com
   - DOMAIN-SUFFIX,melbet-pk.org
   - DOMAIN-SUFFIX,melbet-rus.ru
   - DOMAIN-SUFFIX,melbet-rus-casino-i0.top
@@ -150807,9 +150837,14 @@ payload:
   - DOMAIN-SUFFIX,melbetaffiliates.com
   - DOMAIN-SUFFIX,melbetaffiliates.info
   - DOMAIN-SUFFIX,melbetangola.com
+  - DOMAIN-SUFFIX,melbetapp.casino
   - DOMAIN-SUFFIX,melbetapp.com
+  - DOMAIN-SUFFIX,melbetapp-es.com
+  - DOMAIN-SUFFIX,melbetbd.net
+  - DOMAIN-SUFFIX,melbetbdt.com
   - DOMAIN-SUFFIX,melbetbi.com
   - DOMAIN-SUFFIX,melbetbonus.com
+  - DOMAIN-SUFFIX,melbetcasino.com
   - DOMAIN-SUFFIX,melbetcasino.nl
   - DOMAIN-SUFFIX,melbetcasino.org
   - DOMAIN-SUFFIX,melbetcasino.pro
@@ -150821,6 +150856,7 @@ payload:
   - DOMAIN-SUFFIX,melbetcd.com
   - DOMAIN-SUFFIX,melbetegypt.com
   - DOMAIN-SUFFIX,melbetet.com
+  - DOMAIN-SUFFIX,melbetethiopia.net
   - DOMAIN-SUFFIX,melbetghana.com
   - DOMAIN-SUFFIX,melbetgiris.live
   - DOMAIN-SUFFIX,melbetinbd.com
@@ -154049,6 +154085,7 @@ payload:
   - DOMAIN-SUFFIX,mundocasino.online
   - DOMAIN-SUFFIX,mundocasino34.win
   - DOMAIN-SUFFIX,mundodaaposta.net
+  - DOMAIN-SUFFIX,mundodeportivo.com
   - DOMAIN-SUFFIX,mundojogo.com
   - DOMAIN-SUFFIX,mundojogo.me
   - DOMAIN-SUFFIX,mundojoxc.com
@@ -174556,6 +174593,7 @@ payload:
   - DOMAIN-SUFFIX,resultados-futbol.com
   - DOMAIN-SUFFIX,resultados365.com
   - DOMAIN-SUFFIX,resultadosalinstante.com
+  - DOMAIN-SUFFIX,resultadosanimalitos.com
   - DOMAIN-SUFFIX,resultadostriplecaracas.com
   - DOMAIN-SUFFIX,resultadostriplezulia.com
   - DOMAIN-SUFFIX,resultsgptercepat.com
@@ -192235,6 +192273,7 @@ payload:
   - DOMAIN-SUFFIX,tripleseven.casino
   - DOMAIN-SUFFIX,triplesixsites.com
   - DOMAIN-SUFFIX,tripletachira.com
+  - DOMAIN-SUFFIX,tripletamillonaria.com
   - DOMAIN-SUFFIX,tripleyourvegas.com
   - DOMAIN-SUFFIX,triplezamorano.com
   - DOMAIN-SUFFIX,tripriau.com
@@ -192899,6 +192938,7 @@ payload:
   - DOMAIN-SUFFIX,tvbet.com
   - DOMAIN-SUFFIX,tvbingo.dk
   - DOMAIN-SUFFIX,tvg.com
+  - DOMAIN-SUFFIX,tvgsur.com
   - DOMAIN-SUFFIX,tvoe-casino.com
   - DOMAIN-SUFFIX,tvone-poker.online
   - DOMAIN-SUFFIX,tvonepoker4.site
