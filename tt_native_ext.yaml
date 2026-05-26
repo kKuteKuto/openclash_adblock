@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 May 2026 17:13 UTC
-# Version: 2026.0522.1713.41
+# Last modified: 25 May 2026 17:28 UTC
+# Version: 2026.0525.1728.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 536
+# Number of entries: 538
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -104,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,mcs-i18n.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-va.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,ad-instantpage-sg.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,frontier-ru.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-sg.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com.edgekey.net
@@ -236,6 +237,7 @@ payload:
   - DOMAIN-SUFFIX,ad.tiktokv.com
   - DOMAIN-SUFFIX,ad.tiktokv.us
   - DOMAIN-SUFFIX,ad-instantpage.tiktokv.us
+  - DOMAIN-SUFFIX,ad-instantpage-ru.tiktokv.com
   - DOMAIN-SUFFIX,ad-instantpage-sg.tiktokv.com
   - DOMAIN-SUFFIX,ad-instantpage-ttp2.tiktokv.eu
   - DOMAIN-SUFFIX,ad-instantpage-ttp2.tiktokv.us
