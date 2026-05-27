@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 May 2026 09:22 UTC
-# Version: 2026.0526.0922.14
+# Last modified: 26 May 2026 17:04 UTC
+# Version: 2026.0526.1704.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 50260
+# Number of entries: 50279
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -467,6 +467,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1923,6 +1926,21 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
+  - DOMAIN-SUFFIX,app-google-zh.hl.cn
+  - DOMAIN-SUFFIX,cnzh-google-apps.hl.cn
+  - DOMAIN-SUFFIX,go-todesk.hl.cn
+  - DOMAIN-SUFFIX,googgle-chrrome.hl.cn
+  - DOMAIN-SUFFIX,google-chrrome-zh.hl.cn
+  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+  - DOMAIN-SUFFIX,line-go.hl.cn
+  - DOMAIN-SUFFIX,office-wps-hl.hl.cn
+  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
+  - DOMAIN-SUFFIX,qishuiyinyue-music.hl.cn
+  - DOMAIN-SUFFIX,todesk-web.hl.cn
+  - DOMAIN-SUFFIX,todesk-zh.hl.cn
+  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
+  - DOMAIN-SUFFIX,zhcn-googele.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,dciclc.hnwuamu.top
   - DOMAIN-SUFFIX,m10.hoes.tube
@@ -2189,6 +2207,8 @@ payload:
   - DOMAIN-SUFFIX,vg.konigakeyset.top
   - DOMAIN-SUFFIX,mf.kotocolmar.com
   - DOMAIN-SUFFIX,hl.koumyscampana.com
+  - DOMAIN-SUFFIX,lc.krgirls.beauty
+  - DOMAIN-SUFFIX,me.krgirls.beauty
   - DOMAIN-SUFFIX,ym.kronionsuttas.com
   - DOMAIN-SUFFIX,kp.kueunpick.com
   - DOMAIN-SUFFIX,ms.kuugo.cc
@@ -7438,7 +7458,6 @@ payload:
   - DOMAIN-SUFFIX,1wzwbc.top
   - DOMAIN-SUFFIX,1x001.com
   - DOMAIN-SUFFIX,1x1x4.com
-  - DOMAIN-SUFFIX,1x1x5.com
   - DOMAIN-SUFFIX,1x1x7.com
   - DOMAIN-SUFFIX,1x1x9.com
   - DOMAIN-SUFFIX,1xbeat.com
@@ -13079,7 +13098,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -20367,6 +20385,7 @@ payload:
   - DOMAIN-SUFFIX,duros.lol
   - DOMAIN-SUFFIX,dusioknopper.com
   - DOMAIN-SUFFIX,duskedaruac.com
+  - DOMAIN-SUFFIX,duskwander.com
   - DOMAIN-SUFFIX,dustersaying.com
   - DOMAIN-SUFFIX,dustexhibition.com
   - DOMAIN-SUFFIX,dustinga.com
@@ -26305,7 +26324,6 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -29710,7 +29728,6 @@ payload:
   - DOMAIN-SUFFIX,kreomfoq.com
   - DOMAIN-SUFFIX,kreps.xyz
   - DOMAIN-SUFFIX,krfqlrxvmoyrj.online
-  - DOMAIN-SUFFIX,krgirls.beauty
   - DOMAIN-SUFFIX,krhmtdzuxxmsc.space
   - DOMAIN-SUFFIX,krigiamisdeal.click
   - DOMAIN-SUFFIX,krisydark.com
@@ -34899,6 +34916,7 @@ payload:
   - DOMAIN-SUFFIX,oerxzdstepphr.store
   - DOMAIN-SUFFIX,oesterholm.com
   - DOMAIN-SUFFIX,oestpq.com
+  - DOMAIN-SUFFIX,oestrumbaure.shop
   - DOMAIN-SUFFIX,oestrumbogging.shop
   - DOMAIN-SUFFIX,oeswosbird.top
   - DOMAIN-SUFFIX,oeu3it2m.xyz
@@ -46262,6 +46280,7 @@ payload:
   - DOMAIN-SUFFIX,unwomanallude.com
   - DOMAIN-SUFFIX,unworthysoundsinsinuate.com
   - DOMAIN-SUFFIX,unwrapsbunkum.com
+  - DOMAIN-SUFFIX,unwrapsstow.cyou
   - DOMAIN-SUFFIX,unwritmirific.com
   - DOMAIN-SUFFIX,unwritten-cash.com
   - DOMAIN-SUFFIX,unwritten-indication.pro
