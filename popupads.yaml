@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 18:19 UTC
-# Version: 2026.0607.1819.49
+# Last modified: 08 Jun 2026 06:54 UTC
+# Version: 2026.0608.0654.43
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 49599
 #
@@ -2606,6 +2606,7 @@ payload:
   - DOMAIN-SUFFIX,racks.pages.dev
   - DOMAIN-SUFFIX,rarepepewtf.pages.dev
   - DOMAIN-SUFFIX,secure-57v.pages.dev
+  - DOMAIN-SUFFIX,security-process.pages.dev
   - DOMAIN-SUFFIX,setkuttina.pages.dev
   - DOMAIN-SUFFIX,syncwallet.pages.dev
   - DOMAIN-SUFFIX,systemsupport.pages.dev
@@ -11889,7 +11890,6 @@ payload:
   - DOMAIN-SUFFIX,asepourioter.com
   - DOMAIN-SUFFIX,aserve1.net
   - DOMAIN-SUFFIX,asewlfjqwlflkew.com
-  - DOMAIN-SUFFIX,asexcadrillom.com
   - DOMAIN-SUFFIX,asexy8.com
   - DOMAIN-SUFFIX,asf4f.us
   - DOMAIN-SUFFIX,asfazpwur.com
@@ -11994,7 +11994,6 @@ payload:
   - DOMAIN-SUFFIX,assistimplemented.com
   - DOMAIN-SUFFIX,assistirfilmes.org
   - DOMAIN-SUFFIX,asslfeqadv.com
-  - DOMAIN-SUFFIX,assneaselchan.com
   - DOMAIN-SUFFIX,assoc-amazon.ca
   - DOMAIN-SUFFIX,assoc-amazon.com
   - DOMAIN-SUFFIX,assoc-amazon.de
@@ -29704,6 +29703,7 @@ payload:
   - DOMAIN-SUFFIX,lctnodl.top
   - DOMAIN-SUFFIX,lcuaerlknisgy.space
   - DOMAIN-SUFFIX,lcugatnuhfpo.com
+  - DOMAIN-SUFFIX,lcuijfiybks.com
   - DOMAIN-SUFFIX,lcuozmosstcu.com
   - DOMAIN-SUFFIX,lcwfab1.com
   - DOMAIN-SUFFIX,lcwfab2.com
