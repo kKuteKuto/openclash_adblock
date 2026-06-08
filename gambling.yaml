@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 10:43 UTC
-# Version: 2026.0607.1043.06
+# Last modified: 07 Jun 2026 17:26 UTC
+# Version: 2026.0607.1726.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 232566
+# Number of entries: 232568
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -97078,6 +97078,7 @@ payload:
   - DOMAIN-SUFFIX,casino4946.sbs
   - DOMAIN-SUFFIX,casino4948.buzz
   - DOMAIN-SUFFIX,casino49482com.cyou
+  - DOMAIN-SUFFIX,casino49494.top
   - DOMAIN-SUFFIX,casino495.cfd
   - DOMAIN-SUFFIX,casino4952.cyou
   - DOMAIN-SUFFIX,casino4955.cyou
@@ -132671,6 +132672,7 @@ payload:
   - DOMAIN-SUFFIX,grandpashabets1.icu
   - DOMAIN-SUFFIX,grandpashabets7482.com
   - DOMAIN-SUFFIX,grandpashabetsitegirisi.vip
+  - DOMAIN-SUFFIX,grandpashabett8201.com
   - DOMAIN-SUFFIX,grandpashacasinobet.com
   - DOMAIN-SUFFIX,grandpasshabet8201.com
   - DOMAIN-SUFFIX,grandplaycasino.com
