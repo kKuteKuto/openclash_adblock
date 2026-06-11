@@ -5,15 +5,19 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Jun 2026 18:11 UTC
-# Version: 2026.0601.1811.38
+# Last modified: 10 Jun 2026 15:50 UTC
+# Version: 2026.0610.1550.17
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 542
+# Number of entries: 573
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
 payload:
+  - DOMAIN-SUFFIX,analytics.us.tiktok.com.bytedance.akadns.net
   - DOMAIN-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+  - DOMAIN-SUFFIX,analytics.us.tiktok.com.bytewlb.akadns.net
+  - DOMAIN-SUFFIX,analytics.tiktok.com.bytewlb.akadns.net
+  - DOMAIN-SUFFIX,analytics.us.tiktok.com-row.bytewlb.akadns.net
   - DOMAIN-SUFFIX,frontier23-normal-alisg.tiktokv.com.bpgslb.com
   - DOMAIN-SUFFIX,ads-sg.business-tiktok.com
   - DOMAIN-SUFFIX,ads-va.business-tiktok.com
@@ -103,6 +107,12 @@ payload:
   - DOMAIN-SUFFIX,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.dvaitas.lt
   - DOMAIN-SUFFIX,mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
+  - DOMAIN-SUFFIX,analytics.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics-attribution-va.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics-exp-i18n.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics-exp-sg.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics-i18n.tiktok.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics-sg.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-i18n.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com.edgekey.net
   - DOMAIN-SUFFIX,mcs-va.tiktok.com.edgekey.net
@@ -113,8 +123,15 @@ payload:
   - DOMAIN-SUFFIX,mcs-va-useast2a.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mon-boot.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mssdk-boot.tiktokv.com.edgekey.net
+  - DOMAIN-SUFFIX,analytics.us.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-exp.us.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-ttp2.us.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,mcs.us.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,mcs-ttp2.us.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-exp-ru.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-v6.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal.tiktok.com.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal-alisg.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
   - DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
@@ -122,6 +139,11 @@ payload:
   - DOMAIN-SUFFIX,frontier.tiktokv-eu.com.edgesuite.net
   - DOMAIN-SUFFIX,frontier16-normal-no1a.tiktokv.eu.edgesuite.net
   - DOMAIN-SUFFIX,frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-exp-ttp2.tiktokw.eu.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal-no1a.tiktokw.eu.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal-useastred.tiktokw.eu.edgesuite.net
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.edgesuite.net
   - DOMAIN-SUFFIX,mcs16-normal-no1a.tiktokw.eu.edgesuite.net
   - DOMAIN-SUFFIX,mcs16-normal-useastred.tiktokw.eu.edgesuite.net
@@ -130,6 +152,9 @@ payload:
   - DOMAIN-SUFFIX,frontier-ttp2.tiktokv.us.edgesuite.net
   - DOMAIN-SUFFIX,mcs.tiktokv.us.edgesuite.net
   - DOMAIN-SUFFIX,mcs-ttp2.tiktokv.us.edgesuite.net
+  - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal-useast5.tiktokw.us.edgesuite.net
+  - DOMAIN-SUFFIX,analytics16-normal-useast8.tiktokw.us.edgesuite.net
   - DOMAIN-SUFFIX,mcs.tiktokw.us.edgesuite.net
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com
   - DOMAIN-SUFFIX,analytics.snssdk.com
@@ -547,11 +572,17 @@ payload:
   - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,mssdk16-normal-useastred.tiktokw.eu
+  - DOMAIN-SUFFIX,analytics.tiktok.com.ttdns2.com
+  - DOMAIN-SUFFIX,analytics-exp-ru.tiktok.com.ttdns2.com
+  - DOMAIN-SUFFIX,analytics-ru.tiktok.com.ttdns2.com
+  - DOMAIN-SUFFIX,analytics-v6.tiktok.com.ttdns2.com
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com.ttdns2.com
   - DOMAIN-SUFFIX,mcs-va.tiktok.com.ttdns2.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com.ttdns2.com
   - DOMAIN-SUFFIX,mcs-va-useast2a.tiktokv.com.ttdns2.com
   - DOMAIN-SUFFIX,frontier.tiktokv-eu.com.ttdns3.com
+  - DOMAIN-SUFFIX,analytics-ie.tiktokw.eu.ttdns3.com
+  - DOMAIN-SUFFIX,analytics-ttp2.tiktokw.eu.ttdns3.com
   - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu.ttdns3.com
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.ttdns3.com
   - DOMAIN-SUFFIX,h4g3z1-native.tiktok.extended.web.app
