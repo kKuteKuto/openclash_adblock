@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Jun 2026 17:50 UTC
-# Version: 2026.0615.1750.17
+# Last modified: 16 Jun 2026 06:27 UTC
+# Version: 2026.0616.0627.05
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 58413
+# Number of entries: 58428
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -446,6 +446,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1869,6 +1872,15 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
+  - DOMAIN-SUFFIX,app-google-zh.hl.cn
+  - DOMAIN-SUFFIX,go-todesk.hl.cn
+  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+  - DOMAIN-SUFFIX,line-go.hl.cn
+  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
+  - DOMAIN-SUFFIX,todesk-web.hl.cn
+  - DOMAIN-SUFFIX,todesk-zh.hl.cn
+  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,dciclc.hnwuamu.top
   - DOMAIN-SUFFIX,m10.hoes.tube
@@ -2141,6 +2153,8 @@ payload:
   - DOMAIN-SUFFIX,vg.konigakeyset.top
   - DOMAIN-SUFFIX,mf.kotocolmar.com
   - DOMAIN-SUFFIX,hl.koumyscampana.com
+  - DOMAIN-SUFFIX,lc.krgirls.beauty
+  - DOMAIN-SUFFIX,me.krgirls.beauty
   - DOMAIN-SUFFIX,ym.kronionsuttas.com
   - DOMAIN-SUFFIX,kp.kueunpick.com
   - DOMAIN-SUFFIX,ms.kuugo.cc
@@ -13670,7 +13684,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -17279,7 +17292,6 @@ payload:
   - DOMAIN-SUFFIX,choseoffhandsight.com
   - DOMAIN-SUFFIX,choto.xyz
   - DOMAIN-SUFFIX,chotxoso.com
-  - DOMAIN-SUFFIX,choubsebsu.com
   - DOMAIN-SUFFIX,choufauphik.net
   - DOMAIN-SUFFIX,choufoapsel.net
   - DOMAIN-SUFFIX,chouftak.net
@@ -20728,6 +20740,7 @@ payload:
   - DOMAIN-SUFFIX,diagramjawlineunhappy.com
   - DOMAIN-SUFFIX,diagramwrangleupdate.com
   - DOMAIN-SUFFIX,dialling-abutory.com
+  - DOMAIN-SUFFIX,dialreflexunbundle.com
   - DOMAIN-SUFFIX,diameterstifle.com
   - DOMAIN-SUFFIX,diamond-line.net
   - DOMAIN-SUFFIX,diamondairehvac.com
@@ -29095,7 +29108,6 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -30313,6 +30325,7 @@ payload:
   - DOMAIN-SUFFIX,imessagegreetins.de
   - DOMAIN-SUFFIX,imeto.site
   - DOMAIN-SUFFIX,imfrk12.com
+  - DOMAIN-SUFFIX,img-load.com
   - DOMAIN-SUFFIX,imgfeedbuzz.com
   - DOMAIN-SUFFIX,imgfeedget.com
   - DOMAIN-SUFFIX,imgfil.com
@@ -30681,6 +30694,7 @@ payload:
   - DOMAIN-SUFFIX,infamous-atmosphere.pro
   - DOMAIN-SUFFIX,infamousbill.pro
   - DOMAIN-SUFFIX,infamousfine.com
+  - DOMAIN-SUFFIX,infantileclass.pro
   - DOMAIN-SUFFIX,infantilecombination.com
   - DOMAIN-SUFFIX,infantilecourt.pro
   - DOMAIN-SUFFIX,infantiletransition.com
@@ -33325,7 +33339,6 @@ payload:
   - DOMAIN-SUFFIX,kreomfoq.com
   - DOMAIN-SUFFIX,kreps.xyz
   - DOMAIN-SUFFIX,krfqlrxvmoyrj.online
-  - DOMAIN-SUFFIX,krgirls.beauty
   - DOMAIN-SUFFIX,krhmtdzuxxmsc.space
   - DOMAIN-SUFFIX,krible-krable-bums.com
   - DOMAIN-SUFFIX,krigiamisdeal.click
@@ -36621,6 +36634,7 @@ payload:
   - DOMAIN-SUFFIX,mindedgeography.com
   - DOMAIN-SUFFIX,mindedonly.com
   - DOMAIN-SUFFIX,mindless-fire.pro
+  - DOMAIN-SUFFIX,mindless-pay.com
   - DOMAIN-SUFFIX,mindless-shopping.pro
   - DOMAIN-SUFFIX,mindlightinvestments.com
   - DOMAIN-SUFFIX,mindlytix.com
@@ -40577,6 +40591,7 @@ payload:
   - DOMAIN-SUFFIX,outlaysoftballcomplexion.com
   - DOMAIN-SUFFIX,outletaboundtheme.com
   - DOMAIN-SUFFIX,outliesscabine.shop
+  - DOMAIN-SUFFIX,outlinedesignateinstalment.com
   - DOMAIN-SUFFIX,outlineflourishingplumber.com
   - DOMAIN-SUFFIX,outlinesweatraces.com
   - DOMAIN-SUFFIX,outlookabsorb.com
@@ -49982,6 +49997,7 @@ payload:
   - DOMAIN-SUFFIX,surgicalfavor.com
   - DOMAIN-SUFFIX,surhaihaydn.com
   - DOMAIN-SUFFIX,suricatplutter.shop
+  - DOMAIN-SUFFIX,surlyplants.com
   - DOMAIN-SUFFIX,surmounttemperbooklet.com
   - DOMAIN-SUFFIX,surnamesubqueryaloft.com
   - DOMAIN-SUFFIX,surpassaptformula.com
@@ -50955,7 +50971,6 @@ payload:
   - DOMAIN-SUFFIX,theferrarigroup.com
   - DOMAIN-SUFFIX,thefinanceadvice.com
   - DOMAIN-SUFFIX,theflager.com
-  - DOMAIN-SUFFIX,theflirtfiesta.com
   - DOMAIN-SUFFIX,theflyingpuck.com
   - DOMAIN-SUFFIX,theftoulsach.com
   - DOMAIN-SUFFIX,theglossonline.com
