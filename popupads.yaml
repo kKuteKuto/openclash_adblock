@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jun 2026 06:29 UTC
-# Version: 2026.0617.0629.47
+# Last modified: 17 Jun 2026 17:51 UTC
+# Version: 2026.0617.1751.41
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 58435
+# Number of entries: 58428
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -446,9 +446,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1872,15 +1869,6 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
-  - DOMAIN-SUFFIX,app-google-zh.hl.cn
-  - DOMAIN-SUFFIX,go-todesk.hl.cn
-  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
-  - DOMAIN-SUFFIX,line-go.hl.cn
-  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
-  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
-  - DOMAIN-SUFFIX,todesk-web.hl.cn
-  - DOMAIN-SUFFIX,todesk-zh.hl.cn
-  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,dciclc.hnwuamu.top
   - DOMAIN-SUFFIX,m10.hoes.tube
@@ -2153,8 +2141,6 @@ payload:
   - DOMAIN-SUFFIX,vg.konigakeyset.top
   - DOMAIN-SUFFIX,mf.kotocolmar.com
   - DOMAIN-SUFFIX,hl.koumyscampana.com
-  - DOMAIN-SUFFIX,lc.krgirls.beauty
-  - DOMAIN-SUFFIX,me.krgirls.beauty
   - DOMAIN-SUFFIX,ym.kronionsuttas.com
   - DOMAIN-SUFFIX,kp.kueunpick.com
   - DOMAIN-SUFFIX,ms.kuugo.cc
@@ -2397,6 +2383,7 @@ payload:
   - DOMAIN-SUFFIX,wewnmm.meetonlive.com
   - DOMAIN-SUFFIX,cms.meettoday.net
   - DOMAIN-SUFFIX,nrjbow.meettoday.net
+  - DOMAIN-SUFFIX,i.meetu.best
   - DOMAIN-SUFFIX,nkkwr.meeturlove.com
   - DOMAIN-SUFFIX,store.megads.store
   - DOMAIN-SUFFIX,wc.meharitames.com
@@ -13685,6 +13672,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -20768,6 +20756,7 @@ payload:
   - DOMAIN-SUFFIX,dictateirriplaceableirriplaceable.com
   - DOMAIN-SUFFIX,dictationoverlapcooler.com
   - DOMAIN-SUFFIX,dictatorgrimly.com
+  - DOMAIN-SUFFIX,dictumforgivedesist.com
   - DOMAIN-SUFFIX,diddledleveret.com
   - DOMAIN-SUFFIX,didpebbletouchdown.com
   - DOMAIN-SUFFIX,didspack.com
@@ -29114,6 +29103,7 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
+  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -33346,6 +33336,7 @@ payload:
   - DOMAIN-SUFFIX,kreomfoq.com
   - DOMAIN-SUFFIX,kreps.xyz
   - DOMAIN-SUFFIX,krfqlrxvmoyrj.online
+  - DOMAIN-SUFFIX,krgirls.beauty
   - DOMAIN-SUFFIX,krhmtdzuxxmsc.space
   - DOMAIN-SUFFIX,krible-krable-bums.com
   - DOMAIN-SUFFIX,krigiamisdeal.click
@@ -34899,6 +34890,7 @@ payload:
   - DOMAIN-SUFFIX,lotteryaffiliates.com
   - DOMAIN-SUFFIX,lotterytruth.com
   - DOMAIN-SUFFIX,louchees.net
+  - DOMAIN-SUFFIX,loud-hall.com
   - DOMAIN-SUFFIX,loud-student.com
   - DOMAIN-SUFFIX,loudairborneteaspoon.com
   - DOMAIN-SUFFIX,loudermeaning.com
@@ -37955,6 +37947,7 @@ payload:
   - DOMAIN-SUFFIX,natsdk.com
   - DOMAIN-SUFFIX,natsudream.com
   - DOMAIN-SUFFIX,natterresail.com
+  - DOMAIN-SUFFIX,nattytrouty.cfd
   - DOMAIN-SUFFIX,natural-go.pro
   - DOMAIN-SUFFIX,naturalbrain.pro
   - DOMAIN-SUFFIX,naturalcapitalsystem.com
