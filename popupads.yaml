@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jun 2026 17:51 UTC
-# Version: 2026.0617.1751.41
+# Last modified: 18 Jun 2026 09:50 UTC
+# Version: 2026.0618.0950.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 58428
+# Number of entries: 58430
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -11307,6 +11307,7 @@ payload:
   - DOMAIN-SUFFIX,alexabyte.site
   - DOMAIN-SUFFIX,alexatracker.com
   - DOMAIN-SUFFIX,alexisceilingrelease.com
+  - DOMAIN-SUFFIX,alfalfaemployeeresource.com
   - DOMAIN-SUFFIX,alfasense.com
   - DOMAIN-SUFFIX,alfatraffic.com
   - DOMAIN-SUFFIX,alfelixstownrus.org
@@ -20210,7 +20211,6 @@ payload:
   - DOMAIN-SUFFIX,deemattendingbakery.com
   - DOMAIN-SUFFIX,deemfortune.com
   - DOMAIN-SUFFIX,deencourier.biz
-  - DOMAIN-SUFFIX,deenoacepok.com
   - DOMAIN-SUFFIX,deep-crash.com
   - DOMAIN-SUFFIX,deep-dealings.com
   - DOMAIN-SUFFIX,deep-lush.com
@@ -34324,6 +34324,7 @@ payload:
   - DOMAIN-SUFFIX,lilysilk.email
   - DOMAIN-SUFFIX,limeamber.com
   - DOMAIN-SUFFIX,limetreewax.com
+  - DOMAIN-SUFFIX,limidaeiffy.qpon
   - DOMAIN-SUFFIX,liminal.forum
   - DOMAIN-SUFFIX,limitalcher.top
   - DOMAIN-SUFFIX,limitbrillianceads.com
@@ -36711,6 +36712,7 @@ payload:
   - DOMAIN-SUFFIX,miserly-phone.com
   - DOMAIN-SUFFIX,miserly-physics.pro
   - DOMAIN-SUFFIX,miserly-stay.com
+  - DOMAIN-SUFFIX,miserly-wrap.com
   - DOMAIN-SUFFIX,miserlycabinet.com
   - DOMAIN-SUFFIX,misfortunesharply.com
   - DOMAIN-SUFFIX,misguided-assistant.com
