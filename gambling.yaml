@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Jun 2026 10:32 UTC
-# Version: 2026.0618.1032.53
+# Last modified: 18 Jun 2026 18:52 UTC
+# Version: 2026.0618.1852.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 255187
+# Number of entries: 255194
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -82591,6 +82591,7 @@ payload:
   - DOMAIN-SUFFIX,betasus1710.com
   - DOMAIN-SUFFIX,betasus724.com
   - DOMAIN-SUFFIX,betasusa.site
+  - DOMAIN-SUFFIX,betasustek.online
   - DOMAIN-SUFFIX,betat.casino
   - DOMAIN-SUFFIX,betat-casino.com
   - DOMAIN-SUFFIX,betatcasino.com
@@ -124338,6 +124339,7 @@ payload:
   - DOMAIN-SUFFIX,didi51-l1495.vip
   - DOMAIN-SUFFIX,didi51-l1496.vip
   - DOMAIN-SUFFIX,didi51-l1527.vip
+  - DOMAIN-SUFFIX,didi51-l1847.cc
   - DOMAIN-SUFFIX,didi51-l2164.cc
   - DOMAIN-SUFFIX,didi51-l2214.cc
   - DOMAIN-SUFFIX,didi51-l2354.cc
@@ -124357,6 +124359,7 @@ payload:
   - DOMAIN-SUFFIX,didi51-l329.vip
   - DOMAIN-SUFFIX,didi51-l332.vip
   - DOMAIN-SUFFIX,didi51-l349.vip
+  - DOMAIN-SUFFIX,didi51-l376.vip
   - DOMAIN-SUFFIX,didi51-l457.vip
   - DOMAIN-SUFFIX,didi51-l459.vip
   - DOMAIN-SUFFIX,didi51-l462.vip
@@ -143219,11 +143222,13 @@ payload:
   - DOMAIN-SUFFIX,grandpashabet-s.co
   - DOMAIN-SUFFIX,grandpashabet-site.co
   - DOMAIN-SUFFIX,grandpashabet-siteniz2026.vip
+  - DOMAIN-SUFFIX,grandpashabet-turkey2026.vip
   - DOMAIN-SUFFIX,grandpashabet-viphesqp2026.vip
   - DOMAIN-SUFFIX,grandpashabet-yeniadresi2026.icu
   - DOMAIN-SUFFIX,grandpashabet10217.com
   - DOMAIN-SUFFIX,grandpashabet1926.com
   - DOMAIN-SUFFIX,grandpashabet2026-girisleri.com
+  - DOMAIN-SUFFIX,grandpashabet2026-guncelgir.com
   - DOMAIN-SUFFIX,grandpashabet2026girislinkim.vip
   - DOMAIN-SUFFIX,grandpashabet34055.com
   - DOMAIN-SUFFIX,grandpashabet3842.com
@@ -143253,6 +143258,7 @@ payload:
   - DOMAIN-SUFFIX,grandpashabet9834.com
   - DOMAIN-SUFFIX,grandpashabet9856.com
   - DOMAIN-SUFFIX,grandpashabetadi.com
+  - DOMAIN-SUFFIX,grandpashabetapp.co
   - DOMAIN-SUFFIX,grandpashabetcasinogt.com
   - DOMAIN-SUFFIX,grandpashabeterisim-2026.com
   - DOMAIN-SUFFIX,grandpashabeterisim2026.com
@@ -196486,6 +196492,7 @@ payload:
   - DOMAIN-SUFFIX,palacebet-worldcup.icu
   - DOMAIN-SUFFIX,palacebetcasinoo.com
   - DOMAIN-SUFFIX,palacebetingirisitr.icu
+  - DOMAIN-SUFFIX,palacebetworldcup.icu
   - DOMAIN-SUFFIX,palacebingo.com
   - DOMAIN-SUFFIX,palacecasino.app
   - DOMAIN-SUFFIX,palacecasino.eu
