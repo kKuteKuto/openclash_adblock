@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jun 2026 09:49 UTC
-# Version: 2026.0622.0949.50
+# Last modified: 23 Jun 2026 06:49 UTC
+# Version: 2026.0623.0649.43
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57111
+# Number of entries: 57106
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -446,9 +446,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1868,15 +1865,6 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
-  - DOMAIN-SUFFIX,app-google-zh.hl.cn
-  - DOMAIN-SUFFIX,go-todesk.hl.cn
-  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
-  - DOMAIN-SUFFIX,line-go.hl.cn
-  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
-  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
-  - DOMAIN-SUFFIX,todesk-web.hl.cn
-  - DOMAIN-SUFFIX,todesk-zh.hl.cn
-  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,m10.hoes.tube
   - DOMAIN-SUFFIX,yy.hogacotset.com
@@ -13524,6 +13512,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -20284,6 +20273,7 @@ payload:
   - DOMAIN-SUFFIX,detectdiscovery.com
   - DOMAIN-SUFFIX,detectioneelwash.com
   - DOMAIN-SUFFIX,detectivefaltermotto.com
+  - DOMAIN-SUFFIX,detectivefrozepriceless.com
   - DOMAIN-SUFFIX,detectivetails.com
   - DOMAIN-SUFFIX,detectivetombcaesar.com
   - DOMAIN-SUFFIX,detectorpopcornsave.com
@@ -20513,6 +20503,7 @@ payload:
   - DOMAIN-SUFFIX,dignityprop.com
   - DOMAIN-SUFFIX,diguantong.com
   - DOMAIN-SUFFIX,digubpgjkdmsl.website
+  - DOMAIN-SUFFIX,digueravi.cfd
   - DOMAIN-SUFFIX,digzjnuguwwxr.online
   - DOMAIN-SUFFIX,dikasomywnqww.website
   - DOMAIN-SUFFIX,dikcmpgwemomx.space
@@ -24418,6 +24409,7 @@ payload:
   - DOMAIN-SUFFIX,fitting-enthusiasm.pro
   - DOMAIN-SUFFIX,fittingcentermondaysunday.com
   - DOMAIN-SUFFIX,fittingjob.pro
+  - DOMAIN-SUFFIX,fittingneoza.shop
   - DOMAIN-SUFFIX,fittitfucose.com
   - DOMAIN-SUFFIX,fivekeptaccelerate.com
   - DOMAIN-SUFFIX,fivewords.com
@@ -28536,6 +28528,7 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
+  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -30498,6 +30491,7 @@ payload:
   - DOMAIN-SUFFIX,invitationsattest.com
   - DOMAIN-SUFFIX,invitedexamine.com
   - DOMAIN-SUFFIX,inviteprodigalpinprick.com
+  - DOMAIN-SUFFIX,invites-tracker-app.com
   - DOMAIN-SUFFIX,inviziads.com
   - DOMAIN-SUFFIX,invl.me
   - DOMAIN-SUFFIX,invle.co
@@ -44686,6 +44680,7 @@ payload:
   - DOMAIN-SUFFIX,righteousacornspurt.com
   - DOMAIN-SUFFIX,righteouscrayon.com
   - DOMAIN-SUFFIX,righteouslyyumaugmentnext.com
+  - DOMAIN-SUFFIX,rightlydefinite.com
   - DOMAIN-SUFFIX,rightpatience.pro
   - DOMAIN-SUFFIX,rightpiece.pro
   - DOMAIN-SUFFIX,rightyclasp.com
