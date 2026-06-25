@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 06:51 UTC
-# Version: 2026.0624.0651.45
+# Last modified: 24 Jun 2026 18:05 UTC
+# Version: 2026.0624.1805.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57204
+# Number of entries: 57196
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -453,9 +453,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1923,15 +1920,6 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
-  - DOMAIN-SUFFIX,app-google-zh.hl.cn
-  - DOMAIN-SUFFIX,go-todesk.hl.cn
-  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
-  - DOMAIN-SUFFIX,line-go.hl.cn
-  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
-  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
-  - DOMAIN-SUFFIX,todesk-web.hl.cn
-  - DOMAIN-SUFFIX,todesk-zh.hl.cn
-  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,m10.hoes.tube
   - DOMAIN-SUFFIX,yy.hogacotset.com
@@ -13595,6 +13583,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -28609,6 +28598,7 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
+  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -39546,6 +39536,7 @@ payload:
   - DOMAIN-SUFFIX,orest-vlv.com
   - DOMAIN-SUFFIX,oretravelsright.com
   - DOMAIN-SUFFIX,orfa1st5.de
+  - DOMAIN-SUFFIX,orfgildpibal.cyou
   - DOMAIN-SUFFIX,orga29.com
   - DOMAIN-SUFFIX,organic-improvement.pro
   - DOMAIN-SUFFIX,organiccrap.com
@@ -43708,7 +43699,6 @@ payload:
   - DOMAIN-SUFFIX,raggerdough.com
   - DOMAIN-SUFFIX,raglanyakking.com
   - DOMAIN-SUFFIX,raglassofrum.cc
-  - DOMAIN-SUFFIX,ragnolopi.net
   - DOMAIN-SUFFIX,ragrolromairsou.net
   - DOMAIN-SUFFIX,rahaj1.com
   - DOMAIN-SUFFIX,raidfrightbritain.com
@@ -45079,6 +45069,7 @@ payload:
   - DOMAIN-SUFFIX,rondachang.xyz
   - DOMAIN-SUFFIX,ronderosalvarezabogados.com
   - DOMAIN-SUFFIX,rongli.com
+  - DOMAIN-SUFFIX,ronnikeryx.shop
   - DOMAIN-SUFFIX,roobetaffiliates.com
   - DOMAIN-SUFFIX,roofingcompany-tucson.com
   - DOMAIN-SUFFIX,roofprison.com
@@ -54306,6 +54297,7 @@ payload:
   - DOMAIN-SUFFIX,whaumsaift.com
   - DOMAIN-SUFFIX,whaunsoast.net
   - DOMAIN-SUFFIX,whaurgoopou.com
+  - DOMAIN-SUFFIX,whauvegrimes.cyou
   - DOMAIN-SUFFIX,whauzavouweb.com
   - DOMAIN-SUFFIX,whazugho.com
   - DOMAIN-SUFFIX,whbjtvsrexgif.store
