@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jun 2026 18:05 UTC
-# Version: 2026.0624.1805.03
+# Last modified: 25 Jun 2026 06:52 UTC
+# Version: 2026.0625.0652.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57196
+# Number of entries: 57210
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -453,6 +453,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1920,6 +1923,15 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
+  - DOMAIN-SUFFIX,app-google-zh.hl.cn
+  - DOMAIN-SUFFIX,go-todesk.hl.cn
+  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+  - DOMAIN-SUFFIX,line-go.hl.cn
+  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
+  - DOMAIN-SUFFIX,todesk-web.hl.cn
+  - DOMAIN-SUFFIX,todesk-zh.hl.cn
+  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,m10.hoes.tube
   - DOMAIN-SUFFIX,yy.hogacotset.com
@@ -13583,7 +13595,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -16729,7 +16740,6 @@ payload:
   - DOMAIN-SUFFIX,cewmyvfmjjbit.store
   - DOMAIN-SUFFIX,cexofira.com
   - DOMAIN-SUFFIX,cexucetum.com
-  - DOMAIN-SUFFIX,cezoachu.net
   - DOMAIN-SUFFIX,cf3333.com
   - DOMAIN-SUFFIX,cf67ahu-mkooh.com
   - DOMAIN-SUFFIX,cfalbxcmdsih.com
@@ -17875,6 +17885,7 @@ payload:
   - DOMAIN-SUFFIX,coldnessswarthyclinic.com
   - DOMAIN-SUFFIX,coldquit.com
   - DOMAIN-SUFFIX,colentkeruing.top
+  - DOMAIN-SUFFIX,colinextend.com
   - DOMAIN-SUFFIX,colinprobe.com
   - DOMAIN-SUFFIX,colintwentiethcheapen.com
   - DOMAIN-SUFFIX,collaboratemedaltrips.com
@@ -22278,6 +22289,7 @@ payload:
   - DOMAIN-SUFFIX,egaxnjhlndrh.com
   - DOMAIN-SUFFIX,egctjciixiire.space
   - DOMAIN-SUFFIX,egcuxefgvsjpw.online
+  - DOMAIN-SUFFIX,egecjeecbahedgbcaacg.world
   - DOMAIN-SUFFIX,egeemsob.com
   - DOMAIN-SUFFIX,eggaisle.com
   - DOMAIN-SUFFIX,eggplantgapmatter.com
@@ -27306,6 +27318,7 @@ payload:
   - DOMAIN-SUFFIX,grouchystructure.pro
   - DOMAIN-SUFFIX,groulrob.com
   - DOMAIN-SUFFIX,groumpepsouckoo.net
+  - DOMAIN-SUFFIX,grounded-opposite.com
   - DOMAIN-SUFFIX,groundedpatience.com
   - DOMAIN-SUFFIX,groundela.co
   - DOMAIN-SUFFIX,groundlesscobwebmiller.com
@@ -28598,7 +28611,6 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -33337,6 +33349,7 @@ payload:
   - DOMAIN-SUFFIX,lectureolympics.com
   - DOMAIN-SUFFIX,ledeedaugh.com
   - DOMAIN-SUFFIX,ledgeadmitted.com
+  - DOMAIN-SUFFIX,ledger-lives-desktop.io
   - DOMAIN-SUFFIX,leechrightly.com
   - DOMAIN-SUFFIX,leedsneurite.com
   - DOMAIN-SUFFIX,leeglaipepoa.com
@@ -52382,6 +52395,7 @@ payload:
   - DOMAIN-SUFFIX,urgescheveys.shop
   - DOMAIN-SUFFIX,urgxnorjluhwl.online
   - DOMAIN-SUFFIX,urimnugocfr.com
+  - DOMAIN-SUFFIX,urineassertive.com
   - DOMAIN-SUFFIX,urinegracefulfloating.com
   - DOMAIN-SUFFIX,urjump.com
   - DOMAIN-SUFFIX,urlca.com
