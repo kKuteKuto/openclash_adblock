@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jun 2026 18:07 UTC
-# Version: 2026.0625.1807.06
+# Last modified: 26 Jun 2026 11:29 UTC
+# Version: 2026.0626.1129.12
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57239
+# Number of entries: 57241
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -740,6 +740,7 @@ payload:
   - DOMAIN-SUFFIX,v.click2services.shop
   - DOMAIN-SUFFIX,brutus.clicknplay.to
   - DOMAIN-SUFFIX,gateway.clickscloud.net
+  - DOMAIN-SUFFIX,go.clickwhore.com
   - DOMAIN-SUFFIX,telus.signup.clik2pay.com
   - DOMAIN-SUFFIX,aq.climabetons.com
   - DOMAIN-SUFFIX,vnmabq.clloserconnections.com
@@ -16339,6 +16340,7 @@ payload:
   - DOMAIN-SUFFIX,carpenterfootwearappellation.com
   - DOMAIN-SUFFIX,carpenterthrilling.com
   - DOMAIN-SUFFIX,carperspiration.com
+  - DOMAIN-SUFFIX,carpsmelly.com
   - DOMAIN-SUFFIX,carpuslarrups.com
   - DOMAIN-SUFFIX,carriedamiral.com
   - DOMAIN-SUFFIX,carrotsaystopping.com
