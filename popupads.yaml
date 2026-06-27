@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jun 2026 11:29 UTC
-# Version: 2026.0626.1129.12
+# Last modified: 26 Jun 2026 18:25 UTC
+# Version: 2026.0626.1825.48
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57241
+# Number of entries: 57243
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -23798,6 +23798,7 @@ payload:
   - DOMAIN-SUFFIX,famsmdfn.net
   - DOMAIN-SUFFIX,famtepsooluhe.net
   - DOMAIN-SUFFIX,fanatics.bet
+  - DOMAIN-SUFFIX,fanbox.help
   - DOMAIN-SUFFIX,fancifuidates.net
   - DOMAIN-SUFFIX,fancyactivity.com
   - DOMAIN-SUFFIX,fancycheek.com
@@ -24862,6 +24863,7 @@ payload:
   - DOMAIN-SUFFIX,foazauwhemi.net
   - DOMAIN-SUFFIX,fob18.com
   - DOMAIN-SUFFIX,fockechouma.net
+  - DOMAIN-SUFFIX,focusameneducation.com
   - DOMAIN-SUFFIX,focusamongstdaylight.com
   - DOMAIN-SUFFIX,focuscivilization.com
   - DOMAIN-SUFFIX,focused-west.pro
