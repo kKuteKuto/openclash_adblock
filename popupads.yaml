@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jun 2026 18:06 UTC
-# Version: 2026.0627.1806.32
+# Last modified: 28 Jun 2026 06:50 UTC
+# Version: 2026.0628.0650.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57251
+# Number of entries: 57258
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -453,6 +453,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -1920,6 +1923,15 @@ payload:
   - DOMAIN-SUFFIX,ko.hissesgestapo.com
   - DOMAIN-SUFFIX,sl.hitchdong.com
   - DOMAIN-SUFFIX,jt.hitchelunspun.com
+  - DOMAIN-SUFFIX,app-google-zh.hl.cn
+  - DOMAIN-SUFFIX,go-todesk.hl.cn
+  - DOMAIN-SUFFIX,google-google-chrome-google-com.hl.cn
+  - DOMAIN-SUFFIX,line-go.hl.cn
+  - DOMAIN-SUFFIX,qh-qishuiyinyue.hl.cn
+  - DOMAIN-SUFFIX,qishuimusic-cn.hl.cn
+  - DOMAIN-SUFFIX,todesk-web.hl.cn
+  - DOMAIN-SUFFIX,todesk-zh.hl.cn
+  - DOMAIN-SUFFIX,zh-todesk-cn.hl.cn
   - DOMAIN-SUFFIX,map.hnchj.com
   - DOMAIN-SUFFIX,m10.hoes.tube
   - DOMAIN-SUFFIX,yy.hogacotset.com
@@ -10778,7 +10790,6 @@ payload:
   - DOMAIN-SUFFIX,agamagcargoan.com
   - DOMAIN-SUFFIX,agamantykeon.com
   - DOMAIN-SUFFIX,agamarshtompr.com
-  - DOMAIN-SUFFIX,agapikachua.com
   - DOMAIN-SUFFIX,agaquagsirean.com
   - DOMAIN-SUFFIX,agat-tech.com
   - DOMAIN-SUFFIX,agatarainpro.com
@@ -11642,7 +11653,6 @@ payload:
   - DOMAIN-SUFFIX,amselragman.com
   - DOMAIN-SUFFIX,amsgjybwclvoq.space
   - DOMAIN-SUFFIX,amskiploomr.com
-  - DOMAIN-SUFFIX,amstarlyer.com
   - DOMAIN-SUFFIX,amsterdamian.com
   - DOMAIN-SUFFIX,amsterdamian.net
   - DOMAIN-SUFFIX,amsterdamian.org
@@ -12373,6 +12383,7 @@ payload:
   - DOMAIN-SUFFIX,arrawqnh.com
   - DOMAIN-SUFFIX,arraydepressinginnocence.com
   - DOMAIN-SUFFIX,arrfhqatlseth.online
+  - DOMAIN-SUFFIX,arridedunfeary.qpon
   - DOMAIN-SUFFIX,arrivebahamas.com
   - DOMAIN-SUFFIX,arriveddescend.com
   - DOMAIN-SUFFIX,arrivedeuropean.com
@@ -13590,7 +13601,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -21659,7 +21669,6 @@ payload:
   - DOMAIN-SUFFIX,duckswillsmoochyou.com
   - DOMAIN-SUFFIX,duckvoidrebuke.com
   - DOMAIN-SUFFIX,ducofagrigusor.com
-  - DOMAIN-SUFFIX,ducroconawchan.com
   - DOMAIN-SUFFIX,ducubchooa.com
   - DOMAIN-SUFFIX,dudaixou.com
   - DOMAIN-SUFFIX,dudleyscience.com
@@ -28623,7 +28632,6 @@ payload:
   - DOMAIN-SUFFIX,hkwrwuqlcpelq.site
   - DOMAIN-SUFFIX,hkygalzumaqv.com
   - DOMAIN-SUFFIX,hkzhongzhuangzhan.cc
-  - DOMAIN-SUFFIX,hl.cn
   - DOMAIN-SUFFIX,hl2u.com
   - DOMAIN-SUFFIX,hlbmaat.com
   - DOMAIN-SUFFIX,hldijphcjszui.store
@@ -38822,7 +38830,6 @@ payload:
   - DOMAIN-SUFFIX,offarticunoan.com
   - DOMAIN-SUFFIX,offbeat-power.com
   - DOMAIN-SUFFIX,offbeatstill.pro
-  - DOMAIN-SUFFIX,offcuboneer.com
   - DOMAIN-SUFFIX,offenceperiod.com
   - DOMAIN-SUFFIX,offenceseemshy.com
   - DOMAIN-SUFFIX,offendalligatorcoaleven.com
@@ -39914,7 +39921,6 @@ payload:
   - DOMAIN-SUFFIX,overbyreruns.com
   - DOMAIN-SUFFIX,overcacneaan.com
   - DOMAIN-SUFFIX,overcoatchargeblackness.com
-  - DOMAIN-SUFFIX,overcobalionom.com
   - DOMAIN-SUFFIX,overcomerschristiancoaching.com
   - DOMAIN-SUFFIX,overcooked-calendar.com
   - DOMAIN-SUFFIX,overcooked-construction.com
@@ -50187,6 +50193,7 @@ payload:
   - DOMAIN-SUFFIX,thunderous-entry.com
   - DOMAIN-SUFFIX,thunderousplay.pro
   - DOMAIN-SUFFIX,thunderousshirt.pro
+  - DOMAIN-SUFFIX,thurgifunkers.cfd
   - DOMAIN-SUFFIX,thurnflfant.com
   - DOMAIN-SUFFIX,thuthoock.net
   - DOMAIN-SUFFIX,thyglypsuphy.com
@@ -51117,6 +51124,7 @@ payload:
   - DOMAIN-SUFFIX,troubledistinctly.com
   - DOMAIN-SUFFIX,troublesabominable.com
   - DOMAIN-SUFFIX,troubleshade.com
+  - DOMAIN-SUFFIX,troublesomemanifest.com
   - DOMAIN-SUFFIX,troutysidings.shop
   - DOMAIN-SUFFIX,trowanesteeler.com
   - DOMAIN-SUFFIX,troytrades.com
@@ -55095,7 +55103,6 @@ payload:
   - DOMAIN-SUFFIX,writingracial.com
   - DOMAIN-SUFFIX,wrmoadl.guru
   - DOMAIN-SUFFIX,wrnqakeoomvlg.store
-  - DOMAIN-SUFFIX,wrnxvvbriocgob.xyz
   - DOMAIN-SUFFIX,wrong-pension.com
   - DOMAIN-SUFFIX,wrongdoanodos.com
   - DOMAIN-SUFFIX,wronginside.pro
