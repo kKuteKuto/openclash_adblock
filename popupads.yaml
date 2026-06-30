@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jun 2026 06:51 UTC
-# Version: 2026.0629.0651.03
+# Last modified: 29 Jun 2026 18:06 UTC
+# Version: 2026.0629.1806.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 57263
+# Number of entries: 57264
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -15018,6 +15018,7 @@ payload:
   - DOMAIN-SUFFIX,bookbannershop.com
   - DOMAIN-SUFFIX,bookcrafters.com
   - DOMAIN-SUFFIX,bookcrazystadium.com
+  - DOMAIN-SUFFIX,bookedalloy.cyou
   - DOMAIN-SUFFIX,bookkeeperamusing.com
   - DOMAIN-SUFFIX,bookletoncoming.com
   - DOMAIN-SUFFIX,bookmakers.click
@@ -27071,7 +27072,6 @@ payload:
   - DOMAIN-SUFFIX,graithexpire.com
   - DOMAIN-SUFFIX,graitsie.com
   - DOMAIN-SUFFIX,graivampouth.net
-  - DOMAIN-SUFFIX,graizoah.com
   - DOMAIN-SUFFIX,grallichalvas.com
   - DOMAIN-SUFFIX,gralossortoob.net
   - DOMAIN-SUFFIX,gramb.site
@@ -45846,6 +45846,7 @@ payload:
   - DOMAIN-SUFFIX,satiresboy.com
   - DOMAIN-SUFFIX,satisfactorilyqueen.com
   - DOMAIN-SUFFIX,satisfied-dare.com
+  - DOMAIN-SUFFIX,satisfied-physics.pro
   - DOMAIN-SUFFIX,satisfied-politics.com
   - DOMAIN-SUFFIX,satisfied-refuse.pro
   - DOMAIN-SUFFIX,satisfiedbad.com
