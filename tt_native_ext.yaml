@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 08 Jul 2026 17:52 UTC
-# Version: 2026.0708.1752.08
+# Last modified: 10 Jul 2026 07:34 UTC
+# Version: 2026.0710.0734.51
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 579
+# Number of entries: 580
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -237,6 +237,7 @@ payload:
   - DOMAIN-SUFFIX,mssdk-quic-sg.tiktok.com
   - DOMAIN-SUFFIX,mssdk-sg.tiktok.com
   - DOMAIN-SUFFIX,mssdk-va.tiktok.com
+  - DOMAIN-SUFFIX,ad-union-i18n-api.tos-sg.tiktok-row.org
   - DOMAIN-SUFFIX,mcs.tiktok-row.net
   - DOMAIN-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com
