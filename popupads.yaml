@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 06:55 UTC
-# Version: 2026.0710.0655.09
+# Last modified: 10 Jul 2026 17:45 UTC
+# Version: 2026.0710.1745.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55391
+# Number of entries: 55395
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -8899,6 +8899,7 @@ payload:
   - DOMAIN-SUFFIX,abouzar.ir
   - DOMAIN-SUFFIX,aboveaveragefinallycast.com
   - DOMAIN-SUFFIX,aboveaverageheavenly.com
+  - DOMAIN-SUFFIX,aboveboardcomplicate.com
   - DOMAIN-SUFFIX,abovechat.com
   - DOMAIN-SUFFIX,aboveredirect.top
   - DOMAIN-SUFFIX,abozentrale.com
@@ -19204,7 +19205,6 @@ payload:
   - DOMAIN-SUFFIX,deefauph.com
   - DOMAIN-SUFFIX,deegraun.com
   - DOMAIN-SUFFIX,deehalig.net
-  - DOMAIN-SUFFIX,deehatoa.net
   - DOMAIN-SUFFIX,deemattendingbakery.com
   - DOMAIN-SUFFIX,deemfortune.com
   - DOMAIN-SUFFIX,deencourier.biz
@@ -23850,6 +23850,7 @@ payload:
   - DOMAIN-SUFFIX,fluentropeinquiry.com
   - DOMAIN-SUFFIX,fluese.com
   - DOMAIN-SUFFIX,fluffy-host.com
+  - DOMAIN-SUFFIX,fluffy-reveal.pro
   - DOMAIN-SUFFIX,fluffyaltarrecords.com
   - DOMAIN-SUFFIX,fluffyinfection.com
   - DOMAIN-SUFFIX,fluffysavings.pro
@@ -29588,6 +29589,7 @@ payload:
   - DOMAIN-SUFFIX,ironhorseautogroup.com
   - DOMAIN-SUFFIX,irqkfyeoyiac.com
   - DOMAIN-SUFFIX,irradiatestartle.com
+  - DOMAIN-SUFFIX,irregularcelebrateblazing.com
   - DOMAIN-SUFFIX,irreproachableradio.com
   - DOMAIN-SUFFIX,irresponsibleexit.pro
   - DOMAIN-SUFFIX,irresponsiblevalve.com
@@ -33317,6 +33319,7 @@ payload:
   - DOMAIN-SUFFIX,lumberinganger.pro
   - DOMAIN-SUFFIX,lumberingpeople.pro
   - DOMAIN-SUFFIX,lumberingweek.com
+  - DOMAIN-SUFFIX,lumennix.xyz
   - DOMAIN-SUFFIX,luminantadvisors.com
   - DOMAIN-SUFFIX,luminosoocchio.com
   - DOMAIN-SUFFIX,luminous-dark.pro
@@ -37222,7 +37225,6 @@ payload:
   - DOMAIN-SUFFIX,oastauptee.net
   - DOMAIN-SUFFIX,oastoamox.com
   - DOMAIN-SUFFIX,oastoarsooso.com
-  - DOMAIN-SUFFIX,oatchaudu.net
   - DOMAIN-SUFFIX,oatchoagnoud.com
   - DOMAIN-SUFFIX,oatearperse.com
   - DOMAIN-SUFFIX,oathannually.com
@@ -37763,6 +37765,7 @@ payload:
   - DOMAIN-SUFFIX,omg2.com
   - DOMAIN-SUFFIX,omgaxscrdsa.com
   - DOMAIN-SUFFIX,omgcoool.com
+  - DOMAIN-SUFFIX,omgexplolts.com
   - DOMAIN-SUFFIX,omgnature.com
   - DOMAIN-SUFFIX,omgpm.com
   - DOMAIN-SUFFIX,omgranbulltor.com
@@ -45313,6 +45316,7 @@ payload:
   - DOMAIN-SUFFIX,shrillbighearted.com
   - DOMAIN-SUFFIX,shrillprofit.com
   - DOMAIN-SUFFIX,shrimpinvestigation.com
+  - DOMAIN-SUFFIX,shrinkgrocerymagical.com
   - DOMAIN-SUFFIX,shrugartisticelder.com
   - DOMAIN-SUFFIX,shticksyahuna.com
   - DOMAIN-SUFFIX,shticky.net
