@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 17:45 UTC
-# Version: 2026.0710.1745.29
+# Last modified: 11 Jul 2026 06:55 UTC
+# Version: 2026.0711.0655.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55395
+# Number of entries: 55398
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -407,6 +407,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12998,7 +13001,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -29589,7 +29591,6 @@ payload:
   - DOMAIN-SUFFIX,ironhorseautogroup.com
   - DOMAIN-SUFFIX,irqkfyeoyiac.com
   - DOMAIN-SUFFIX,irradiatestartle.com
-  - DOMAIN-SUFFIX,irregularcelebrateblazing.com
   - DOMAIN-SUFFIX,irreproachableradio.com
   - DOMAIN-SUFFIX,irresponsibleexit.pro
   - DOMAIN-SUFFIX,irresponsiblevalve.com
@@ -40734,6 +40735,7 @@ payload:
   - DOMAIN-SUFFIX,privacycounter.com
   - DOMAIN-SUFFIX,privacysearching.com
   - DOMAIN-SUFFIX,privage.club
+  - DOMAIN-SUFFIX,private-attempt.pro
   - DOMAIN-SUFFIX,private-hide.com
   - DOMAIN-SUFFIX,private-individual.pro
   - DOMAIN-SUFFIX,private-stage.com
@@ -46511,6 +46513,7 @@ payload:
   - DOMAIN-SUFFIX,spreadingglitchland.com
   - DOMAIN-SUFFIX,spreadingsinew.com
   - DOMAIN-SUFFIX,spreadtrade.com
+  - DOMAIN-SUFFIX,spreedstk.cyou
   - DOMAIN-SUFFIX,springfieldpapers.com
   - DOMAIN-SUFFIX,springify.io
   - DOMAIN-SUFFIX,springsister.com
@@ -51557,6 +51560,7 @@ payload:
   - DOMAIN-SUFFIX,vision123.cn
   - DOMAIN-SUFFIX,visit-website.com
   - DOMAIN-SUFFIX,visitationhardship.com
+  - DOMAIN-SUFFIX,visitationowatch.com
   - DOMAIN-SUFFIX,visitbukittinggi.com
   - DOMAIN-SUFFIX,visitingmargaretantony.com
   - DOMAIN-SUFFIX,visitingthirdnine.com
@@ -53127,7 +53131,6 @@ payload:
   - DOMAIN-SUFFIX,wordy-model.pro
   - DOMAIN-SUFFIX,worgzcdfgkyff.space
   - DOMAIN-SUFFIX,woriusly.com
-  - DOMAIN-SUFFIX,work.gd
   - DOMAIN-SUFFIX,work-from-home-writing-jobs.com
   - DOMAIN-SUFFIX,workback.net
   - DOMAIN-SUFFIX,workcahoots.com
