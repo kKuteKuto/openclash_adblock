@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 17:53 UTC
-# Version: 2026.0711.1753.44
+# Last modified: 12 Jul 2026 06:58 UTC
+# Version: 2026.0712.0658.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55405
+# Number of entries: 55403
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -17,10 +17,10 @@ payload:
   - DOMAIN-SUFFIX,c2c4aecf0a.0073a85a5d.com
   - DOMAIN-SUFFIX,0db65504c2.012dadaa06.com
   - DOMAIN-SUFFIX,98.01ba.com
-  - DOMAIN-SUFFIX,52c98b42b0.02075cc3d5.com
   - DOMAIN-SUFFIX,c8d9e11a82.031dcf857c.com
   - DOMAIN-SUFFIX,c7ca525b2e.0491166852.com
   - DOMAIN-SUFFIX,ccc354db8e.05cb34d5f9.com
+  - DOMAIN-SUFFIX,71ad083cf8.067f87da09.com
   - DOMAIN-SUFFIX,42a95337ac.07a243cfe3.com
   - DOMAIN-SUFFIX,bbcb71c053.0860c7aadf.com
   - DOMAIN-SUFFIX,1f92a26341.0a57f6bbfd.com
@@ -407,9 +407,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -4702,7 +4699,6 @@ payload:
   - DOMAIN-SUFFIX,0675.org
   - DOMAIN-SUFFIX,067686.com
   - DOMAIN-SUFFIX,06790.com
-  - DOMAIN-SUFFIX,067f87da09.com
   - DOMAIN-SUFFIX,06802.com
   - DOMAIN-SUFFIX,06805.com
   - DOMAIN-SUFFIX,06814.com
@@ -7866,6 +7862,7 @@ payload:
   - DOMAIN-SUFFIX,455t.com
   - DOMAIN-SUFFIX,456345678.com
   - DOMAIN-SUFFIX,4567qp.com
+  - DOMAIN-SUFFIX,456fluxara.com
   - DOMAIN-SUFFIX,456mov.net
   - DOMAIN-SUFFIX,456qn.com
   - DOMAIN-SUFFIX,456thbombgroup.org
@@ -13001,6 +12998,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -15456,6 +15454,7 @@ payload:
   - DOMAIN-SUFFIX,callvideo.com
   - DOMAIN-SUFFIX,callyourdate.com
   - DOMAIN-SUFFIX,callyourinformer.com
+  - DOMAIN-SUFFIX,calm-hell.pro
   - DOMAIN-SUFFIX,calmbytedishwater.com
   - DOMAIN-SUFFIX,calmcactus.com
   - DOMAIN-SUFFIX,calmcloudstone.com
@@ -29593,7 +29592,6 @@ payload:
   - DOMAIN-SUFFIX,ironhorseautogroup.com
   - DOMAIN-SUFFIX,irqkfyeoyiac.com
   - DOMAIN-SUFFIX,irradiatestartle.com
-  - DOMAIN-SUFFIX,irregularcelebrateblazing.com
   - DOMAIN-SUFFIX,irreproachableradio.com
   - DOMAIN-SUFFIX,irresponsibleexit.pro
   - DOMAIN-SUFFIX,irresponsiblevalve.com
@@ -44015,7 +44013,6 @@ payload:
   - DOMAIN-SUFFIX,rvlcabsakhoog.space
   - DOMAIN-SUFFIX,rvluxury.com
   - DOMAIN-SUFFIX,rvnewstoday.com
-  - DOMAIN-SUFFIX,rvrpushserv.com
   - DOMAIN-SUFFIX,rvsiidddallwz.online
   - DOMAIN-SUFFIX,rvukbeuexr.com
   - DOMAIN-SUFFIX,rvvumafotor.com
@@ -52061,6 +52058,7 @@ payload:
   - DOMAIN-SUFFIX,waichoumo.net
   - DOMAIN-SUFFIX,waigaumaphips.net
   - DOMAIN-SUFFIX,wailinghassle.com
+  - DOMAIN-SUFFIX,wainfuljain.com
   - DOMAIN-SUFFIX,wairingcheney.com
   - DOMAIN-SUFFIX,wairong.com
   - DOMAIN-SUFFIX,waisheph.com
