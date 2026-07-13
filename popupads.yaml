@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Jul 2026 06:58 UTC
-# Version: 2026.0712.0658.27
+# Last modified: 12 Jul 2026 17:53 UTC
+# Version: 2026.0712.1753.28
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 55403
+# Number of entries: 55404
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -33,7 +33,6 @@ payload:
   - DOMAIN-SUFFIX,yongliboxianshangyulecheng.12540.org
   - DOMAIN-SUFFIX,297fdbc2f7.1426ab7568.com
   - DOMAIN-SUFFIX,pykrsz.17yaoqi.cc
-  - DOMAIN-SUFFIX,176edb63a6.1a9d1ca12a.com
   - DOMAIN-SUFFIX,3f17866695.1ac45b0913.com
   - DOMAIN-SUFFIX,4ce83dd618.1c497d51f2.com
   - DOMAIN-SUFFIX,lib-f6libtpovfl7jzihv76x3blk.1lib.at
@@ -49,9 +48,11 @@ payload:
   - DOMAIN-SUFFIX,yueyeezuluntan.297000.com
   - DOMAIN-SUFFIX,30bbe4fc47.2c8dd8f912.com
   - DOMAIN-SUFFIX,1cbd637d10.2c8eb505eb.com
+  - DOMAIN-SUFFIX,6bcc158a9d.2f7f58d605.com
   - DOMAIN-SUFFIX,bjl.2jiagong.com
   - DOMAIN-SUFFIX,polufredsoa.2mydns.net
   - DOMAIN-SUFFIX,35a92e241c.30ea3091fb.com
+  - DOMAIN-SUFFIX,eca1311030.3163ba76f7.com
   - DOMAIN-SUFFIX,500wanjishibifen.333gw.com
   - DOMAIN-SUFFIX,84029188ab.339f59c980.com
   - DOMAIN-SUFFIX,dubofalvguiding.33xs.com
@@ -60,7 +61,6 @@ payload:
   - DOMAIN-SUFFIX,test.365os.com
   - DOMAIN-SUFFIX,b3c733588e.36dc612c23.com
   - DOMAIN-SUFFIX,10f01c5188.36f822ca84.com
-  - DOMAIN-SUFFIX,9c2d7cdbd5.388826bd9d.com
   - DOMAIN-SUFFIX,500wancaipiaowang123.38dz.com
   - DOMAIN-SUFFIX,5e56217cd5.396d8aaa17.com
   - DOMAIN-SUFFIX,3cd1290174.3d6a6c3707.com
@@ -96,9 +96,9 @@ payload:
   - DOMAIN-SUFFIX,zh9prl.5200e.com
   - DOMAIN-SUFFIX,demo.52koala.com
   - DOMAIN-SUFFIX,6c062330ce.54653cc53d.com
-  - DOMAIN-SUFFIX,b141e5f455.5495d0c343.com
   - DOMAIN-SUFFIX,9fa67c2dc3.54a73dbcb6.com
   - DOMAIN-SUFFIX,pfwdca329.55477.com
+  - DOMAIN-SUFFIX,ddb8277edc.5608c7633c.com
   - DOMAIN-SUFFIX,beta.5744.cc
   - DOMAIN-SUFFIX,06b36b4508.5813e74b18.com
   - DOMAIN-SUFFIX,1fe6b5ca5a.5ea748c035.com
@@ -119,7 +119,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.710k.com
   - DOMAIN-SUFFIX,88.718pk.com
   - DOMAIN-SUFFIX,00cae06d30.720df8c8c9.com
-  - DOMAIN-SUFFIX,8b7ab78d6c.721474ff09.com
   - DOMAIN-SUFFIX,wx.72seo.com
   - DOMAIN-SUFFIX,plum.73cf.com
   - DOMAIN-SUFFIX,a3f3edf924.7470c4cda5.com
@@ -407,6 +406,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -7413,7 +7415,6 @@ payload:
   - DOMAIN-SUFFIX,2f2d60b8b5.com
   - DOMAIN-SUFFIX,2f3747e327.com
   - DOMAIN-SUFFIX,2f44166f35.com
-  - DOMAIN-SUFFIX,2f7f58d605.com
   - DOMAIN-SUFFIX,2fac37d3043958c40b070aa9e03761887235aae62f9a51e2caa649f9.com
   - DOMAIN-SUFFIX,2fb8or7ai.de
   - DOMAIN-SUFFIX,2ff08844f2.com
@@ -7547,7 +7548,6 @@ payload:
   - DOMAIN-SUFFIX,314gqd3es.de
   - DOMAIN-SUFFIX,31577315.com
   - DOMAIN-SUFFIX,315auto.com
-  - DOMAIN-SUFFIX,3163ba76f7.com
   - DOMAIN-SUFFIX,316916.top
   - DOMAIN-SUFFIX,316feq0nc.de
   - DOMAIN-SUFFIX,317796hmh.de
@@ -7792,6 +7792,7 @@ payload:
   - DOMAIN-SUFFIX,400bonuscasino.com
   - DOMAIN-SUFFIX,400bz.com
   - DOMAIN-SUFFIX,400degrees.com
+  - DOMAIN-SUFFIX,401ingear.com
   - DOMAIN-SUFFIX,401l.com
   - DOMAIN-SUFFIX,404systemerror.com
   - DOMAIN-SUFFIX,4058e46800.com
@@ -8085,7 +8086,6 @@ payload:
   - DOMAIN-SUFFIX,55mo.com
   - DOMAIN-SUFFIX,55sqz.com
   - DOMAIN-SUFFIX,55tk.cc
-  - DOMAIN-SUFFIX,5608c7633c.com
   - DOMAIN-SUFFIX,561649.com
   - DOMAIN-SUFFIX,561890.com
   - DOMAIN-SUFFIX,564a5a0rut08.top
@@ -12998,7 +12998,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -15350,6 +15349,7 @@ payload:
   - DOMAIN-SUFFIX,cabinetearly.com
   - DOMAIN-SUFFIX,cabinetrunners.com
   - DOMAIN-SUFFIX,cableharshlyilliterate.com
+  - DOMAIN-SUFFIX,cableinquisitive.com
   - DOMAIN-SUFFIX,cableng.com
   - DOMAIN-SUFFIX,cablepaddle.com
   - DOMAIN-SUFFIX,cableseedpneumonia.com
@@ -39093,6 +39093,7 @@ payload:
   - DOMAIN-SUFFIX,pausepots.com
   - DOMAIN-SUFFIX,pausewonderful.com
   - DOMAIN-SUFFIX,paushaunoosh.net
+  - DOMAIN-SUFFIX,pausingfaintly.com
   - DOMAIN-SUFFIX,pausingrespectfully.com
   - DOMAIN-SUFFIX,pausoawhais.com
   - DOMAIN-SUFFIX,pavementprosplanning.net
