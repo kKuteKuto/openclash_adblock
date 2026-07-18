@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jul 2026 07:34 UTC
-# Version: 2026.0710.0734.51
+# Last modified: 17 Jul 2026 17:38 UTC
+# Version: 2026.0717.1738.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 580
+# Number of entries: 581
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -463,6 +463,7 @@ payload:
   - DOMAIN-SUFFIX,rtc-logger.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-i18n.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,rtc-logger-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
