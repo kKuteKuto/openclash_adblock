@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jul 2026 17:54 UTC
-# Version: 2026.0719.1754.20
+# Last modified: 20 Jul 2026 06:53 UTC
+# Version: 2026.0720.0653.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56590
+# Number of entries: 56596
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -404,6 +404,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13182,7 +13185,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -28253,6 +28255,7 @@ payload:
   - DOMAIN-SUFFIX,hoojique.xyz
   - DOMAIN-SUFFIX,hookducksboastful.com
   - DOMAIN-SUFFIX,hookerinstrumentenlarge.com
+  - DOMAIN-SUFFIX,hookerprohibitionbrim.com
   - DOMAIN-SUFFIX,hookuppoundsatisfactorily.com
   - DOMAIN-SUFFIX,hookups-hots-searchs.com
   - DOMAIN-SUFFIX,hooliganachievement.com
@@ -29332,6 +29335,7 @@ payload:
   - DOMAIN-SUFFIX,impeccable-career.pro
   - DOMAIN-SUFFIX,impeccable-official.com
   - DOMAIN-SUFFIX,impeccableauction.com
+  - DOMAIN-SUFFIX,impeccablebrain.pro
   - DOMAIN-SUFFIX,impeccablepromise.pro
   - DOMAIN-SUFFIX,impeccablewriter.com
   - DOMAIN-SUFFIX,impedegrimy.com
@@ -41842,6 +41846,7 @@ payload:
   - DOMAIN-SUFFIX,pseghutsodizaig.net
   - DOMAIN-SUFFIX,psegrirtu.net
   - DOMAIN-SUFFIX,psergete.com
+  - DOMAIN-SUFFIX,pseudoenarbor.com
   - DOMAIN-SUFFIX,psflip.com
   - DOMAIN-SUFFIX,psfmi.com
   - DOMAIN-SUFFIX,psgddusxwtmgj.online
@@ -51772,6 +51777,7 @@ payload:
   - DOMAIN-SUFFIX,usa-games.org
   - DOMAIN-SUFFIX,usable-hello.com
   - DOMAIN-SUFFIX,usable-march.pro
+  - DOMAIN-SUFFIX,usablebear.pro
   - DOMAIN-SUFFIX,usadeepseek.com
   - DOMAIN-SUFFIX,usbrowserspeed.com
   - DOMAIN-SUFFIX,usdcslot.com
