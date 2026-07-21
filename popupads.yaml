@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Jul 2026 17:54 UTC
-# Version: 2026.0720.1754.49
+# Last modified: 21 Jul 2026 06:52 UTC
+# Version: 2026.0721.0652.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56569
+# Number of entries: 56572
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -404,6 +404,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13182,7 +13185,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -17955,6 +17957,7 @@ payload:
   - DOMAIN-SUFFIX,coolsthehoneydatings.com
   - DOMAIN-SUFFIX,coolstreamsearch.com
   - DOMAIN-SUFFIX,coolthewomanonlines.com
+  - DOMAIN-SUFFIX,coonlentisk.cyou
   - DOMAIN-SUFFIX,cooperateawardempower.com
   - DOMAIN-SUFFIX,cooperatemarker.com
   - DOMAIN-SUFFIX,cooperationgauntleteggs.com
@@ -25527,6 +25530,7 @@ payload:
   - DOMAIN-SUFFIX,geminidshotgun.top
   - DOMAIN-SUFFIX,gemjtemdi.com
   - DOMAIN-SUFFIX,gemlikevarios.com
+  - DOMAIN-SUFFIX,gemmaryramate.cfd
   - DOMAIN-SUFFIX,gemuzyste.com
   - DOMAIN-SUFFIX,gemwdjttn.com
   - DOMAIN-SUFFIX,gemwin.pink
@@ -47461,7 +47465,6 @@ payload:
   - DOMAIN-SUFFIX,sprunglurk.com
   - DOMAIN-SUFFIX,sprungstorm.com
   - DOMAIN-SUFFIX,sprutpartners.com
-  - DOMAIN-SUFFIX,spry-cat.com
   - DOMAIN-SUFFIX,spry-issue.com
   - DOMAIN-SUFFIX,spry-trick.com
   - DOMAIN-SUFFIX,sprysummit.com
