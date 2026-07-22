@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Jul 2026 17:55 UTC
-# Version: 2026.0721.1755.01
+# Last modified: 22 Jul 2026 06:58 UTC
+# Version: 2026.0722.0658.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56576
+# Number of entries: 56581
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -404,6 +404,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13182,7 +13185,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -29347,6 +29349,7 @@ payload:
   - DOMAIN-SUFFIX,impedegrimy.com
   - DOMAIN-SUFFIX,impendingcollateral.com
   - DOMAIN-SUFFIX,imperativeshot.com
+  - DOMAIN-SUFFIX,imperfect-dead.pro
   - DOMAIN-SUFFIX,imperfect-equivalent.com
   - DOMAIN-SUFFIX,imperfect-pace.pro
   - DOMAIN-SUFFIX,imperfectmedicine.pro
@@ -29512,6 +29515,7 @@ payload:
   - DOMAIN-SUFFIX,indeedlikewise-342.com
   - DOMAIN-SUFFIX,indeedpessimisticoverdo.com
   - DOMAIN-SUFFIX,indefinitelyconfirmed.com
+  - DOMAIN-SUFFIX,indefinitelynutmegbile.com
   - DOMAIN-SUFFIX,indefinitelytonsil.com
   - DOMAIN-SUFFIX,indefinitemantle.com
   - DOMAIN-SUFFIX,indefinitescratchedmayonnaise.com
@@ -40651,6 +40655,7 @@ payload:
   - DOMAIN-SUFFIX,plandappsb.com
   - DOMAIN-SUFFIX,planeadvancing.com
   - DOMAIN-SUFFIX,planebasin.com
+  - DOMAIN-SUFFIX,planesrightygalaxy.com
   - DOMAIN-SUFFIX,planet7links.com
   - DOMAIN-SUFFIX,planetarium-planet.com
   - DOMAIN-SUFFIX,planetbleedsagacious.com
