@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 22 Jul 2026 17:54 UTC
-# Version: 2026.0722.1754.04
+# Last modified: 23 Jul 2026 06:55 UTC
+# Version: 2026.0723.0655.30
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 56584
 #
@@ -211,9 +211,6 @@ payload:
   - DOMAIN-SUFFIX,hm.agiosdecyne.com
   - DOMAIN-SUFFIX,lw.agnateseric.com
   - DOMAIN-SUFFIX,hc.agogtowie.com
-  - DOMAIN-SUFFIX,cdn12359286.ahacdn.me
-  - DOMAIN-SUFFIX,cdn28786515.ahacdn.me
-  - DOMAIN-SUFFIX,cdn44221613.ahacdn.me
   - DOMAIN-SUFFIX,ip186269007.ahcdn.com
   - DOMAIN-SUFFIX,sy.ahimsasunicing.com
   - DOMAIN-SUFFIX,zs.ahspinxter.com
@@ -404,6 +401,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13183,7 +13183,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -35043,6 +35042,7 @@ payload:
   - DOMAIN-SUFFIX,mellodur.net
   - DOMAIN-SUFFIX,mellow-expert.pro
   - DOMAIN-SUFFIX,mellowpattern.pro
+  - DOMAIN-SUFFIX,mellowwatch.pro
   - DOMAIN-SUFFIX,meloads.com
   - DOMAIN-SUFFIX,melodiouschorus.com
   - DOMAIN-SUFFIX,melodiouscomposition.com
