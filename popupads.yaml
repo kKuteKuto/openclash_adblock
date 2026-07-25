@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jul 2026 06:58 UTC
-# Version: 2026.0724.0658.11
+# Last modified: 24 Jul 2026 17:12 UTC
+# Version: 2026.0724.1712.25
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56596
+# Number of entries: 56594
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -401,9 +401,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13184,6 +13181,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -36283,7 +36281,6 @@ payload:
   - DOMAIN-SUFFIX,muyuan.asia
   - DOMAIN-SUFFIX,muzarabeponym.website
   - DOMAIN-SUFFIX,muzhskoy.xyz
-  - DOMAIN-SUFFIX,muzikguide.com
   - DOMAIN-SUFFIX,muzza.ru
   - DOMAIN-SUFFIX,muzzleexterminator.com
   - DOMAIN-SUFFIX,muzzlematrix.com
@@ -39266,6 +39263,7 @@ payload:
   - DOMAIN-SUFFIX,outonixan.com
   - DOMAIN-SUFFIX,outpiperibbers.website
   - DOMAIN-SUFFIX,outqsfjujyowub.com
+  - DOMAIN-SUFFIX,outrageelupgrade.com
   - DOMAIN-SUFFIX,outrageous-connection.pro
   - DOMAIN-SUFFIX,outrageous-review.pro
   - DOMAIN-SUFFIX,outrageousostentatiousdefiant.com
