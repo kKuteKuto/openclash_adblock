@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 Jul 2026 17:12 UTC
-# Version: 2026.0724.1712.25
+# Last modified: 25 Jul 2026 06:56 UTC
+# Version: 2026.0725.0656.14
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56594
+# Number of entries: 56598
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -401,6 +401,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13181,7 +13184,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -38815,6 +38817,7 @@ payload:
   - DOMAIN-SUFFIX,opeanresultancete.info
   - DOMAIN-SUFFIX,open-office.fr
   - DOMAIN-SUFFIX,openadserving.com
+  - DOMAIN-SUFFIX,openairharvest.com
   - DOMAIN-SUFFIX,openblack.pro
   - DOMAIN-SUFFIX,openbook.net
   - DOMAIN-SUFFIX,opencan.net
@@ -53524,6 +53527,7 @@ payload:
   - DOMAIN-SUFFIX,weike88.com
   - DOMAIN-SUFFIX,weirdopt.com
   - DOMAIN-SUFFIX,weirdsentence.com
+  - DOMAIN-SUFFIX,weirdusual.pro
   - DOMAIN-SUFFIX,weirong.cc
   - DOMAIN-SUFFIX,wejeestuze.net
   - DOMAIN-SUFFIX,wel-wel-fie.com
