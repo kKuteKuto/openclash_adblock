@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jul 2026 06:56 UTC
-# Version: 2026.0725.0656.14
+# Last modified: 25 Jul 2026 17:54 UTC
+# Version: 2026.0725.1754.06
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56598
+# Number of entries: 56599
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -401,9 +401,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -9490,6 +9487,7 @@ payload:
   - DOMAIN-SUFFIX,adenza.dev
   - DOMAIN-SUFFIX,adept-door.pro
   - DOMAIN-SUFFIX,adept-emergency.com
+  - DOMAIN-SUFFIX,adeptdoorstep.com
   - DOMAIN-SUFFIX,adeptoksuspicion.com
   - DOMAIN-SUFFIX,adersaucho.net
   - DOMAIN-SUFFIX,adespresso.com
@@ -13184,6 +13182,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -17300,6 +17299,7 @@ payload:
   - DOMAIN-SUFFIX,coajouthaphe.top
   - DOMAIN-SUFFIX,coakeegrir.net
   - DOMAIN-SUFFIX,coaldiameteritself.com
+  - DOMAIN-SUFFIX,coalifynoires.qpon
   - DOMAIN-SUFFIX,coalitionfoul.com
   - DOMAIN-SUFFIX,coapheeboastup.net
   - DOMAIN-SUFFIX,coapheecoz.xyz
@@ -45231,6 +45231,7 @@ payload:
   - DOMAIN-SUFFIX,saqrusmmylc.com
   - DOMAIN-SUFFIX,sarcasmadvisor.com
   - DOMAIN-SUFFIX,sarcastic-finance.com
+  - DOMAIN-SUFFIX,sarcastic-guard.pro
   - DOMAIN-SUFFIX,sarcastic-location.com
   - DOMAIN-SUFFIX,sarcasticenforcement.com
   - DOMAIN-SUFFIX,sarcasticnotarycontrived.com
