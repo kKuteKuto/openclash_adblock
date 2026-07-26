@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 25 Jul 2026 17:54 UTC
-# Version: 2026.0725.1754.06
+# Last modified: 26 Jul 2026 06:54 UTC
+# Version: 2026.0726.0654.01
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56599
+# Number of entries: 56602
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -401,6 +401,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13182,7 +13185,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -20070,6 +20072,7 @@ payload:
   - DOMAIN-SUFFIX,diginovita.com
   - DOMAIN-SUFFIX,digipathmedia.com
   - DOMAIN-SUFFIX,digital-failure.pro
+  - DOMAIN-SUFFIX,digital-meet.pro
   - DOMAIN-SUFFIX,digital-safety-network.com
   - DOMAIN-SUFFIX,digital2cloud.com
   - DOMAIN-SUFFIX,digitaladvertisingalliance.org
