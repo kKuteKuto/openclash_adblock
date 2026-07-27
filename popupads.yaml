@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Jul 2026 17:30 UTC
-# Version: 2026.0726.1730.58
+# Last modified: 27 Jul 2026 07:00 UTC
+# Version: 2026.0727.0700.04
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56602
+# Number of entries: 56605
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -3256,6 +3256,7 @@ payload:
   - DOMAIN-SUFFIX,gx.unidealupshut.com
   - DOMAIN-SUFFIX,co.unionsdominos.help
   - DOMAIN-SUFFIX,app.uniswaq.org
+  - DOMAIN-SUFFIX,offerwall.unity3d.com
   - DOMAIN-SUFFIX,boardband.univer.se
   - DOMAIN-SUFFIX,jj.unknowlagurus.shop
   - DOMAIN-SUFFIX,gn.unlevelyonder.com
@@ -10780,6 +10781,7 @@ payload:
   - DOMAIN-SUFFIX,ajratgatjav.com
   - DOMAIN-SUFFIX,ajrkm1.com
   - DOMAIN-SUFFIX,ajrkm3.com
+  - DOMAIN-SUFFIX,ajrkmx1.com
   - DOMAIN-SUFFIX,ajscdn.com
   - DOMAIN-SUFFIX,ajtdabkiwa.com
   - DOMAIN-SUFFIX,ajump1.com
@@ -34779,6 +34781,7 @@ payload:
   - DOMAIN-SUFFIX,mbidtg.com
   - DOMAIN-SUFFIX,mbitspctools.live
   - DOMAIN-SUFFIX,mbjrkm2.com
+  - DOMAIN-SUFFIX,mbjrkmms.com
   - DOMAIN-SUFFIX,mbjupyabixsxb.com
   - DOMAIN-SUFFIX,mblyjustingex.org
   - DOMAIN-SUFFIX,mbnvelqdya.com
