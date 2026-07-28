@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jul 2026 07:00 UTC
-# Version: 2026.0727.0700.04
+# Last modified: 27 Jul 2026 17:27 UTC
+# Version: 2026.0727.1727.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56605
+# Number of entries: 56606
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -24231,6 +24231,7 @@ payload:
   - DOMAIN-SUFFIX,floweryminimum.pro
   - DOMAIN-SUFFIX,floweryoil.pro
   - DOMAIN-SUFFIX,flowingdeficitjeanne.com
+  - DOMAIN-SUFFIX,flowmetriclab.online
   - DOMAIN-SUFFIX,flownetexpress.com
   - DOMAIN-SUFFIX,flowpanlive.com
   - DOMAIN-SUFFIX,flowsearch.info
