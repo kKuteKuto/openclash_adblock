@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 27 Jul 2026 17:27 UTC
-# Version: 2026.0727.1727.31
+# Last modified: 28 Jul 2026 09:53 UTC
+# Version: 2026.0728.0953.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 56606
+# Number of entries: 56611
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -401,6 +401,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12575,6 +12578,7 @@ payload:
   - DOMAIN-SUFFIX,authenticflirtatious.com
   - DOMAIN-SUFFIX,authoaxoms.net
   - DOMAIN-SUFFIX,authognu.com
+  - DOMAIN-SUFFIX,authoritativepaulbasic.com
   - DOMAIN-SUFFIX,authoritativepilgrimwhirlwind.com
   - DOMAIN-SUFFIX,authoritiesdigitalchagrin.com
   - DOMAIN-SUFFIX,authorized-let.com
@@ -13184,7 +13188,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -16941,7 +16944,6 @@ payload:
   - DOMAIN-SUFFIX,clbanners9.com
   - DOMAIN-SUFFIX,clbjmp.com
   - DOMAIN-SUFFIX,clcgndeaiuxftw.com
-  - DOMAIN-SUFFIX,clcktrck.com
   - DOMAIN-SUFFIX,clcktrkr.com
   - DOMAIN-SUFFIX,clckysudks.com
   - DOMAIN-SUFFIX,clcl.lol
@@ -37416,6 +37418,7 @@ payload:
   - DOMAIN-SUFFIX,nonethelessaugustcategory.com
   - DOMAIN-SUFFIX,nonfatmolochs.com
   - DOMAIN-SUFFIX,nongamespewers.com
+  - DOMAIN-SUFFIX,nonlifelunts.cyou
   - DOMAIN-SUFFIX,nono.qpon
   - DOMAIN-SUFFIX,nonreligiousbible.com
   - DOMAIN-SUFFIX,nonseertoux.net
@@ -40664,6 +40667,7 @@ payload:
   - DOMAIN-SUFFIX,plaincoaxdispute.com
   - DOMAIN-SUFFIX,plainfeelings.com
   - DOMAIN-SUFFIX,plainpatient.pro
+  - DOMAIN-SUFFIX,plaintive-east.pro
   - DOMAIN-SUFFIX,plaitluctual.com
   - DOMAIN-SUFFIX,plan-diet.com
   - DOMAIN-SUFFIX,plan-health.com
@@ -56169,6 +56173,7 @@ payload:
   - DOMAIN-SUFFIX,zerorson.com
   - DOMAIN-SUFFIX,zerospread.ai
   - DOMAIN-SUFFIX,zesrsywjvphmj.store
+  - DOMAIN-SUFFIX,zesty-lead.pro
   - DOMAIN-SUFFIX,zestycrime.com
   - DOMAIN-SUFFIX,zetadeo.com
   - DOMAIN-SUFFIX,zetaframes.com
