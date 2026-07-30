@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 29 Jul 2026 09:52 UTC
-# Version: 2026.0729.0952.29
+# Last modified: 29 Jul 2026 17:29 UTC
+# Version: 2026.0729.1729.49
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54172
+# Number of entries: 54169
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -396,9 +396,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -3020,7 +3017,6 @@ payload:
   - DOMAIN-SUFFIX,cr.tatsmanaffects.com
   - DOMAIN-SUFFIX,tj.tazzaspices.com
   - DOMAIN-SUFFIX,go.tbllprem.com
-  - DOMAIN-SUFFIX,go.tbllreg.com
   - DOMAIN-SUFFIX,go.tbllrej.com
   - DOMAIN-SUFFIX,go.tbllzon.com
   - DOMAIN-SUFFIX,pgk.te1p-a4ir.com
@@ -12942,6 +12938,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -13619,6 +13616,7 @@ payload:
   - DOMAIN-SUFFIX,biaqghckapnum.online
   - DOMAIN-SUFFIX,bibbysilkmen.com
   - DOMAIN-SUFFIX,bibico.org
+  - DOMAIN-SUFFIX,bibleearthquake.com
   - DOMAIN-SUFFIX,bicnhetimm.com
   - DOMAIN-SUFFIX,bicyclelistclimaxdrone.com
   - DOMAIN-SUFFIX,bicyclelistworst.com
@@ -35644,7 +35642,6 @@ payload:
   - DOMAIN-SUFFIX,newsaboutsugar.com
   - DOMAIN-SUFFIX,newsadsppush.com
   - DOMAIN-SUFFIX,newsatads.com
-  - DOMAIN-SUFFIX,newsboydurance.cfd
   - DOMAIN-SUFFIX,newscadence.com
   - DOMAIN-SUFFIX,newsdaily.biz
   - DOMAIN-SUFFIX,newsfeedzscrollz.com
