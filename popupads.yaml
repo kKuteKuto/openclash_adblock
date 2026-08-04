@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Aug 2026 21:29 UTC
-# Version: 2026.0803.2129.35
+# Last modified: 04 Aug 2026 06:54 UTC
+# Version: 2026.0804.0654.24
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54251
+# Number of entries: 54250
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -9877,7 +9877,6 @@ payload:
   - DOMAIN-SUFFIX,adtrue.com
   - DOMAIN-SUFFIX,adtrue24.com
   - DOMAIN-SUFFIX,adulateearring.com
-  - DOMAIN-SUFFIX,adult.xyz
   - DOMAIN-SUFFIX,adultadvertising.net
   - DOMAIN-SUFFIX,adultadworld.com
   - DOMAIN-SUFFIX,adultcallcenter.com
