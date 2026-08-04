@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 Aug 2026 06:59 UTC
-# Version: 2026.0803.0659.39
+# Last modified: 03 Aug 2026 21:29 UTC
+# Version: 2026.0803.2129.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54250
+# Number of entries: 54251
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -3023,6 +3023,7 @@ payload:
   - DOMAIN-SUFFIX,cr.tatsmanaffects.com
   - DOMAIN-SUFFIX,tj.tazzaspices.com
   - DOMAIN-SUFFIX,go.tbllprem.com
+  - DOMAIN-SUFFIX,go.tbllreg.com
   - DOMAIN-SUFFIX,go.tbllrej.com
   - DOMAIN-SUFFIX,go.tbllzon.com
   - DOMAIN-SUFFIX,pgk.te1p-a4ir.com
@@ -7177,7 +7178,6 @@ payload:
   - DOMAIN-SUFFIX,20seven.org
   - DOMAIN-SUFFIX,20thcpaint.org
   - DOMAIN-SUFFIX,20tracks.com
-  - DOMAIN-SUFFIX,21-dream.com
   - DOMAIN-SUFFIX,21-media.com
   - DOMAIN-SUFFIX,215cams.com
   - DOMAIN-SUFFIX,2169.cc
@@ -7480,7 +7480,6 @@ payload:
   - DOMAIN-SUFFIX,2t4f7g9a.de
   - DOMAIN-SUFFIX,2ta5l5rc0.de
   - DOMAIN-SUFFIX,2tfg9bo2i.de
-  - DOMAIN-SUFFIX,2tgallery.com
   - DOMAIN-SUFFIX,2thumbswap.com
   - DOMAIN-SUFFIX,2tlc698ma.de
   - DOMAIN-SUFFIX,2tq7pgs0f.de
@@ -28010,6 +28009,7 @@ payload:
   - DOMAIN-SUFFIX,icdirect.com
   - DOMAIN-SUFFIX,icdrdgeh.com
   - DOMAIN-SUFFIX,icebergaccusedfurnace.com
+  - DOMAIN-SUFFIX,icecapunspeak.cfd
   - DOMAIN-SUFFIX,icelessbogles.com
   - DOMAIN-SUFFIX,iceprogs.ru
   - DOMAIN-SUFFIX,icetechus.com
@@ -28092,6 +28092,7 @@ payload:
   - DOMAIN-SUFFIX,idoletsluices.com
   - DOMAIN-SUFFIX,idolized-laugh.com
   - DOMAIN-SUFFIX,idolized-record.pro
+  - DOMAIN-SUFFIX,idolized-share.pro
   - DOMAIN-SUFFIX,idolized-style.pro
   - DOMAIN-SUFFIX,idolizedestimate.pro
   - DOMAIN-SUFFIX,idolizedfoundation.pro
@@ -37485,6 +37486,7 @@ payload:
   - DOMAIN-SUFFIX,optimizesocial.com
   - DOMAIN-SUFFIX,optimizesrv.com
   - DOMAIN-SUFFIX,optimumassurancevie.com
+  - DOMAIN-SUFFIX,optinmonster.com
   - DOMAIN-SUFFIX,optionsdisk.com
   - DOMAIN-SUFFIX,optiontwentiethhart.com
   - DOMAIN-SUFFIX,optnx.com
@@ -40521,7 +40523,6 @@ payload:
   - DOMAIN-SUFFIX,pubgalaxy.com
   - DOMAIN-SUFFIX,pubgears.com
   - DOMAIN-SUFFIX,pubgenius.io
-  - DOMAIN-SUFFIX,pubguru.com
   - DOMAIN-SUFFIX,pubguru.net
   - DOMAIN-SUFFIX,pubimageboard.com
   - DOMAIN-SUFFIX,pubjzoxav.com

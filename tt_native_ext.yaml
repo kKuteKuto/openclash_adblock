@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 01 Aug 2026 18:03 UTC
-# Version: 2026.0801.1803.15
+# Last modified: 03 Aug 2026 17:41 UTC
+# Version: 2026.0803.1741.00
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 583
+# Number of entries: 604
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -79,8 +79,10 @@ payload:
   - DOMAIN-SUFFIX,mon-boot.capcutapi.com
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com
+  - DOMAIN-SUFFIX,mon-va.capcutapi.com
   - DOMAIN-SUFFIX,mon16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,mon16-normal-us-ttp2.capcutapi.us
   - DOMAIN-SUFFIX,mon32-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
   - DOMAIN-SUFFIX,mssdk-boot.capcutapi.com
@@ -95,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,pc-mon-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp2.capcutapi.us
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
   - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
   - DOMAIN-SUFFIX,tnc-v2-boot.capcutapi.com
@@ -123,6 +126,13 @@ payload:
   - DOMAIN-SUFFIX,mcs-va-useast2a.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mon-boot.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mssdk-boot.tiktokv.com.edgekey.net
+  - DOMAIN-SUFFIX,mon-boot.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,mon-sg.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,mon16-normal-sg.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,pc-mon-normal-sg.capcutapi.com.edgesuite.net
+  - DOMAIN-SUFFIX,pc-mon-v2-boot.capcutapi.com.edgesuite.net
   - DOMAIN-SUFFIX,analytics.us.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,analytics-exp.us.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,analytics-ttp2.us.tiktok.com.edgesuite.net
@@ -149,6 +159,10 @@ payload:
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.edgesuite.net
   - DOMAIN-SUFFIX,mcs16-normal-no1a.tiktokw.eu.edgesuite.net
   - DOMAIN-SUFFIX,mcs16-normal-useastred.tiktokw.eu.edgesuite.net
+  - DOMAIN-SUFFIX,mon.capcutapi.us.edgesuite.net
+  - DOMAIN-SUFFIX,mon16-normal-us-ttp.capcutapi.us.edgesuite.net
+  - DOMAIN-SUFFIX,mon16-normal-us-ttp2.capcutapi.us.edgesuite.net
+  - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
   - DOMAIN-SUFFIX,frontier.capcutw.us.edgesuite.net
   - DOMAIN-SUFFIX,ad-instantpage.tiktokv.us.edgesuite.net
   - DOMAIN-SUFFIX,ad-instantpage-ttp2.tiktokv.us.edgesuite.net
@@ -580,6 +594,13 @@ payload:
   - DOMAIN-SUFFIX,mssdk.tiktokw.eu
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,mssdk16-normal-useastred.tiktokw.eu
+  - DOMAIN-SUFFIX,mon-boot.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,mon-sg.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,mon-va.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,pc-mon-normal-sg.capcutapi.com.ttdns2.com
+  - DOMAIN-SUFFIX,pc-mon-v2-boot.capcutapi.com.ttdns2.com
   - DOMAIN-SUFFIX,analytics.tiktok.com.ttdns2.com
   - DOMAIN-SUFFIX,analytics-exp-ru.tiktok.com.ttdns2.com
   - DOMAIN-SUFFIX,analytics-ru.tiktok.com.ttdns2.com
