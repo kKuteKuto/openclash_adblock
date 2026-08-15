@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Aug 2026 07:09 UTC
-# Version: 2026.0814.0709.59
+# Last modified: 14 Aug 2026 14:15 UTC
+# Version: 2026.0814.1415.22
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 52290
+# Number of entries: 52289
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -357,9 +357,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12647,6 +12644,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -15436,6 +15434,7 @@ payload:
   - DOMAIN-SUFFIX,cdwmtt.com
   - DOMAIN-SUFFIX,ce0oil1ibu.com
   - DOMAIN-SUFFIX,ce6fc56927.com
+  - DOMAIN-SUFFIX,ceasedroommateunseen.com
   - DOMAIN-SUFFIX,ceaslesswisely.com
   - DOMAIN-SUFFIX,cec8fcac3f1d0232d9b71bbb295073c52d2b1ca6bbe711fbc8020f4a.com
   - DOMAIN-SUFFIX,cecilngoma.com

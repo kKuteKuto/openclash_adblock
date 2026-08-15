@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Aug 2026 11:24 UTC
-# Version: 2026.0814.1124.08
+# Last modified: 14 Aug 2026 15:20 UTC
+# Version: 2026.0814.1520.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 431660
+# Number of entries: 431333
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -289,13 +289,6 @@ payload:
   - DOMAIN-SUFFIX,starbets.br.com
   - DOMAIN-SUFFIX,record.brave158.com
   - DOMAIN-SUFFIX,record.brave888.com
-  - DOMAIN-SUFFIX,m075e76.bruce-topcasino.com
-  - DOMAIN-SUFFIX,mfecf12.bruce-topcasino.com
-  - DOMAIN-SUFFIX,m723671.brucebetfortune.com
-  - DOMAIN-SUFFIX,m740987.brucebetgame.com
-  - DOMAIN-SUFFIX,m115a8b.brucebetgaming.com
-  - DOMAIN-SUFFIX,mbc84e7.brucebetgaming.com
-  - DOMAIN-SUFFIX,ma37d3c.brucebetplay.com
   - DOMAIN-SUFFIX,gr.brucebett.com
   - DOMAIN-SUFFIX,api.btyseo.com
   - DOMAIN-SUFFIX,vip.buffaloplay.net
@@ -1828,7 +1821,6 @@ payload:
   - DOMAIN-SUFFIX,madcasino2.co.uk
   - DOMAIN-SUFFIX,madcasinoo.co.uk
   - DOMAIN-SUFFIX,madslotss.co.uk
-  - DOMAIN-SUFFIX,magicianbet-casino.co.uk
   - DOMAIN-SUFFIX,magicred-casino.co.za
   - DOMAIN-SUFFIX,magicwin-casino.co.nl
   - DOMAIN-SUFFIX,magicwincasino.co.uk
@@ -3433,7 +3425,6 @@ payload:
   - DOMAIN-SUFFIX,chickengamecasino.com.hr
   - DOMAIN-SUFFIX,chickenroad.com.gr
   - DOMAIN-SUFFIX,chickenroad2casino.com.pl
-  - DOMAIN-SUFFIX,chickenroadgame.com.gr
   - DOMAIN-SUFFIX,chillbet-casino.com.mx
   - DOMAIN-SUFFIX,chorro.com.mx
   - DOMAIN-SUFFIX,chromabet.com.au
@@ -4932,7 +4923,6 @@ payload:
   - DOMAIN-SUFFIX,mostbets-pol.edu.pl
   - DOMAIN-SUFFIX,pid.edu.pl
   - DOMAIN-SUFFIX,poker.edu.pl
-  - DOMAIN-SUFFIX,superbet.edu.gr
   - DOMAIN-SUFFIX,twincasino.edu.gr
   - DOMAIN-SUFFIX,wazbeecasino.edu.pl
   - DOMAIN-SUFFIX,8a21763d-f8c0-42db-a6e0-1538e55ea6b8.eldoradocasino-zoo.top
@@ -5023,9 +5013,6 @@ payload:
   - DOMAIN-SUFFIX,daftarsbobet.freeoda.com
   - DOMAIN-SUFFIX,m.frumzi-0911.com
   - DOMAIN-SUFFIX,m.frumzi-7397.com
-  - DOMAIN-SUFFIX,m4422a1.fun-bruce-casino.com
-  - DOMAIN-SUFFIX,m6b6bea.fun-bruce-casino.com
-  - DOMAIN-SUFFIX,m79b9de.fun-bruce-casino.com
   - DOMAIN-SUFFIX,3m.gaejkse.com
   - DOMAIN-SUFFIX,frq.game4stxo.com
   - DOMAIN-SUFFIX,logging-gateway.gamealiyun.com
@@ -5297,7 +5284,6 @@ payload:
   - DOMAIN-SUFFIX,ats4.ltgaleria.com
   - DOMAIN-SUFFIX,ats5.ltgaleria.com
   - DOMAIN-SUFFIX,app.lucklake.com
-  - DOMAIN-SUFFIX,mc6366e.luckybrucebet.com
   - DOMAIN-SUFFIX,app.luckycanoe.com
   - DOMAIN-SUFFIX,static.luckylion.casino
   - DOMAIN-SUFFIX,img.m156b.com
@@ -5395,7 +5381,6 @@ payload:
   - DOMAIN-SUFFIX,upload.mm539.com
   - DOMAIN-SUFFIX,w.mm9953.com
   - DOMAIN-SUFFIX,tkoa.mo86urvm.com
-  - DOMAIN-SUFFIX,mc2ef08.moneywinners.net
   - DOMAIN-SUFFIX,mostbet.mostbet-cz.art
   - DOMAIN-SUFFIX,mostbet.mostbet-cz.ink
   - DOMAIN-SUFFIX,grandbet.motoinsanity.com
@@ -5981,7 +5966,6 @@ payload:
   - DOMAIN-SUFFIX,hot-casino.org.uk
   - DOMAIN-SUFFIX,ibosloto.org.uk
   - DOMAIN-SUFFIX,ignitioncasino.org.lv
-  - DOMAIN-SUFFIX,ind777.org.in
   - DOMAIN-SUFFIX,jackcasino.org.uk
   - DOMAIN-SUFFIX,jackpotraider-casino.org.uk
   - DOMAIN-SUFFIX,jackpotraidercasino.org.uk
@@ -6404,7 +6388,6 @@ payload:
   - DOMAIN-SUFFIX,cdnapiif.slot88888.top
   - DOMAIN-SUFFIX,api.slotmania333.com
   - DOMAIN-SUFFIX,games.slotsdevil.com
-  - DOMAIN-SUFFIX,m302812.slotsforluck.com
   - DOMAIN-SUFFIX,landpage.slotsgalactic.com
   - DOMAIN-SUFFIX,lobby.slotspice.com
   - DOMAIN-SUFFIX,casino.slotszone.com
@@ -6657,25 +6640,6 @@ payload:
   - DOMAIN-SUFFIX,6686buzz.xim.tv
   - DOMAIN-SUFFIX,landpage.xocdiahub.com
   - DOMAIN-SUFFIX,landpage.xocdiawin.com
-  - DOMAIN-SUFFIX,m26ded5.xon10.bet
-  - DOMAIN-SUFFIX,m27a773.xon10.bet
-  - DOMAIN-SUFFIX,m160f40.xon11.bet
-  - DOMAIN-SUFFIX,mfdcc2b.xon11.bet
-  - DOMAIN-SUFFIX,m08cbc3.xon12.bet
-  - DOMAIN-SUFFIX,mf78835.xon12.bet
-  - DOMAIN-SUFFIX,m79f1cc.xon125.bet
-  - DOMAIN-SUFFIX,m39e228.xon126.bet
-  - DOMAIN-SUFFIX,m914d5d.xon13.bet
-  - DOMAIN-SUFFIX,mca2f2b.xon16.bet
-  - DOMAIN-SUFFIX,m130d2c.xon18.bet
-  - DOMAIN-SUFFIX,mb467ef.xon19.bet
-  - DOMAIN-SUFFIX,mac9763.xon20.bet
-  - DOMAIN-SUFFIX,mc27688.xon20.bet
-  - DOMAIN-SUFFIX,me5464a.xon7.bet
-  - DOMAIN-SUFFIX,m60c246.xon8.bet
-  - DOMAIN-SUFFIX,m923d3a.xon8.bet
-  - DOMAIN-SUFFIX,m655054.xon9.bet
-  - DOMAIN-SUFFIX,mc0b114.xon9.bet
   - DOMAIN-SUFFIX,togel2.xtgem.com
   - DOMAIN-SUFFIX,file-assist.xuzor.com
   - DOMAIN-SUFFIX,pt777amp.xyzq2.com
@@ -17664,7 +17628,6 @@ payload:
   - DOMAIN-SUFFIX,19slots.app
   - DOMAIN-SUFFIX,19slots.bet
   - DOMAIN-SUFFIX,19slotvip.cc
-  - DOMAIN-SUFFIX,19spinania23.com
   - DOMAIN-SUFFIX,19spinto548.casino
   - DOMAIN-SUFFIX,19t.casino
   - DOMAIN-SUFFIX,19tbajee.com
@@ -18662,6 +18625,7 @@ payload:
   - DOMAIN-SUFFIX,1weoky.life
   - DOMAIN-SUFFIX,1wfadq.top
   - DOMAIN-SUFFIX,1wfiyq.life
+  - DOMAIN-SUFFIX,1wfqxn.life
   - DOMAIN-SUFFIX,1whenu.com
   - DOMAIN-SUFFIX,1whfxh.life
   - DOMAIN-SUFFIX,1whlvb.com
@@ -19746,7 +19710,6 @@ payload:
   - DOMAIN-SUFFIX,1wln.casino
   - DOMAIN-SUFFIX,1wlvkt.life
   - DOMAIN-SUFFIX,1wlwvz.win
-  - DOMAIN-SUFFIX,1wmxk.com
   - DOMAIN-SUFFIX,1wngpg.win
   - DOMAIN-SUFFIX,1wnqnm.com
   - DOMAIN-SUFFIX,1wnvqf.live
@@ -41831,7 +41794,6 @@ payload:
   - DOMAIN-SUFFIX,1xbit8.com
   - DOMAIN-SUFFIX,1xbit88.com
   - DOMAIN-SUFFIX,1xbit9.com
-  - DOMAIN-SUFFIX,1xbit949491.top
   - DOMAIN-SUFFIX,1xbitbanners.com
   - DOMAIN-SUFFIX,1xbitcasino.jp
   - DOMAIN-SUFFIX,1xbitcasinos.com
@@ -44480,7 +44442,6 @@ payload:
   - DOMAIN-SUFFIX,20korwin.com
   - DOMAIN-SUFFIX,20lazybar63.com
   - DOMAIN-SUFFIX,20luckbet.com
-  - DOMAIN-SUFFIX,20manekispin18.com
   - DOMAIN-SUFFIX,20mindepositcasino.com
   - DOMAIN-SUFFIX,20minimumdepositcasino.com
   - DOMAIN-SUFFIX,20minimumdepositcasinos.com
@@ -45329,7 +45290,6 @@ payload:
   - DOMAIN-SUFFIX,21royalstiger54.com
   - DOMAIN-SUFFIX,21slotsgo.com
   - DOMAIN-SUFFIX,21takabet.com
-  - DOMAIN-SUFFIX,21vincispin88.com
   - DOMAIN-SUFFIX,21vipzino74.com
   - DOMAIN-SUFFIX,21vulkanvegas.com
   - DOMAIN-SUFFIX,21w.casino
@@ -51478,7 +51438,6 @@ payload:
   - DOMAIN-SUFFIX,2r5.casino
   - DOMAIN-SUFFIX,2rabbets.com
   - DOMAIN-SUFFIX,2rainhaspg.com
-  - DOMAIN-SUFFIX,2rajbet.in
   - DOMAIN-SUFFIX,2rb.casino
   - DOMAIN-SUFFIX,2rbetcasino.com
   - DOMAIN-SUFFIX,2reiting-casino.ru
@@ -56678,7 +56637,6 @@ payload:
   - DOMAIN-SUFFIX,38v.online
   - DOMAIN-SUFFIX,38v33.com
   - DOMAIN-SUFFIX,38v777.com
-  - DOMAIN-SUFFIX,38vincispin52.com
   - DOMAIN-SUFFIX,38vnavi.com
   - DOMAIN-SUFFIX,38vnd.com
   - DOMAIN-SUFFIX,38vnr.com
@@ -58547,7 +58505,6 @@ payload:
   - DOMAIN-SUFFIX,42bet.app
   - DOMAIN-SUFFIX,42bet01.com
   - DOMAIN-SUFFIX,42bet999.fun
-  - DOMAIN-SUFFIX,42betsy.com
   - DOMAIN-SUFFIX,42brionis908.casino
   - DOMAIN-SUFFIX,42buddyspin42.com
   - DOMAIN-SUFFIX,42d.casino
@@ -59561,7 +59518,6 @@ payload:
   - DOMAIN-SUFFIX,44nv3.casino
   - DOMAIN-SUFFIX,44phbet.cc
   - DOMAIN-SUFFIX,44phclub.live
-  - DOMAIN-SUFFIX,44playjonny42.com
   - DOMAIN-SUFFIX,44queridopg.com
   - DOMAIN-SUFFIX,44ringospin4433.com
   - DOMAIN-SUFFIX,44rodeoslot54.com
@@ -61233,7 +61189,6 @@ payload:
   - DOMAIN-SUFFIX,4982x.com
   - DOMAIN-SUFFIX,4983x.com
   - DOMAIN-SUFFIX,4984-casino.buzz
-  - DOMAIN-SUFFIX,49845-mp.top
   - DOMAIN-SUFFIX,4986-casino.buzz
   - DOMAIN-SUFFIX,49863393.com
   - DOMAIN-SUFFIX,49866.casino
@@ -73922,7 +73877,6 @@ payload:
   - DOMAIN-SUFFIX,709yh.com
   - DOMAIN-SUFFIX,70acesuper.club
   - DOMAIN-SUFFIX,70banca.com
-  - DOMAIN-SUFFIX,70bdmbet05.com
   - DOMAIN-SUFFIX,70bet.com
   - DOMAIN-SUFFIX,70bet18.com
   - DOMAIN-SUFFIX,70bet2.com
@@ -79559,7 +79513,6 @@ payload:
   - DOMAIN-SUFFIX,7bitcasinosouthafrica.online
   - DOMAIN-SUFFIX,7bitcasinovip.com
   - DOMAIN-SUFFIX,7bitcoincasino.com
-  - DOMAIN-SUFFIX,7bitfortune.com
   - DOMAIN-SUFFIX,7bitscasino.org
   - DOMAIN-SUFFIX,7bitz.net
   - DOMAIN-SUFFIX,7bn.casino
@@ -79834,7 +79787,6 @@ payload:
   - DOMAIN-SUFFIX,7k-915.casino
   - DOMAIN-SUFFIX,7k-917.casino
   - DOMAIN-SUFFIX,7k-918.casino
-  - DOMAIN-SUFFIX,7k-919.casino
   - DOMAIN-SUFFIX,7k-926.casino
   - DOMAIN-SUFFIX,7k-933.casino
   - DOMAIN-SUFFIX,7k-938.casino
@@ -80424,7 +80376,6 @@ payload:
   - DOMAIN-SUFFIX,7k384t.casino
   - DOMAIN-SUFFIX,7k387k.casino
   - DOMAIN-SUFFIX,7k3883.casino
-  - DOMAIN-SUFFIX,7k3888.casino
   - DOMAIN-SUFFIX,7k388y.casino
   - DOMAIN-SUFFIX,7k3890.casino
   - DOMAIN-SUFFIX,7k39.casino
@@ -80694,7 +80645,6 @@ payload:
   - DOMAIN-SUFFIX,7k8410.casino
   - DOMAIN-SUFFIX,7k843hj.casino
   - DOMAIN-SUFFIX,7k843k.casino
-  - DOMAIN-SUFFIX,7k8443.casino
   - DOMAIN-SUFFIX,7k8453.casino
   - DOMAIN-SUFFIX,7k8456.casino
   - DOMAIN-SUFFIX,7k848.casino
@@ -82730,7 +82680,6 @@ payload:
   - DOMAIN-SUFFIX,8295999.com
   - DOMAIN-SUFFIX,8296.casino
   - DOMAIN-SUFFIX,82966n.com
-  - DOMAIN-SUFFIX,8296jojobet.com
   - DOMAIN-SUFFIX,8297-casino.buzz
   - DOMAIN-SUFFIX,8297tt.com
   - DOMAIN-SUFFIX,829829.vip
@@ -84296,7 +84245,6 @@ payload:
   - DOMAIN-SUFFIX,87kbetsweet.com
   - DOMAIN-SUFFIX,87lazybar83.com
   - DOMAIN-SUFFIX,87masaganaph.cc
-  - DOMAIN-SUFFIX,87monrospin27.com
   - DOMAIN-SUFFIX,87oscarspin1833.com
   - DOMAIN-SUFFIX,87ph.org
   - DOMAIN-SUFFIX,87ph.vip
@@ -91291,7 +91239,6 @@ payload:
   - DOMAIN-SUFFIX,91nv.casino
   - DOMAIN-SUFFIX,91o.casino
   - DOMAIN-SUFFIX,91oscarspin1733.com
-  - DOMAIN-SUFFIX,91oscarspin92.com
   - DOMAIN-SUFFIX,91pg.bet
   - DOMAIN-SUFFIX,91platinumcasino746.com
   - DOMAIN-SUFFIX,91platinumcasino810.com
@@ -92837,6 +92784,7 @@ payload:
   - DOMAIN-SUFFIX,96mluckyfortunes.com
   - DOMAIN-SUFFIX,96mpower.com
   - DOMAIN-SUFFIX,96mpredict.com
+  - DOMAIN-SUFFIX,96mrise.com
   - DOMAIN-SUFFIX,96msgdd.com
   - DOMAIN-SUFFIX,96msgpores.com
   - DOMAIN-SUFFIX,96msgzone.com
@@ -99867,7 +99815,6 @@ payload:
   - DOMAIN-SUFFIX,allspinswin.com
   - DOMAIN-SUFFIX,allspinswins-casino.com
   - DOMAIN-SUFFIX,allsport365.com
-  - DOMAIN-SUFFIX,allsport888starz.com
   - DOMAIN-SUFFIX,allstar-casino.eu
   - DOMAIN-SUFFIX,allstar-casino-official.com
   - DOMAIN-SUFFIX,allstar-casino-website.com
@@ -104102,7 +104049,6 @@ payload:
   - DOMAIN-SUFFIX,artemisbet-giris.net
   - DOMAIN-SUFFIX,artemisbet10.com
   - DOMAIN-SUFFIX,artemisbet70.com
-  - DOMAIN-SUFFIX,artemisbetcasino.blog
   - DOMAIN-SUFFIX,artemisbetegir.com
   - DOMAIN-SUFFIX,artemisbetgiris.net
   - DOMAIN-SUFFIX,artemisbets.pro
@@ -104479,7 +104425,6 @@ payload:
   - DOMAIN-SUFFIX,asiawheel.xyz
   - DOMAIN-SUFFIX,asiawin189.vip
   - DOMAIN-SUFFIX,asiawin189.xyz
-  - DOMAIN-SUFFIX,asiaxpjbet.com
   - DOMAIN-SUFFIX,asiaz168.bet
   - DOMAIN-SUFFIX,asibet.com
   - DOMAIN-SUFFIX,asik123.site
@@ -107088,8 +107033,6 @@ payload:
   - DOMAIN-SUFFIX,b-k-0-l.com
   - DOMAIN-SUFFIX,b-l-5-n.com
   - DOMAIN-SUFFIX,b-m-i-3.com
-  - DOMAIN-SUFFIX,b-match1.online
-  - DOMAIN-SUFFIX,b-match2.net
   - DOMAIN-SUFFIX,b-play-casino-argentina.com
   - DOMAIN-SUFFIX,b-r-7-w.com
   - DOMAIN-SUFFIX,b-r-a-d.com
@@ -111482,7 +111425,6 @@ payload:
   - DOMAIN-SUFFIX,bcsportsbook.com
   - DOMAIN-SUFFIX,bcstavka.com
   - DOMAIN-SUFFIX,bctrades.io
-  - DOMAIN-SUFFIX,bcvn1.com
   - DOMAIN-SUFFIX,bcvn2.com
   - DOMAIN-SUFFIX,bcw10.com
   - DOMAIN-SUFFIX,bcw17.com
@@ -117743,8 +117685,6 @@ payload:
   - DOMAIN-SUFFIX,betflare-casino.vip
   - DOMAIN-SUFFIX,betflare1.com
   - DOMAIN-SUFFIX,betflare2.com
-  - DOMAIN-SUFFIX,betflare20.co
-  - DOMAIN-SUFFIX,betflare21.co
   - DOMAIN-SUFFIX,betflare22.co
   - DOMAIN-SUFFIX,betflarecasino.cz
   - DOMAIN-SUFFIX,betflarecasino-at.org
@@ -119807,10 +119747,7 @@ payload:
   - DOMAIN-SUFFIX,bets102026tr.vip
   - DOMAIN-SUFFIX,bets104524.cam
   - DOMAIN-SUFFIX,bets10adres.com
-  - DOMAIN-SUFFIX,bets10adresiyeni.com
   - DOMAIN-SUFFIX,bets10adreslerinizguncel.com
-  - DOMAIN-SUFFIX,bets10agirisler.com
-  - DOMAIN-SUFFIX,bets10agirisyenilink.com
   - DOMAIN-SUFFIX,bets10aguncelgirislinkimiz.icu
   - DOMAIN-SUFFIX,bets10aktifadres.com
   - DOMAIN-SUFFIX,bets10aktifgiris.com
@@ -119890,7 +119827,6 @@ payload:
   - DOMAIN-SUFFIX,bets10gunceladress2026.com
   - DOMAIN-SUFFIX,bets10guncelgiris.one
   - DOMAIN-SUFFIX,bets10guncelgirisadresi26.com
-  - DOMAIN-SUFFIX,bets10guncelgirisadresimiz.com
   - DOMAIN-SUFFIX,bets10guncelgirisler26.com
   - DOMAIN-SUFFIX,bets10guncelgirislervip.com
   - DOMAIN-SUFFIX,bets10guncelgiriss2026.vip
@@ -119933,7 +119869,6 @@ payload:
   - DOMAIN-SUFFIX,bets10radar.net
   - DOMAIN-SUFFIX,bets10resmiadres26.com
   - DOMAIN-SUFFIX,bets10resmigiris.one
-  - DOMAIN-SUFFIX,bets10resmiguncelgirisi.com
   - DOMAIN-SUFFIX,bets10resmiiadresorj.com
   - DOMAIN-SUFFIX,bets10resmitrgiris2026.com
   - DOMAIN-SUFFIX,bets10rota.net
@@ -120529,7 +120464,6 @@ payload:
   - DOMAIN-SUFFIX,betsat-dunyakupasi.com
   - DOMAIN-SUFFIX,betsat-dunyakupasi.vip
   - DOMAIN-SUFFIX,betsat-enguncel.com
-  - DOMAIN-SUFFIX,betsat-erisim1.vip
   - DOMAIN-SUFFIX,betsat-erisimlinki.vip
   - DOMAIN-SUFFIX,betsat-espana.shop
   - DOMAIN-SUFFIX,betsat-giris.online
@@ -123192,7 +123126,6 @@ payload:
   - DOMAIN-SUFFIX,betterlivingsupplyco.com
   - DOMAIN-SUFFIX,bettermarinas.com
   - DOMAIN-SUFFIX,betteronlinecasino.com
-  - DOMAIN-SUFFIX,betterrestbetterliving.com
   - DOMAIN-SUFFIX,betters.pl
   - DOMAIN-SUFFIX,betterscasino.xyz
   - DOMAIN-SUFFIX,betterscratch-joy.com
@@ -127298,7 +127231,6 @@ payload:
   - DOMAIN-SUFFIX,bk88slots.com
   - DOMAIN-SUFFIX,bk88th.bio
   - DOMAIN-SUFFIX,bk88th.com
-  - DOMAIN-SUFFIX,bk88thai.com
   - DOMAIN-SUFFIX,bk88v.online
   - DOMAIN-SUFFIX,bk88vi.com
   - DOMAIN-SUFFIX,bk88win.app
@@ -127561,7 +127493,6 @@ payload:
   - DOMAIN-SUFFIX,bk8king.app
   - DOMAIN-SUFFIX,bk8kit.com
   - DOMAIN-SUFFIX,bk8kol1.com
-  - DOMAIN-SUFFIX,bk8ky.com
   - DOMAIN-SUFFIX,bk8kz.com
   - DOMAIN-SUFFIX,bk8l.com
   - DOMAIN-SUFFIX,bk8lagibest.com
@@ -127645,7 +127576,6 @@ payload:
   - DOMAIN-SUFFIX,bk8mys.com
   - DOMAIN-SUFFIX,bk8mys68.asia
   - DOMAIN-SUFFIX,bk8mysd.com
-  - DOMAIN-SUFFIX,bk8n.com
   - DOMAIN-SUFFIX,bk8na.net
   - DOMAIN-SUFFIX,bk8nar.site
   - DOMAIN-SUFFIX,bk8net1.com
@@ -136844,7 +136774,6 @@ payload:
   - DOMAIN-SUFFIX,canlbahis.icu
   - DOMAIN-SUFFIX,canlcasino.icu
   - DOMAIN-SUFFIX,canli-casino-oyna-102.xyz
-  - DOMAIN-SUFFIX,canli-imajbet.top
   - DOMAIN-SUFFIX,canlibahis1xbet.click
   - DOMAIN-SUFFIX,canlibahiscasino.vip
   - DOMAIN-SUFFIX,canlicasino.tech
@@ -137337,8 +137266,6 @@ payload:
   - DOMAIN-SUFFIX,casabet-casino-pt.net
   - DOMAIN-SUFFIX,casabet-casinos.com
   - DOMAIN-SUFFIX,casabet16.co
-  - DOMAIN-SUFFIX,casabet18.co
-  - DOMAIN-SUFFIX,casabet19.co
   - DOMAIN-SUFFIX,casabet2.co
   - DOMAIN-SUFFIX,casabet20.co
   - DOMAIN-SUFFIX,casabet21.co
@@ -145892,7 +145819,6 @@ payload:
   - DOMAIN-SUFFIX,casino-playfortuna7ls2qv1vz5.com
   - DOMAIN-SUFFIX,casino-playfortunaa3sm9gx4og6y.com
   - DOMAIN-SUFFIX,casino-playfortunaa92m8g3.com
-  - DOMAIN-SUFFIX,casino-playfortunac3mq8gltm4rz.com
   - DOMAIN-SUFFIX,casino-playfortunad6.com
   - DOMAIN-SUFFIX,casino-playfortunad8ky2txoe5pl.com
   - DOMAIN-SUFFIX,casino-playfortunai1v3vo2az0ua.com
@@ -165828,7 +165754,6 @@ payload:
   - DOMAIN-SUFFIX,casino811.online
   - DOMAIN-SUFFIX,casino8110.click
   - DOMAIN-SUFFIX,casino8110.fun
-  - DOMAIN-SUFFIX,casino8111.buzz
   - DOMAIN-SUFFIX,casino8112.fun
   - DOMAIN-SUFFIX,casino8114.cyou
   - DOMAIN-SUFFIX,casino8115.cfd
@@ -166904,7 +166829,6 @@ payload:
   - DOMAIN-SUFFIX,casino86th1.buzz
   - DOMAIN-SUFFIX,casino86v.buzz
   - DOMAIN-SUFFIX,casino86x.top
-  - DOMAIN-SUFFIX,casino870.fun
   - DOMAIN-SUFFIX,casino8700.buzz
   - DOMAIN-SUFFIX,casino87009.buzz
   - DOMAIN-SUFFIX,casino87016.buzz
@@ -197160,8 +197084,6 @@ payload:
   - DOMAIN-SUFFIX,chancer-casinos.com
   - DOMAIN-SUFFIX,chancer1.com
   - DOMAIN-SUFFIX,chancer1.xyz
-  - DOMAIN-SUFFIX,chancer2.xyz
-  - DOMAIN-SUFFIX,chancer3.xyz
   - DOMAIN-SUFFIX,chancer5.xyz
   - DOMAIN-SUFFIX,chancer6.xyz
   - DOMAIN-SUFFIX,chancercasino.dk
@@ -200932,11 +200854,9 @@ payload:
   - DOMAIN-SUFFIX,correctcasinos.com
   - DOMAIN-SUFFIX,corriebingo.com
   - DOMAIN-SUFFIX,corsaza.cc
-  - DOMAIN-SUFFIX,corsaza.co
   - DOMAIN-SUFFIX,corsaza.com
   - DOMAIN-SUFFIX,corsaza-casino.pl
   - DOMAIN-SUFFIX,corsaza1.cc
-  - DOMAIN-SUFFIX,corsaza2.co
   - DOMAIN-SUFFIX,corsaza5.co
   - DOMAIN-SUFFIX,corso-casino.com
   - DOMAIN-SUFFIX,cortexcasino.xyz
@@ -202573,7 +202493,6 @@ payload:
   - DOMAIN-SUFFIX,crycasino.life
   - DOMAIN-SUFFIX,cryinginthecasino.com
   - DOMAIN-SUFFIX,cryp.trade
-  - DOMAIN-SUFFIX,cryptalt.com
   - DOMAIN-SUFFIX,crypto.games
   - DOMAIN-SUFFIX,crypto.press
   - DOMAIN-SUFFIX,crypto.vegas
@@ -211169,7 +211088,6 @@ payload:
   - DOMAIN-SUFFIX,doccasino.lol
   - DOMAIN-SUFFIX,doce888.com
   - DOMAIN-SUFFIX,doce888.top
-  - DOMAIN-SUFFIX,dochoiwinwin.com
   - DOMAIN-SUFFIX,docker-grandlisboacasino.com
   - DOMAIN-SUFFIX,docmafiacasino.com
   - DOMAIN-SUFFIX,docomocasino.com
@@ -211184,7 +211102,6 @@ payload:
   - DOMAIN-SUFFIX,doctorbetcasino.com
   - DOMAIN-SUFFIX,doctorparley5.com
   - DOMAIN-SUFFIX,doctorsolucion.mx
-  - DOMAIN-SUFFIX,doctorspin11.com
   - DOMAIN-SUFFIX,doctorspins.com
   - DOMAIN-SUFFIX,doctorspins10.com
   - DOMAIN-SUFFIX,doctorspins11.com
@@ -214294,6 +214211,7 @@ payload:
   - DOMAIN-SUFFIX,dusesbet.net
   - DOMAIN-SUFFIX,dusess.com
   - DOMAIN-SUFFIX,dusktilldawnpoker.com
+  - DOMAIN-SUFFIX,dust2.in
   - DOMAIN-SUFFIX,dustbitcasino.com
   - DOMAIN-SUFFIX,dustbitcasino.net
   - DOMAIN-SUFFIX,dusun168.org
@@ -220061,7 +219979,6 @@ payload:
   - DOMAIN-SUFFIX,extrabet.com
   - DOMAIN-SUFFIX,extrabet2074.com
   - DOMAIN-SUFFIX,extrabet2451.com
-  - DOMAIN-SUFFIX,extrabetcasino-girisi.vip
   - DOMAIN-SUFFIX,extrabetcasino-girisii.vip
   - DOMAIN-SUFFIX,extrabetgiris-casino.vip
   - DOMAIN-SUFFIX,extrabets.info
@@ -227575,7 +227492,6 @@ payload:
   - DOMAIN-SUFFIX,fulltiltpoker.fr
   - DOMAIN-SUFFIX,fulltiltpoker.xyz
   - DOMAIN-SUFFIX,fullwin.casino
-  - DOMAIN-SUFFIX,fultontechinc.com
   - DOMAIN-SUFFIX,fum.casino
   - DOMAIN-SUFFIX,fum55.com
   - DOMAIN-SUFFIX,fumaokj.com
@@ -229898,7 +229814,6 @@ payload:
   - DOMAIN-SUFFIX,gamacasino380.com
   - DOMAIN-SUFFIX,gamacasino399.com
   - DOMAIN-SUFFIX,gamacasino446.buzz
-  - DOMAIN-SUFFIX,gamacasino448.com
   - DOMAIN-SUFFIX,gamacasino464.com
   - DOMAIN-SUFFIX,gamacasino581.buzz
   - DOMAIN-SUFFIX,gamacasino599.com
@@ -231501,7 +231416,6 @@ payload:
   - DOMAIN-SUFFIX,gb-legionbet.com
   - DOMAIN-SUFFIX,gb-luckywavecasino.click
   - DOMAIN-SUFFIX,gb-magicwincasino.com
-  - DOMAIN-SUFFIX,gb-match2.com
   - DOMAIN-SUFFIX,gb-midnite-casino.com
   - DOMAIN-SUFFIX,gb-velobet-casino.com
   - DOMAIN-SUFFIX,gb-voodoo-casino.com
@@ -232660,9 +232574,7 @@ payload:
   - DOMAIN-SUFFIX,gg320.bet
   - DOMAIN-SUFFIX,gg321.bet
   - DOMAIN-SUFFIX,gg322.bet
-  - DOMAIN-SUFFIX,gg324.bet
   - DOMAIN-SUFFIX,gg325.bet
-  - DOMAIN-SUFFIX,gg326.bet
   - DOMAIN-SUFFIX,gg327.bet
   - DOMAIN-SUFFIX,gg328.bet
   - DOMAIN-SUFFIX,gg329.bet
@@ -243442,8 +243354,6 @@ payload:
   - DOMAIN-SUFFIX,hexabet.io
   - DOMAIN-SUFFIX,hexabet.net
   - DOMAIN-SUFFIX,hexabet1.co
-  - DOMAIN-SUFFIX,hexabet23.co
-  - DOMAIN-SUFFIX,hexabet24.co
   - DOMAIN-SUFFIX,hexabet26.co
   - DOMAIN-SUFFIX,hexabet27.co
   - DOMAIN-SUFFIX,hexabet28.co
@@ -246287,7 +246197,6 @@ payload:
   - DOMAIN-SUFFIX,honeymoney-casino-big.fun
   - DOMAIN-SUFFIX,honeymoney4567.casino
   - DOMAIN-SUFFIX,honeymoneycasino.com
-  - DOMAIN-SUFFIX,honeymoneyclub.com
   - DOMAIN-SUFFIX,honeymoneyseven.com
   - DOMAIN-SUFFIX,honeyrushslots.com
   - DOMAIN-SUFFIX,honeysocialcasino.live
@@ -250835,7 +250744,6 @@ payload:
   - DOMAIN-SUFFIX,iimajbet.pro
   - DOMAIN-SUFFIX,iimajbet.top
   - DOMAIN-SUFFIX,iimajbet.vip
-  - DOMAIN-SUFFIX,iimajbet-bonusgiris.cfd
   - DOMAIN-SUFFIX,iimajbet1623.com
   - DOMAIN-SUFFIX,iionntogel.com
   - DOMAIN-SUFFIX,iittybingo.com
@@ -251068,7 +250976,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet-2026register.vip
   - DOMAIN-SUFFIX,imajbet-24temmuz.icu
   - DOMAIN-SUFFIX,imajbet-26erisim.com
-  - DOMAIN-SUFFIX,imajbet-7temmuz.vip
   - DOMAIN-SUFFIX,imajbet-adres-girisi.icu
   - DOMAIN-SUFFIX,imajbet-adresim.top
   - DOMAIN-SUFFIX,imajbet-adresim.vip
@@ -251090,37 +250997,22 @@ payload:
   - DOMAIN-SUFFIX,imajbet-appmobile.icu
   - DOMAIN-SUFFIX,imajbet-apps.sbs
   - DOMAIN-SUFFIX,imajbet-best-loqin.icu
-  - DOMAIN-SUFFIX,imajbet-besturl.icu
   - DOMAIN-SUFFIX,imajbet-bigwild.live
-  - DOMAIN-SUFFIX,imajbet-billion.icu
   - DOMAIN-SUFFIX,imajbet-canli.icu
-  - DOMAIN-SUFFIX,imajbet-canli-adres.icu
   - DOMAIN-SUFFIX,imajbet-casino.icu
   - DOMAIN-SUFFIX,imajbet-casino.lol
   - DOMAIN-SUFFIX,imajbet-casinogiris.com
-  - DOMAIN-SUFFIX,imajbet-classic.icu
-  - DOMAIN-SUFFIX,imajbet-clood.icu
   - DOMAIN-SUFFIX,imajbet-club.icu
-  - DOMAIN-SUFFIX,imajbet-com.cfd
   - DOMAIN-SUFFIX,imajbet-csn.icu
   - DOMAIN-SUFFIX,imajbet-direktgir.icu
   - DOMAIN-SUFFIX,imajbet-direktgir.top
-  - DOMAIN-SUFFIX,imajbet-dogru.vip
   - DOMAIN-SUFFIX,imajbet-dogrugiris.icu
-  - DOMAIN-SUFFIX,imajbet-elite2026.icu
-  - DOMAIN-SUFFIX,imajbet-enyeniadres7.vip
   - DOMAIN-SUFFIX,imajbet-erisim.icu
   - DOMAIN-SUFFIX,imajbet-erisim.online
-  - DOMAIN-SUFFIX,imajbet-erisim-fifa2026.icu
   - DOMAIN-SUFFIX,imajbet-erisimgir.com
   - DOMAIN-SUFFIX,imajbet-erisimyeni.top
   - DOMAIN-SUFFIX,imajbet-fast-adress.top
-  - DOMAIN-SUFFIX,imajbet-firsat-simdi.icu
   - DOMAIN-SUFFIX,imajbet-flex-erisim.live
-  - DOMAIN-SUFFIX,imajbet-full-erisim.icu
-  - DOMAIN-SUFFIX,imajbet-gercek-adresiniz-giris.vip
-  - DOMAIN-SUFFIX,imajbet-gercek-giris-adresi.vip
-  - DOMAIN-SUFFIX,imajbet-gercek-mobil-adresiniz.sbs
   - DOMAIN-SUFFIX,imajbet-gercekadresli2026.icu
   - DOMAIN-SUFFIX,imajbet-gercekgiris.icu
   - DOMAIN-SUFFIX,imajbet-gercekgirisli.icu
@@ -251129,19 +251021,13 @@ payload:
   - DOMAIN-SUFFIX,imajbet-giris.co
   - DOMAIN-SUFFIX,imajbet-giris.live
   - DOMAIN-SUFFIX,imajbet-giris-adresi.sbs
-  - DOMAIN-SUFFIX,imajbet-giris-adresiiniz7.sbs
-  - DOMAIN-SUFFIX,imajbet-giris-adresiniz7.sbs
   - DOMAIN-SUFFIX,imajbet-giris-guncel2025.com
   - DOMAIN-SUFFIX,imajbet-giris1.icu
-  - DOMAIN-SUFFIX,imajbet-giris7.vip
   - DOMAIN-SUFFIX,imajbet-girisadresi.icu
   - DOMAIN-SUFFIX,imajbet-girisadresitr.icu
   - DOMAIN-SUFFIX,imajbet-girisadresiyeni.icu
-  - DOMAIN-SUFFIX,imajbet-giriscom.icu
   - DOMAIN-SUFFIX,imajbet-girisgercek.icu
-  - DOMAIN-SUFFIX,imajbet-girisgo.icu
   - DOMAIN-SUFFIX,imajbet-girisguncel.icu
-  - DOMAIN-SUFFIX,imajbet-girisi.art
   - DOMAIN-SUFFIX,imajbet-girisi.icu
   - DOMAIN-SUFFIX,imajbet-girisic.icu
   - DOMAIN-SUFFIX,imajbet-girisiguncel.icu
@@ -251156,15 +251042,12 @@ payload:
   - DOMAIN-SUFFIX,imajbet-girisyerim.icu
   - DOMAIN-SUFFIX,imajbet-girs.icu
   - DOMAIN-SUFFIX,imajbet-girss.icu
-  - DOMAIN-SUFFIX,imajbet-givemoney.icu
   - DOMAIN-SUFFIX,imajbet-glow.icu
   - DOMAIN-SUFFIX,imajbet-go.icu
-  - DOMAIN-SUFFIX,imajbet-guestgir.icu
   - DOMAIN-SUFFIX,imajbet-guncel.online
   - DOMAIN-SUFFIX,imajbet-guncel-adreslerimiz.top
   - DOMAIN-SUFFIX,imajbet-guncel-baglanti.top
   - DOMAIN-SUFFIX,imajbet-guncel-erisim.top
-  - DOMAIN-SUFFIX,imajbet-guncel-giris7.sbs
   - DOMAIN-SUFFIX,imajbet-guncel-mobil.top
   - DOMAIN-SUFFIX,imajbet-gunceladres2026.icu
   - DOMAIN-SUFFIX,imajbet-gunceladresler.icu
@@ -251174,7 +251057,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet-guncelgiris.icu
   - DOMAIN-SUFFIX,imajbet-guncelgirisi.icu
   - DOMAIN-SUFFIX,imajbet-guncelgirisler.icu
-  - DOMAIN-SUFFIX,imajbet-guncelgirisleri1.vip
   - DOMAIN-SUFFIX,imajbet-guncelgirisyeni.icu
   - DOMAIN-SUFFIX,imajbet-guncelim.vip
   - DOMAIN-SUFFIX,imajbet-gunceline.com
@@ -251183,8 +251065,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet-guncelresmiadres.icu
   - DOMAIN-SUFFIX,imajbet-guncelsite.cfd
   - DOMAIN-SUFFIX,imajbet-guncelyenigiris.icu
-  - DOMAIN-SUFFIX,imajbet-guvenilir.icu
-  - DOMAIN-SUFFIX,imajbet-guveniliradres.vip
   - DOMAIN-SUFFIX,imajbet-guvenliadres.icu
   - DOMAIN-SUFFIX,imajbet-guvenligiris.icu
   - DOMAIN-SUFFIX,imajbet-haftacigirisi.cam
@@ -251197,22 +251077,17 @@ payload:
   - DOMAIN-SUFFIX,imajbet-homepage.icu
   - DOMAIN-SUFFIX,imajbet-homepge.icu
   - DOMAIN-SUFFIX,imajbet-imajbet.cam
-  - DOMAIN-SUFFIX,imajbet-imajgir.top
   - DOMAIN-SUFFIX,imajbet-imajresmi.top
   - DOMAIN-SUFFIX,imajbet-kayitadres.vip
   - DOMAIN-SUFFIX,imajbet-kesintisiz.com
   - DOMAIN-SUFFIX,imajbet-lbn.icu
-  - DOMAIN-SUFFIX,imajbet-like2026.top
-  - DOMAIN-SUFFIX,imajbet-linki.vip
   - DOMAIN-SUFFIX,imajbet-live.top
-  - DOMAIN-SUFFIX,imajbet-livelink2026.icu
   - DOMAIN-SUFFIX,imajbet-lives.top
   - DOMAIN-SUFFIX,imajbet-login.icu
   - DOMAIN-SUFFIX,imajbet-login.top
   - DOMAIN-SUFFIX,imajbet-loginn.icu
   - DOMAIN-SUFFIX,imajbet-lucky2026.live
   - DOMAIN-SUFFIX,imajbet-mobil.top
-  - DOMAIN-SUFFIX,imajbet-mobil-giris-adresiniz.vip
   - DOMAIN-SUFFIX,imajbet-mobil-vip.icu
   - DOMAIN-SUFFIX,imajbet-mobilapp.icu
   - DOMAIN-SUFFIX,imajbet-mobile.icu
@@ -251224,10 +251099,8 @@ payload:
   - DOMAIN-SUFFIX,imajbet-new.top
   - DOMAIN-SUFFIX,imajbet-news.icu
   - DOMAIN-SUFFIX,imajbet-news.top
-  - DOMAIN-SUFFIX,imajbet-newsports.top
   - DOMAIN-SUFFIX,imajbet-offical.top
   - DOMAIN-SUFFIX,imajbet-officall.icu
-  - DOMAIN-SUFFIX,imajbet-official.com
   - DOMAIN-SUFFIX,imajbet-officialgiris.icu
   - DOMAIN-SUFFIX,imajbet-officialgirisadresi.icu
   - DOMAIN-SUFFIX,imajbet-online.icu
@@ -251239,12 +251112,7 @@ payload:
   - DOMAIN-SUFFIX,imajbet-orginal.top
   - DOMAIN-SUFFIX,imajbet-orjinal.icu
   - DOMAIN-SUFFIX,imajbet-orjinal.run
-  - DOMAIN-SUFFIX,imajbet-orjinal-adresi.vip
-  - DOMAIN-SUFFIX,imajbet-player2026.icu
   - DOMAIN-SUFFIX,imajbet-plus.icu
-  - DOMAIN-SUFFIX,imajbet-plushub.icu
-  - DOMAIN-SUFFIX,imajbet-powerof.icu
-  - DOMAIN-SUFFIX,imajbet-prime2026.icu
   - DOMAIN-SUFFIX,imajbet-pro.cfd
   - DOMAIN-SUFFIX,imajbet-resmi.run
   - DOMAIN-SUFFIX,imajbet-resmi.top
@@ -251255,7 +251123,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet-resmiadresi.icu
   - DOMAIN-SUFFIX,imajbet-resmiadresi.top
   - DOMAIN-SUFFIX,imajbet-resmiadresii.icu
-  - DOMAIN-SUFFIX,imajbet-resmiadresleri7.vip
   - DOMAIN-SUFFIX,imajbet-resmiadress.icu
   - DOMAIN-SUFFIX,imajbet-resmigirisi.icu
   - DOMAIN-SUFFIX,imajbet-resmigirisi.vip
@@ -251263,12 +251130,9 @@ payload:
   - DOMAIN-SUFFIX,imajbet-resmiguncelgiris.icu
   - DOMAIN-SUFFIX,imajbet-resmii.top
   - DOMAIN-SUFFIX,imajbet-resmisitesi.icu
-  - DOMAIN-SUFFIX,imajbet-royaledit.icu
   - DOMAIN-SUFFIX,imajbet-sabit.com
   - DOMAIN-SUFFIX,imajbet-secretgiris.top
-  - DOMAIN-SUFFIX,imajbet-seogir.icu
   - DOMAIN-SUFFIX,imajbet-site.icu
-  - DOMAIN-SUFFIX,imajbet-site-giris.vip
   - DOMAIN-SUFFIX,imajbet-sonadress.top
   - DOMAIN-SUFFIX,imajbet-songirisi.icu
   - DOMAIN-SUFFIX,imajbet-sportadres.icu
@@ -251281,22 +251145,14 @@ payload:
   - DOMAIN-SUFFIX,imajbet-tr.top
   - DOMAIN-SUFFIX,imajbet-tradresi.icu
   - DOMAIN-SUFFIX,imajbet-trgiris-adresi.icu
-  - DOMAIN-SUFFIX,imajbet-trusted.icu
-  - DOMAIN-SUFFIX,imajbet-turkey0.vip
-  - DOMAIN-SUFFIX,imajbet-turkiye.art
-  - DOMAIN-SUFFIX,imajbet-turkiye.icu
   - DOMAIN-SUFFIX,imajbet-tv.xyz
   - DOMAIN-SUFFIX,imajbet-verified.vip
-  - DOMAIN-SUFFIX,imajbet-vievlab.icu
-  - DOMAIN-SUFFIX,imajbet-vievlinks.icu
   - DOMAIN-SUFFIX,imajbet-vip.cfd
   - DOMAIN-SUFFIX,imajbet-vip.icu
   - DOMAIN-SUFFIX,imajbet-vip-adres.icu
   - DOMAIN-SUFFIX,imajbet-vsl.icu
   - DOMAIN-SUFFIX,imajbet-webresmi.icu
   - DOMAIN-SUFFIX,imajbet-win.icu
-  - DOMAIN-SUFFIX,imajbet-winner2026.icu
-  - DOMAIN-SUFFIX,imajbet-wongir.icu
   - DOMAIN-SUFFIX,imajbet-year.icu
   - DOMAIN-SUFFIX,imajbet-yeni-erisimler.icu
   - DOMAIN-SUFFIX,imajbet-yeni-giris.icu
@@ -251331,18 +251187,11 @@ payload:
   - DOMAIN-SUFFIX,imajbet1475.com
   - DOMAIN-SUFFIX,imajbet1481.com
   - DOMAIN-SUFFIX,imajbet1482.com
-  - DOMAIN-SUFFIX,imajbet1507.com
-  - DOMAIN-SUFFIX,imajbet1556.com
   - DOMAIN-SUFFIX,imajbet1558.com
   - DOMAIN-SUFFIX,imajbet1559.com
   - DOMAIN-SUFFIX,imajbet1559.de
-  - DOMAIN-SUFFIX,imajbet1563.com
-  - DOMAIN-SUFFIX,imajbet1572.com
   - DOMAIN-SUFFIX,imajbet1574.com
-  - DOMAIN-SUFFIX,imajbet1575.com
-  - DOMAIN-SUFFIX,imajbet1576.com
   - DOMAIN-SUFFIX,imajbet1583.com
-  - DOMAIN-SUFFIX,imajbet1592giris.com
   - DOMAIN-SUFFIX,imajbet16071.com
   - DOMAIN-SUFFIX,imajbet1608.com
   - DOMAIN-SUFFIX,imajbet1609.com
@@ -251374,7 +251223,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet19temmuz.icu
   - DOMAIN-SUFFIX,imajbet2023.com
   - DOMAIN-SUFFIX,imajbet2026.cam
-  - DOMAIN-SUFFIX,imajbet2026.run
   - DOMAIN-SUFFIX,imajbet2026-gunceladresi.icu
   - DOMAIN-SUFFIX,imajbet2026-guncelgirisadresi.icu
   - DOMAIN-SUFFIX,imajbet2026-tr.icu
@@ -251392,7 +251240,6 @@ payload:
   - DOMAIN-SUFFIX,imajbet2122.cam
   - DOMAIN-SUFFIX,imajbet2122.com
   - DOMAIN-SUFFIX,imajbet2125.cam
-  - DOMAIN-SUFFIX,imajbet2125.com
   - DOMAIN-SUFFIX,imajbet2612.com
   - DOMAIN-SUFFIX,imajbet2618.com
   - DOMAIN-SUFFIX,imajbet2619.com
@@ -251420,7 +251267,6 @@ payload:
   - DOMAIN-SUFFIX,imajbetcasino.top
   - DOMAIN-SUFFIX,imajbetclub.icu
   - DOMAIN-SUFFIX,imajbetco.top
-  - DOMAIN-SUFFIX,imajbetcom-giris.vip
   - DOMAIN-SUFFIX,imajbetcumagirisi.icu
   - DOMAIN-SUFFIX,imajbetdestek.com
   - DOMAIN-SUFFIX,imajbetdirektadres2026.vip
@@ -251437,7 +251283,6 @@ payload:
   - DOMAIN-SUFFIX,imajbetegercekgiris.icu
   - DOMAIN-SUFFIX,imajbetegir.icu
   - DOMAIN-SUFFIX,imajbetegir.run
-  - DOMAIN-SUFFIX,imajbetegir.top
   - DOMAIN-SUFFIX,imajbetegiris.cam
   - DOMAIN-SUFFIX,imajbetegiris.run
   - DOMAIN-SUFFIX,imajbetegirisadresi.icu
@@ -251446,7 +251291,6 @@ payload:
   - DOMAIN-SUFFIX,imajbeteresmigiris.cam
   - DOMAIN-SUFFIX,imajbeteresmigiris.icu
   - DOMAIN-SUFFIX,imajbeterisim-nqi5.icu
-  - DOMAIN-SUFFIX,imajbetgercekgiris.icu
   - DOMAIN-SUFFIX,imajbetgir.cam
   - DOMAIN-SUFFIX,imajbetgir.cfd
   - DOMAIN-SUFFIX,imajbetgir.lol
@@ -251464,7 +251308,6 @@ payload:
   - DOMAIN-SUFFIX,imajbetgiris-xgz8.icu
   - DOMAIN-SUFFIX,imajbetgiris-xr0l.icu
   - DOMAIN-SUFFIX,imajbetgiris-yeni.icu
-  - DOMAIN-SUFFIX,imajbetgiris01.vip
   - DOMAIN-SUFFIX,imajbetgirisadresi-u0cs.icu
   - DOMAIN-SUFFIX,imajbetgirisadresitr.icu
   - DOMAIN-SUFFIX,imajbetgirisguncel.icu
@@ -251521,21 +251364,16 @@ payload:
   - DOMAIN-SUFFIX,imajbetingir.run
   - DOMAIN-SUFFIX,imajbetingo.forum
   - DOMAIN-SUFFIX,imajbetkayit-fqbi.icu
-  - DOMAIN-SUFFIX,imajbetkolayadresleri.info
   - DOMAIN-SUFFIX,imajbetkolaygiris.one
   - DOMAIN-SUFFIX,imajbetl.cam
   - DOMAIN-SUFFIX,imajbetl.org
   - DOMAIN-SUFFIX,imajbetl617.com
-  - DOMAIN-SUFFIX,imajbetl618.com
   - DOMAIN-SUFFIX,imajbetl619.com
   - DOMAIN-SUFFIX,imajbetl623.com
-  - DOMAIN-SUFFIX,imajbetl690.com
-  - DOMAIN-SUFFIX,imajbetl691.com
   - DOMAIN-SUFFIX,imajbetl692.com
   - DOMAIN-SUFFIX,imajbetl6l8.com
   - DOMAIN-SUFFIX,imajbetlink.com
   - DOMAIN-SUFFIX,imajbetlive.icu
-  - DOMAIN-SUFFIX,imajbetlogin.live
   - DOMAIN-SUFFIX,imajbetmobil.cfd
   - DOMAIN-SUFFIX,imajbetmobil.icu
   - DOMAIN-SUFFIX,imajbetmobil-adres.icu
@@ -251553,11 +251391,9 @@ payload:
   - DOMAIN-SUFFIX,imajbetnetresmiyetliyer1.icu
   - DOMAIN-SUFFIX,imajbetnow.cfd
   - DOMAIN-SUFFIX,imajbetnow.icu
-  - DOMAIN-SUFFIX,imajbetofficial.com
   - DOMAIN-SUFFIX,imajbetofficial.icu
   - DOMAIN-SUFFIX,imajbetofficialgirisadresi.icu
   - DOMAIN-SUFFIX,imajbetofficiall.icu
-  - DOMAIN-SUFFIX,imajbetonline.shop
   - DOMAIN-SUFFIX,imajbetonlinecasino.icu
   - DOMAIN-SUFFIX,imajbetonlinegiris.icu
   - DOMAIN-SUFFIX,imajbetorijinalersm-2026.icu
@@ -251565,10 +251401,8 @@ payload:
   - DOMAIN-SUFFIX,imajbetpazartesigirisi.icu
   - DOMAIN-SUFFIX,imajbetpersembegirisi.icu
   - DOMAIN-SUFFIX,imajbetplus.icu
-  - DOMAIN-SUFFIX,imajbetplusgirisleri.vip
   - DOMAIN-SUFFIX,imajbetpro.icu
   - DOMAIN-SUFFIX,imajbetr.icu
-  - DOMAIN-SUFFIX,imajbetreklam.vip
   - DOMAIN-SUFFIX,imajbetresmi.cam
   - DOMAIN-SUFFIX,imajbetresmi.cfd
   - DOMAIN-SUFFIX,imajbetresmi-adresi.icu
@@ -251591,7 +251425,6 @@ payload:
   - DOMAIN-SUFFIX,imajbets.cam
   - DOMAIN-SUFFIX,imajbets.icu
   - DOMAIN-SUFFIX,imajbets.lol
-  - DOMAIN-SUFFIX,imajbets.run
   - DOMAIN-SUFFIX,imajbets-2026.icu
   - DOMAIN-SUFFIX,imajbets1612.com
   - DOMAIN-SUFFIX,imajbets1617.com
@@ -251608,20 +251441,15 @@ payload:
   - DOMAIN-SUFFIX,imajbett-adresi.co
   - DOMAIN-SUFFIX,imajbett-tradresi.co
   - DOMAIN-SUFFIX,imajbett1617.com
-  - DOMAIN-SUFFIX,imajbett1618.com
-  - DOMAIN-SUFFIX,imajbett1619.com
   - DOMAIN-SUFFIX,imajbett1620.com
   - DOMAIN-SUFFIX,imajbett7.icu
   - DOMAIN-SUFFIX,imajbettekgiris.one
   - DOMAIN-SUFFIX,imajbetteksite.icu
   - DOMAIN-SUFFIX,imajbettr.cam
   - DOMAIN-SUFFIX,imajbettr.com
-  - DOMAIN-SUFFIX,imajbettr.pro
-  - DOMAIN-SUFFIX,imajbettr.top
   - DOMAIN-SUFFIX,imajbettr.vip
   - DOMAIN-SUFFIX,imajbettr-giris.icu
   - DOMAIN-SUFFIX,imajbettwitter-tkq9.icu
-  - DOMAIN-SUFFIX,imajbetverify2026.live
   - DOMAIN-SUFFIX,imajbetvip.cfd
   - DOMAIN-SUFFIX,imajbetvip.icu
   - DOMAIN-SUFFIX,imajbetvip-gunceladresi.icu
@@ -261354,8 +261182,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet-1183.com
   - DOMAIN-SUFFIX,jojobet-1188.com
   - DOMAIN-SUFFIX,jojobet-11agust.icu
-  - DOMAIN-SUFFIX,jojobet-11agustos.art
-  - DOMAIN-SUFFIX,jojobet-12agustos.art
   - DOMAIN-SUFFIX,jojobet-15temmuz.cam
   - DOMAIN-SUFFIX,jojobet-1temmuz.icu
   - DOMAIN-SUFFIX,jojobet-2.icu
@@ -261761,7 +261587,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet-giris.wiki
   - DOMAIN-SUFFIX,jojobet-giris.xyz
   - DOMAIN-SUFFIX,jojobet-giris-2026.co
-  - DOMAIN-SUFFIX,jojobet-giris-2026.icu
   - DOMAIN-SUFFIX,jojobet-giris-adres.icu
   - DOMAIN-SUFFIX,jojobet-giris-agustos.icu
   - DOMAIN-SUFFIX,jojobet-giris-aktif.icu
@@ -262699,7 +262524,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet-resmi-app.icu
   - DOMAIN-SUFFIX,jojobet-resmi-baglanti.com
   - DOMAIN-SUFFIX,jojobet-resmi-baglanti.icu
-  - DOMAIN-SUFFIX,jojobet-resmi-casino.icu
   - DOMAIN-SUFFIX,jojobet-resmi-erisim.cam
   - DOMAIN-SUFFIX,jojobet-resmi-erisim.icu
   - DOMAIN-SUFFIX,jojobet-resmi-erisimi.icu
@@ -262712,7 +262536,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet-resmi-girisi.icu
   - DOMAIN-SUFFIX,jojobet-resmi-girisim.vip
   - DOMAIN-SUFFIX,jojobet-resmi-girisimiz.com
-  - DOMAIN-SUFFIX,jojobet-resmi-girisyap.icu
   - DOMAIN-SUFFIX,jojobet-resmi-guncel.icu
   - DOMAIN-SUFFIX,jojobet-resmi-hizli.icu
   - DOMAIN-SUFFIX,jojobet-resmi-jojobet.com
@@ -263041,7 +262864,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet-yeni-adres2026.vip
   - DOMAIN-SUFFIX,jojobet-yeni-adresi.icu
   - DOMAIN-SUFFIX,jojobet-yeni-app.icu
-  - DOMAIN-SUFFIX,jojobet-yeni-casino.icu
   - DOMAIN-SUFFIX,jojobet-yeni-erisim.icu
   - DOMAIN-SUFFIX,jojobet-yeni-erisim.live
   - DOMAIN-SUFFIX,jojobet-yeni-gir.vip
@@ -263618,7 +263440,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet8209.com
   - DOMAIN-SUFFIX,jojobet8210.icu
   - DOMAIN-SUFFIX,jojobet8211.com
-  - DOMAIN-SUFFIX,jojobet82113.com
   - DOMAIN-SUFFIX,jojobet82118.com
   - DOMAIN-SUFFIX,jojobet8212.com
   - DOMAIN-SUFFIX,jojobet82121.com
@@ -263645,7 +263466,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet8223.com
   - DOMAIN-SUFFIX,jojobet82230.com
   - DOMAIN-SUFFIX,jojobet82231.com
-  - DOMAIN-SUFFIX,jojobet8224.casino
   - DOMAIN-SUFFIX,jojobet8224.com
   - DOMAIN-SUFFIX,jojobet82241.com
   - DOMAIN-SUFFIX,jojobet82242.com
@@ -263739,7 +263559,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet8277.com
   - DOMAIN-SUFFIX,jojobet8278.com
   - DOMAIN-SUFFIX,jojobet8279.com
-  - DOMAIN-SUFFIX,jojobet82792.com
   - DOMAIN-SUFFIX,jojobet8280.com
   - DOMAIN-SUFFIX,jojobet8280.icu
   - DOMAIN-SUFFIX,jojobet8281.com
@@ -263850,7 +263669,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet8381.com
   - DOMAIN-SUFFIX,jojobet8382.com
   - DOMAIN-SUFFIX,jojobet8382.icu
-  - DOMAIN-SUFFIX,jojobet83820.com
   - DOMAIN-SUFFIX,jojobet8383.com
   - DOMAIN-SUFFIX,jojobet8384.com
   - DOMAIN-SUFFIX,jojobet8386.com
@@ -265955,7 +265773,6 @@ payload:
   - DOMAIN-SUFFIX,jojobetsport.xyz
   - DOMAIN-SUFFIX,jojobetsports.website
   - DOMAIN-SUFFIX,jojobetsports.xyz
-  - DOMAIN-SUFFIX,jojobetst.icu
   - DOMAIN-SUFFIX,jojobetsuf.icu
   - DOMAIN-SUFFIX,jojobett.business
   - DOMAIN-SUFFIX,jojobett.lol
@@ -266453,7 +266270,6 @@ payload:
   - DOMAIN-SUFFIX,jokerscm88e.com
   - DOMAIN-SUFFIX,jokersino.com
   - DOMAIN-SUFFIX,jokersino-casino.com
-  - DOMAIN-SUFFIX,jokersino21.io
   - DOMAIN-SUFFIX,jokersinocasino.io
   - DOMAIN-SUFFIX,jokerslot.asia
   - DOMAIN-SUFFIX,jokerslot.cfd
@@ -281187,6 +281003,7 @@ payload:
   - DOMAIN-SUFFIX,leao.vip
   - DOMAIN-SUFFIX,leao111.com
   - DOMAIN-SUFFIX,leao333.vip
+  - DOMAIN-SUFFIX,leao444.vip
   - DOMAIN-SUFFIX,leao77.com
   - DOMAIN-SUFFIX,leao888.net
   - DOMAIN-SUFFIX,leao99.com
@@ -282992,13 +282809,11 @@ payload:
   - DOMAIN-SUFFIX,leon119.bet
   - DOMAIN-SUFFIX,leon121.bet
   - DOMAIN-SUFFIX,leon123.bet
-  - DOMAIN-SUFFIX,leon126.bet
   - DOMAIN-SUFFIX,leon129.bet
   - DOMAIN-SUFFIX,leon131.bet
   - DOMAIN-SUFFIX,leon132.bet
   - DOMAIN-SUFFIX,leon133.bet
   - DOMAIN-SUFFIX,leon134.bet
-  - DOMAIN-SUFFIX,leon135.bet
   - DOMAIN-SUFFIX,leon138.casino
   - DOMAIN-SUFFIX,leon14.bet
   - DOMAIN-SUFFIX,leon143.bet
@@ -283036,7 +282851,6 @@ payload:
   - DOMAIN-SUFFIX,leon24.bet
   - DOMAIN-SUFFIX,leon241.casino
   - DOMAIN-SUFFIX,leon244.casino
-  - DOMAIN-SUFFIX,leon257.casino
   - DOMAIN-SUFFIX,leon259.casino
   - DOMAIN-SUFFIX,leon274.casino
   - DOMAIN-SUFFIX,leon275.casino
@@ -286409,7 +286223,6 @@ payload:
   - DOMAIN-SUFFIX,livebetcasino.xyz
   - DOMAIN-SUFFIX,livebetfun.com
   - DOMAIN-SUFFIX,livebets.fun
-  - DOMAIN-SUFFIX,livebets.info
   - DOMAIN-SUFFIX,livebets.ink
   - DOMAIN-SUFFIX,livebetsat.com
   - DOMAIN-SUFFIX,livebetslot.club
@@ -289099,7 +288912,6 @@ payload:
   - DOMAIN-SUFFIX,lucky-chances-casino.com
   - DOMAIN-SUFFIX,lucky-claw.casino
   - DOMAIN-SUFFIX,lucky-coin-casino.com
-  - DOMAIN-SUFFIX,lucky-coin-casino.uk
   - DOMAIN-SUFFIX,lucky-creek-casino-website.com
   - DOMAIN-SUFFIX,lucky-day-casino.com
   - DOMAIN-SUFFIX,lucky-day-casino.net
@@ -291722,7 +291534,6 @@ payload:
   - DOMAIN-SUFFIX,lvr.casino
   - DOMAIN-SUFFIX,lvrich.com
   - DOMAIN-SUFFIX,lvsgame.com
-  - DOMAIN-SUFFIX,lvslot88i.com
   - DOMAIN-SUFFIX,lvstudio54.com
   - DOMAIN-SUFFIX,lvtcasino.com
   - DOMAIN-SUFFIX,lvtixdeals.com
@@ -293414,7 +293225,6 @@ payload:
   - DOMAIN-SUFFIX,madridbet.work
   - DOMAIN-SUFFIX,madridbet-1.co
   - DOMAIN-SUFFIX,madridbet-1186.com
-  - DOMAIN-SUFFIX,madridbet-12agustos.art
   - DOMAIN-SUFFIX,madridbet-1giris.icu
   - DOMAIN-SUFFIX,madridbet-2026.org
   - DOMAIN-SUFFIX,madridbet-2026.top
@@ -293459,7 +293269,6 @@ payload:
   - DOMAIN-SUFFIX,madridbet-classy.cam
   - DOMAIN-SUFFIX,madridbet-club.icu
   - DOMAIN-SUFFIX,madridbet-com.pro
-  - DOMAIN-SUFFIX,madridbet-denemebonusu.icu
   - DOMAIN-SUFFIX,madridbet-diamond-giris-orjinall.cam
   - DOMAIN-SUFFIX,madridbet-direkgir.icu
   - DOMAIN-SUFFIX,madridbet-dolap.com
@@ -299098,7 +298907,6 @@ payload:
   - DOMAIN-SUFFIX,matbet-sportgiris.vip
   - DOMAIN-SUFFIX,matbet-sports-gir.icu
   - DOMAIN-SUFFIX,matbet-suportgiris.icu
-  - DOMAIN-SUFFIX,matbet-tek-adresi.top
   - DOMAIN-SUFFIX,matbet-tek-giris.cam
   - DOMAIN-SUFFIX,matbet-tek-resmi.icu
   - DOMAIN-SUFFIX,matbet-tekcasinogiris.com
@@ -301911,7 +301719,6 @@ payload:
   - DOMAIN-SUFFIX,megarich-casino.uk
   - DOMAIN-SUFFIX,megarich-casino-online.net
   - DOMAIN-SUFFIX,megarich13.co
-  - DOMAIN-SUFFIX,megarich14.co
   - DOMAIN-SUFFIX,megarich15.co
   - DOMAIN-SUFFIX,megarich159bets.com
   - DOMAIN-SUFFIX,megarich159bets.net
@@ -306097,7 +305904,6 @@ payload:
   - DOMAIN-SUFFIX,meritbet.one
   - DOMAIN-SUFFIX,meritbet.onl
   - DOMAIN-SUFFIX,meritbet.vin
-  - DOMAIN-SUFFIX,meritbet-12agustos.art
   - DOMAIN-SUFFIX,meritbet-2026.top
   - DOMAIN-SUFFIX,meritbet-2026guncegiris.icu
   - DOMAIN-SUFFIX,meritbet-2026guveniligiris.icu
@@ -308565,7 +308371,6 @@ payload:
   - DOMAIN-SUFFIX,min88s.vip
   - DOMAIN-SUFFIX,min88s.win
   - DOMAIN-SUFFIX,min88us.com
-  - DOMAIN-SUFFIX,min88vn.vip
   - DOMAIN-SUFFIX,min88win.com
   - DOMAIN-SUFFIX,minangtogel.shop
   - DOMAIN-SUFFIX,minapoker.xyz
@@ -308598,8 +308403,6 @@ payload:
   - DOMAIN-SUFFIX,minebit.io
   - DOMAIN-SUFFIX,minebit-casino.nl
   - DOMAIN-SUFFIX,minebit694.com
-  - DOMAIN-SUFFIX,minebit934.com
-  - DOMAIN-SUFFIX,minebit968.com
   - DOMAIN-SUFFIX,minebitcasino.biz
   - DOMAIN-SUFFIX,minebitcasino.com
   - DOMAIN-SUFFIX,minebitcasino.info
@@ -310157,10 +309960,8 @@ payload:
   - DOMAIN-SUFFIX,money138.site
   - DOMAIN-SUFFIX,money138bp.xyz
   - DOMAIN-SUFFIX,money138br.xyz
-  - DOMAIN-SUFFIX,money333.casino
   - DOMAIN-SUFFIX,money69.vip
   - DOMAIN-SUFFIX,money88s.xyz
-  - DOMAIN-SUFFIX,money999.casino
   - DOMAIN-SUFFIX,moneyball23.com
   - DOMAIN-SUFFIX,moneybets.app
   - DOMAIN-SUFFIX,moneybets.bet
@@ -312373,7 +312174,6 @@ payload:
   - DOMAIN-SUFFIX,mrjudi33.net
   - DOMAIN-SUFFIX,mrjudi33.vip
   - DOMAIN-SUFFIX,mrking5019.com
-  - DOMAIN-SUFFIX,mrking5021.casino
   - DOMAIN-SUFFIX,mrkingcasino.com
   - DOMAIN-SUFFIX,mrkingcasino.de
   - DOMAIN-SUFFIX,mrkng.com
@@ -315889,8 +315689,6 @@ payload:
   - DOMAIN-SUFFIX,needs-for-slots.com
   - DOMAIN-SUFFIX,needskijangwin.us
   - DOMAIN-SUFFIX,needslots.ch
-  - DOMAIN-SUFFIX,neeforspin56.com
-  - DOMAIN-SUFFIX,neeforspin58.com
   - DOMAIN-SUFFIX,neew-1xbet.ru
   - DOMAIN-SUFFIX,nef.casino
   - DOMAIN-SUFFIX,neft-casino.team
@@ -317972,7 +317770,6 @@ payload:
   - DOMAIN-SUFFIX,nickfordenver.com
   - DOMAIN-SUFFIX,nickiminajbeauty.com
   - DOMAIN-SUFFIX,nickmondomedia.com
-  - DOMAIN-SUFFIX,nicocasinos.online
   - DOMAIN-SUFFIX,nicolassanguinetti.info
   - DOMAIN-SUFFIX,nicolebetschartphoto.com
   - DOMAIN-SUFFIX,nicoleclouston.com
@@ -318087,7 +317884,6 @@ payload:
   - DOMAIN-SUFFIX,nikitoto.store
   - DOMAIN-SUFFIX,nikkojakarta.com
   - DOMAIN-SUFFIX,nikonf6.net
-  - DOMAIN-SUFFIX,nikosparaskevas.gr
   - DOMAIN-SUFFIX,nilecasino.com
   - DOMAIN-SUFFIX,nim.casino
   - DOMAIN-SUFFIX,nimacasino-aktif.cam
@@ -319953,7 +319749,6 @@ payload:
   - DOMAIN-SUFFIX,nomortogelhariini.net
   - DOMAIN-SUFFIX,nomortogelmalamini.com
   - DOMAIN-SUFFIX,nomortogelonline.com
-  - DOMAIN-SUFFIX,non.casino
   - DOMAIN-SUFFIX,non-aams-casino-italia.com
   - DOMAIN-SUFFIX,non-aams-casinoit.com
   - DOMAIN-SUFFIX,non-aamsonlinecasinos.com
@@ -323502,7 +323297,6 @@ payload:
   - DOMAIN-SUFFIX,officialusacasino.com
   - DOMAIN-SUFFIX,officialv9.com
   - DOMAIN-SUFFIX,officialworldseriesofpoker.us
-  - DOMAIN-SUFFIX,officialz-pokerdom.buzz
   - DOMAIN-SUFFIX,officialzodiaccasino.com
   - DOMAIN-SUFFIX,officialzpokerdom.click
   - DOMAIN-SUFFIX,officiel-instant-casino.com
@@ -336695,7 +336489,6 @@ payload:
   - DOMAIN-SUFFIX,piabellacasino686.cam
   - DOMAIN-SUFFIX,piabellacasino687.cam
   - DOMAIN-SUFFIX,piabellacasino713.com
-  - DOMAIN-SUFFIX,piabellacasino746.com
   - DOMAIN-SUFFIX,piabellacasinoadres.cam
   - DOMAIN-SUFFIX,piabellacasinoadres.icu
   - DOMAIN-SUFFIX,piabellacasinoadres.top
@@ -342668,7 +342461,6 @@ payload:
   - DOMAIN-SUFFIX,placebet.io
   - DOMAIN-SUFFIX,placebet-casino.fr
   - DOMAIN-SUFFIX,placebet138.xyz
-  - DOMAIN-SUFFIX,placebet1g.io
   - DOMAIN-SUFFIX,placebet6.io
   - DOMAIN-SUFFIX,placebets.xyz
   - DOMAIN-SUFFIX,placebocasino.com
@@ -348697,7 +348489,6 @@ payload:
   - DOMAIN-SUFFIX,pokerklas-10temmuz.icu
   - DOMAIN-SUFFIX,pokerklas-14temmuz.icu
   - DOMAIN-SUFFIX,pokerklas-15temmuz.icu
-  - DOMAIN-SUFFIX,pokerklas-17temmuz.art
   - DOMAIN-SUFFIX,pokerklas-1temmuz.icu
   - DOMAIN-SUFFIX,pokerklas-2.icu
   - DOMAIN-SUFFIX,pokerklas-2026dogrubaglanti.icu
@@ -358312,7 +358103,6 @@ payload:
   - DOMAIN-SUFFIX,rdtoto3.com
   - DOMAIN-SUFFIX,rdu.casino
   - DOMAIN-SUFFIX,rdub.casino
-  - DOMAIN-SUFFIX,rdvavy.com
   - DOMAIN-SUFFIX,rdx.casino
   - DOMAIN-SUFFIX,re123.xyz
   - DOMAIN-SUFFIX,re2l.in
@@ -359185,7 +358975,6 @@ payload:
   - DOMAIN-SUFFIX,reels-on-casino.com
   - DOMAIN-SUFFIX,reels-on-casino.org
   - DOMAIN-SUFFIX,reels100.com
-  - DOMAIN-SUFFIX,reels100.io
   - DOMAIN-SUFFIX,reels101.com
   - DOMAIN-SUFFIX,reels102.com
   - DOMAIN-SUFFIX,reels103.com
@@ -359786,7 +359575,6 @@ payload:
   - DOMAIN-SUFFIX,resmi-casino-casibom.vip
   - DOMAIN-SUFFIX,resmi-casinom.icu
   - DOMAIN-SUFFIX,resmi-casinoperadresi.vip
-  - DOMAIN-SUFFIX,resmi-imajbetgiris.online
   - DOMAIN-SUFFIX,resmi-jojobet-adres.icu
   - DOMAIN-SUFFIX,resmi-jojobet-giris.com
   - DOMAIN-SUFFIX,resmi-jojobet-giris.icu
@@ -359808,9 +359596,7 @@ payload:
   - DOMAIN-SUFFIX,resmiadres-vdcasino.vip
   - DOMAIN-SUFFIX,resmiadresjojobet.icu
   - DOMAIN-SUFFIX,resmiadreslerimjojobet.icu
-  - DOMAIN-SUFFIX,resmibets10.icu
   - DOMAIN-SUFFIX,resmibets10link.vip
-  - DOMAIN-SUFFIX,resmibets10sayfa.vip
   - DOMAIN-SUFFIX,resmicasino-giris.cam
   - DOMAIN-SUFFIX,resmicasino-tr.com
   - DOMAIN-SUFFIX,resmicasinoadresi.com
@@ -359897,32 +359683,24 @@ payload:
   - DOMAIN-SUFFIX,restbet-12hazirangir.icu
   - DOMAIN-SUFFIX,restbet-1623.com
   - DOMAIN-SUFFIX,restbet-2026hizligiris.icu
-  - DOMAIN-SUFFIX,restbet-2026online.sbs
   - DOMAIN-SUFFIX,restbet-2026tr-giris.com
   - DOMAIN-SUFFIX,restbet-20hazirangir.icu
   - DOMAIN-SUFFIX,restbet-22hazirangir.icu
   - DOMAIN-SUFFIX,restbet-23hazirangir.icu
   - DOMAIN-SUFFIX,restbet-26saligirisi.icu
-  - DOMAIN-SUFFIX,restbet-adres.vip
   - DOMAIN-SUFFIX,restbet-adres-resmi.icu
   - DOMAIN-SUFFIX,restbet-adresi.com
   - DOMAIN-SUFFIX,restbet-adresi.icu
   - DOMAIN-SUFFIX,restbet-aktif-giris.icu
   - DOMAIN-SUFFIX,restbet-aktif-yasal.icu
-  - DOMAIN-SUFFIX,restbet-aktifenyeni.vip
   - DOMAIN-SUFFIX,restbet-aktifgiris.site
   - DOMAIN-SUFFIX,restbet-aktifgirisi.vip
   - DOMAIN-SUFFIX,restbet-aktiftemmuzbonuslari.icu
   - DOMAIN-SUFFIX,restbet-alone.icu
   - DOMAIN-SUFFIX,restbet-anlik.icu
-  - DOMAIN-SUFFIX,restbet-anlikgir.icu
   - DOMAIN-SUFFIX,restbet-casino.icu
   - DOMAIN-SUFFIX,restbet-danger.icu
   - DOMAIN-SUFFIX,restbet-destek.live
-  - DOMAIN-SUFFIX,restbet-en-yeni.vip
-  - DOMAIN-SUFFIX,restbet-enyeni-63.vip
-  - DOMAIN-SUFFIX,restbet-enyeniadres7.vip
-  - DOMAIN-SUFFIX,restbet-erisim.vip
   - DOMAIN-SUFFIX,restbet-erisim63.icu
   - DOMAIN-SUFFIX,restbet-erisimgiris.site
   - DOMAIN-SUFFIX,restbet-ersm-2026.vip
@@ -359935,60 +359713,35 @@ payload:
   - DOMAIN-SUFFIX,restbet-gercek.icu
   - DOMAIN-SUFFIX,restbet-gercek-adres.icu
   - DOMAIN-SUFFIX,restbet-gercek-adresi.icu
-  - DOMAIN-SUFFIX,restbet-gercek-adresiniz-girisiniz.vip
-  - DOMAIN-SUFFIX,restbet-gercek-giris-adresi.vip
-  - DOMAIN-SUFFIX,restbet-gercek-mobil-adresiniz.sbs
   - DOMAIN-SUFFIX,restbet-gercekadresi.icu
   - DOMAIN-SUFFIX,restbet-ghost.icu
   - DOMAIN-SUFFIX,restbet-gir.cam
-  - DOMAIN-SUFFIX,restbet-giris-adresinizz7.sbs
-  - DOMAIN-SUFFIX,restbet-giris-erisim.vip
-  - DOMAIN-SUFFIX,restbet-giris7.vip
   - DOMAIN-SUFFIX,restbet-girisadresi.cam
   - DOMAIN-SUFFIX,restbet-girisadresi.icu
   - DOMAIN-SUFFIX,restbet-girisadresi.live
   - DOMAIN-SUFFIX,restbet-girisadresitr.icu
-  - DOMAIN-SUFFIX,restbet-girisenyeni.vip
-  - DOMAIN-SUFFIX,restbet-girisi.art
-  - DOMAIN-SUFFIX,restbet-girissii.icu
   - DOMAIN-SUFFIX,restbet-girs.icu
   - DOMAIN-SUFFIX,restbet-girss.cfd
   - DOMAIN-SUFFIX,restbet-give.icu
   - DOMAIN-SUFFIX,restbet-gnclgrs.cam
   - DOMAIN-SUFFIX,restbet-great.icu
-  - DOMAIN-SUFFIX,restbet-guncel-63.vip
   - DOMAIN-SUFFIX,restbet-guncel-adres.icu
   - DOMAIN-SUFFIX,restbet-guncel-adres.vip
   - DOMAIN-SUFFIX,restbet-guncel-adresi.vip
   - DOMAIN-SUFFIX,restbet-guncel-adresin.icu
-  - DOMAIN-SUFFIX,restbet-guncel-adresiniz.vip
-  - DOMAIN-SUFFIX,restbet-guncel-adresiniz2026.sbs
   - DOMAIN-SUFFIX,restbet-guncel-adreslerimiz.top
   - DOMAIN-SUFFIX,restbet-guncel-baglanti.top
-  - DOMAIN-SUFFIX,restbet-guncel-gercek-adresiniz-giris.sbs
-  - DOMAIN-SUFFIX,restbet-guncel-giris63.vip
-  - DOMAIN-SUFFIX,restbet-guncel-giris7.sbs
   - DOMAIN-SUFFIX,restbet-guncel-kazanc-adresi.icu
   - DOMAIN-SUFFIX,restbet-guncel-mobil.top
-  - DOMAIN-SUFFIX,restbet-guncel-orjinal.vip
   - DOMAIN-SUFFIX,restbet-guncel-resmi.icu
-  - DOMAIN-SUFFIX,restbet-guncel0.vip
-  - DOMAIN-SUFFIX,restbet-gunceladresi1.vip
-  - DOMAIN-SUFFIX,restbet-gunceladresleri7.vip
   - DOMAIN-SUFFIX,restbet-gunceladrs.cam
   - DOMAIN-SUFFIX,restbet-guncelgirisi.co
   - DOMAIN-SUFFIX,restbet-guncelgirisi.icu
-  - DOMAIN-SUFFIX,restbet-guncelgirisleri1.vip
-  - DOMAIN-SUFFIX,restbet-guncelgirisleri7.vip
   - DOMAIN-SUFFIX,restbet-gunceli.cam
-  - DOMAIN-SUFFIX,restbet-guncell-giriss.vip
   - DOMAIN-SUFFIX,restbet-guncelresmigiris.icu
   - DOMAIN-SUFFIX,restbet-guven.icu
-  - DOMAIN-SUFFIX,restbet-guveniliradres.vip
   - DOMAIN-SUFFIX,restbet-hard.icu
   - DOMAIN-SUFFIX,restbet-help.icu
-  - DOMAIN-SUFFIX,restbet-hizligirisleri.vip
-  - DOMAIN-SUFFIX,restbet-hizlii-girisler.vip
   - DOMAIN-SUFFIX,restbet-home.icu
   - DOMAIN-SUFFIX,restbet-link.cam
   - DOMAIN-SUFFIX,restbet-lisanslarin.icu
@@ -360000,29 +359753,22 @@ payload:
   - DOMAIN-SUFFIX,restbet-mobilgiris.icu
   - DOMAIN-SUFFIX,restbet-most.icu
   - DOMAIN-SUFFIX,restbet-move.icu
-  - DOMAIN-SUFFIX,restbet-net-giris88.sbs
-  - DOMAIN-SUFFIX,restbet-new-giris72.sbs
   - DOMAIN-SUFFIX,restbet-now.icu
   - DOMAIN-SUFFIX,restbet-official.icu
   - DOMAIN-SUFFIX,restbet-officialgirisadresi.icu
   - DOMAIN-SUFFIX,restbet-officialsite.icu
   - DOMAIN-SUFFIX,restbet-orjinal.icu
-  - DOMAIN-SUFFIX,restbet-orjinal-adresi.vip
   - DOMAIN-SUFFIX,restbet-resmi-adres.icu
   - DOMAIN-SUFFIX,restbet-resmi-adres.vip
   - DOMAIN-SUFFIX,restbet-resmi-giris.icu
-  - DOMAIN-SUFFIX,restbet-resmi7.sbs
   - DOMAIN-SUFFIX,restbet-resmiadres.icu
-  - DOMAIN-SUFFIX,restbet-resmiadres7.vip
   - DOMAIN-SUFFIX,restbet-resmiadresi.icu
   - DOMAIN-SUFFIX,restbet-resmiadresi.live
   - DOMAIN-SUFFIX,restbet-resmiadresi.vip
-  - DOMAIN-SUFFIX,restbet-resmiadresleri7.vip
   - DOMAIN-SUFFIX,restbet-restadres.cam
   - DOMAIN-SUFFIX,restbet-restadres.vip
   - DOMAIN-SUFFIX,restbet-restkazanc.vip
   - DOMAIN-SUFFIX,restbet-sanal-orjinal.vip
-  - DOMAIN-SUFFIX,restbet-sanal-orjinal1.vip
   - DOMAIN-SUFFIX,restbet-siteler.icu
   - DOMAIN-SUFFIX,restbet-snow.icu
   - DOMAIN-SUFFIX,restbet-sonadress.icu
@@ -360031,20 +359777,16 @@ payload:
   - DOMAIN-SUFFIX,restbet-temmuzgiris.icu
   - DOMAIN-SUFFIX,restbet-tiklakazan2026.icu
   - DOMAIN-SUFFIX,restbet-time.icu
-  - DOMAIN-SUFFIX,restbet-tr.icu
   - DOMAIN-SUFFIX,restbet-trgirisadresi2026.vip
   - DOMAIN-SUFFIX,restbet-trgirisguncel.vip
   - DOMAIN-SUFFIX,restbet-trgirisi.icu
   - DOMAIN-SUFFIX,restbet-trust.icu
-  - DOMAIN-SUFFIX,restbet-turkey0.vip
-  - DOMAIN-SUFFIX,restbet-turkeyplus.vip
   - DOMAIN-SUFFIX,restbet-vip-2026.icu
   - DOMAIN-SUFFIX,restbet-vip-giris.icu
   - DOMAIN-SUFFIX,restbet-vip-girisi.icu
   - DOMAIN-SUFFIX,restbet-walk.icu
   - DOMAIN-SUFFIX,restbet-wc26giris.icu
   - DOMAIN-SUFFIX,restbet-world.icu
-  - DOMAIN-SUFFIX,restbet-yeni-adresiniz73.sbs
   - DOMAIN-SUFFIX,restbet-yenigiris.site
   - DOMAIN-SUFFIX,restbet-yenigirisadresi.icu
   - DOMAIN-SUFFIX,restbet11234.com
@@ -360147,7 +359889,6 @@ payload:
   - DOMAIN-SUFFIX,restbet1713.com
   - DOMAIN-SUFFIX,restbet1714.com
   - DOMAIN-SUFFIX,restbet1715.com
-  - DOMAIN-SUFFIX,restbet1716.com
   - DOMAIN-SUFFIX,restbet1717.com
   - DOMAIN-SUFFIX,restbet1718.com
   - DOMAIN-SUFFIX,restbet1719.com
@@ -360413,14 +360154,10 @@ payload:
   - DOMAIN-SUFFIX,restbet2.vip
   - DOMAIN-SUFFIX,restbet2.xyz
   - DOMAIN-SUFFIX,restbet2026-adresim.vip
-  - DOMAIN-SUFFIX,restbet2026-guncel-giris-adresi.sbs
   - DOMAIN-SUFFIX,restbet2026-mobiladres.vip
   - DOMAIN-SUFFIX,restbet2026-orjinal.vip
   - DOMAIN-SUFFIX,restbet2199.com
-  - DOMAIN-SUFFIX,restbet2354.com
   - DOMAIN-SUFFIX,restbet2516.com
-  - DOMAIN-SUFFIX,restbet2609.com
-  - DOMAIN-SUFFIX,restbet2610.com
   - DOMAIN-SUFFIX,restbet2627.com
   - DOMAIN-SUFFIX,restbet2628.com
   - DOMAIN-SUFFIX,restbet2629.com
@@ -360443,17 +360180,12 @@ payload:
   - DOMAIN-SUFFIX,restbetadresi-dhrh.icu
   - DOMAIN-SUFFIX,restbetadresler26.icu
   - DOMAIN-SUFFIX,restbetadreslermz26.icu
-  - DOMAIN-SUFFIX,restbetapp01.vip
   - DOMAIN-SUFFIX,restbetapps.icu
   - DOMAIN-SUFFIX,restbetapps1.icu
-  - DOMAIN-SUFFIX,restbetbonus.net
   - DOMAIN-SUFFIX,restbetbos.icu
   - DOMAIN-SUFFIX,restbetcdn.com
   - DOMAIN-SUFFIX,restbetconsol.icu
-  - DOMAIN-SUFFIX,restbetdirektgiris.vip
-  - DOMAIN-SUFFIX,restbete.icu
   - DOMAIN-SUFFIX,restbetegercekgiris.icu
-  - DOMAIN-SUFFIX,restbetekresmisayfa.info
   - DOMAIN-SUFFIX,restbetgir.top
   - DOMAIN-SUFFIX,restbetgiris.cfd
   - DOMAIN-SUFFIX,restbetgiris.co
@@ -360475,7 +360207,6 @@ payload:
   - DOMAIN-SUFFIX,restbetguncel.icu
   - DOMAIN-SUFFIX,restbetguncel.top
   - DOMAIN-SUFFIX,restbetguncel.xyz
-  - DOMAIN-SUFFIX,restbetguncel01.vip
   - DOMAIN-SUFFIX,restbetgunceladres.cfd
   - DOMAIN-SUFFIX,restbetgunceladres.icu
   - DOMAIN-SUFFIX,restbetgunceladresi.cfd
@@ -360494,12 +360225,9 @@ payload:
   - DOMAIN-SUFFIX,restbetguncelurl.icu
   - DOMAIN-SUFFIX,restbethizliadresleri.icu
   - DOMAIN-SUFFIX,restbetim.live
-  - DOMAIN-SUFFIX,restbetkolayadresleri.info
-  - DOMAIN-SUFFIX,restbetl620.com
   - DOMAIN-SUFFIX,restbetl730.com
   - DOMAIN-SUFFIX,restbetmobil.cfd
   - DOMAIN-SUFFIX,restbetmobil.icu
-  - DOMAIN-SUFFIX,restbetmobil01.vip
   - DOMAIN-SUFFIX,restbetmobilgiris.cfd
   - DOMAIN-SUFFIX,restbetmobilgiris.icu
   - DOMAIN-SUFFIX,restbetmobilgirisadresi.icu
@@ -360509,24 +360237,18 @@ payload:
   - DOMAIN-SUFFIX,restbetofficialgirisadresi.icu
   - DOMAIN-SUFFIX,restbetonline.top
   - DOMAIN-SUFFIX,restbetonlinecasino.icu
-  - DOMAIN-SUFFIX,restbetonlineplay.vip
   - DOMAIN-SUFFIX,restbetorjinalim.icu
-  - DOMAIN-SUFFIX,restbetplusgirisleri.vip
-  - DOMAIN-SUFFIX,restbetplusresmi01.vip
   - DOMAIN-SUFFIX,restbetresmi.cfd
   - DOMAIN-SUFFIX,restbetresmi.vip
   - DOMAIN-SUFFIX,restbetresmi-7050.icu
   - DOMAIN-SUFFIX,restbetresmi-girs2026.icu
-  - DOMAIN-SUFFIX,restbetresmi01.vip
   - DOMAIN-SUFFIX,restbetresmiadres.cfd
   - DOMAIN-SUFFIX,restbetresmiadres.icu
   - DOMAIN-SUFFIX,restbetresmiadres.top
-  - DOMAIN-SUFFIX,restbetresmiadresi1.vip
   - DOMAIN-SUFFIX,restbetresmigir.icu
   - DOMAIN-SUFFIX,restbetresmigiris.cfd
   - DOMAIN-SUFFIX,restbetresmigiris.icu
   - DOMAIN-SUFFIX,restbetresmigiris-l1hp.icu
-  - DOMAIN-SUFFIX,restbetresmigiris01.vip
   - DOMAIN-SUFFIX,restbetresmigirisadresi.cfd
   - DOMAIN-SUFFIX,restbetresmigirisadresi.icu
   - DOMAIN-SUFFIX,restbetresmigirisi.icu
@@ -360537,13 +360259,11 @@ payload:
   - DOMAIN-SUFFIX,restbetsuperbx.icu
   - DOMAIN-SUFFIX,restbetsweb.icu
   - DOMAIN-SUFFIX,restbetsweet.com
-  - DOMAIN-SUFFIX,restbett.live
   - DOMAIN-SUFFIX,restbett-guncel-mobil.top
   - DOMAIN-SUFFIX,restbett1731.com
   - DOMAIN-SUFFIX,restbett2026.vip
   - DOMAIN-SUFFIX,restbettekgercekgirislinki.icu
   - DOMAIN-SUFFIX,restbetter.shop
-  - DOMAIN-SUFFIX,restbettguncellgiris.icu
   - DOMAIN-SUFFIX,restbettr.vip
   - DOMAIN-SUFFIX,restbettr-2026-giris.com
   - DOMAIN-SUFFIX,restbettr-7nmp.icu
@@ -360775,7 +360495,6 @@ payload:
   - DOMAIN-SUFFIX,revmasters.com
   - DOMAIN-SUFFIX,revo-casino.ink
   - DOMAIN-SUFFIX,revo-slots-play.shop
-  - DOMAIN-SUFFIX,revo-slotsfr.site
   - DOMAIN-SUFFIX,revo138.com
   - DOMAIN-SUFFIX,revokebets.xyz
   - DOMAIN-SUFFIX,revollutslots.lifestyle
@@ -361570,7 +361289,6 @@ payload:
   - DOMAIN-SUFFIX,richville-casino.com
   - DOMAIN-SUFFIX,richville-casino-website.com
   - DOMAIN-SUFFIX,richville-casinos.com
-  - DOMAIN-SUFFIX,richville1.org
   - DOMAIN-SUFFIX,richville7.org
   - DOMAIN-SUFFIX,richvillecasino.app
   - DOMAIN-SUFFIX,richwb.com
@@ -361852,13 +361570,10 @@ payload:
   - DOMAIN-SUFFIX,rioace-casinos.fi
   - DOMAIN-SUFFIX,rioace-casinos-pt.com
   - DOMAIN-SUFFIX,rioace1.co
-  - DOMAIN-SUFFIX,rioace19.co
-  - DOMAIN-SUFFIX,rioace20.co
   - DOMAIN-SUFFIX,rioace21.co
   - DOMAIN-SUFFIX,rioace22.co
   - DOMAIN-SUFFIX,rioace23.co
   - DOMAIN-SUFFIX,rioace27.co
-  - DOMAIN-SUFFIX,rioace4.co
   - DOMAIN-SUFFIX,rioace6.co
   - DOMAIN-SUFFIX,rioacecasino.lt
   - DOMAIN-SUFFIX,rioacecasino.org
@@ -364711,7 +364426,6 @@ payload:
   - DOMAIN-SUFFIX,rolling-hills.net
   - DOMAIN-SUFFIX,rolling-hills-casino-resort.com
   - DOMAIN-SUFFIX,rolling-slots.ec
-  - DOMAIN-SUFFIX,rolling-slots.gr
   - DOMAIN-SUFFIX,rolling-slots.lt
   - DOMAIN-SUFFIX,rolling-slots.ru
   - DOMAIN-SUFFIX,rolling-slots-au.com
@@ -364822,7 +364536,6 @@ payload:
   - DOMAIN-SUFFIX,rollingslots888.com
   - DOMAIN-SUFFIX,rollingslots999.com
   - DOMAIN-SUFFIX,rollingslotsau.net
-  - DOMAIN-SUFFIX,rollingslotscasino.gr
   - DOMAIN-SUFFIX,rollingslotscasino.info
   - DOMAIN-SUFFIX,rollingslotscasino.pro
   - DOMAIN-SUFFIX,rollingslotscasino.top
@@ -365600,7 +365313,6 @@ payload:
   - DOMAIN-SUFFIX,roxcasino-139amp.top
   - DOMAIN-SUFFIX,roxcasino-140amp.top
   - DOMAIN-SUFFIX,roxcasino-150amp.top
-  - DOMAIN-SUFFIX,roxcasino-1656.com
   - DOMAIN-SUFFIX,roxcasino-177amp.top
   - DOMAIN-SUFFIX,roxcasino-193amp.top
   - DOMAIN-SUFFIX,roxcasino-1zps.top
@@ -370891,7 +370603,6 @@ payload:
   - DOMAIN-SUFFIX,scrumpoker.fun
   - DOMAIN-SUFFIX,scrumpoker-online.com
   - DOMAIN-SUFFIX,scrumpokerclub.org
-  - DOMAIN-SUFFIX,scs.casino
   - DOMAIN-SUFFIX,scs412.com
   - DOMAIN-SUFFIX,scscasino.com
   - DOMAIN-SUFFIX,scslots.net
@@ -378752,7 +378463,6 @@ payload:
   - DOMAIN-SUFFIX,slottio3.com
   - DOMAIN-SUFFIX,slottio5.com
   - DOMAIN-SUFFIX,slottio6.com
-  - DOMAIN-SUFFIX,slottio7.com
   - DOMAIN-SUFFIX,slottlair-casino.uk
   - DOMAIN-SUFFIX,slotto-jam-casino.com
   - DOMAIN-SUFFIX,slottogo.online
@@ -379209,7 +378919,6 @@ payload:
   - DOMAIN-SUFFIX,smokace11.co
   - DOMAIN-SUFFIX,smokace12.co
   - DOMAIN-SUFFIX,smokace2.com
-  - DOMAIN-SUFFIX,smokace21.co
   - DOMAIN-SUFFIX,smokace210.co
   - DOMAIN-SUFFIX,smokace22.com
   - DOMAIN-SUFFIX,smokace26.co
@@ -382118,7 +381827,6 @@ payload:
   - DOMAIN-SUFFIX,spincasinozones.com
   - DOMAIN-SUFFIX,spincastle-casino.net
   - DOMAIN-SUFFIX,spincastle-uk.casino
-  - DOMAIN-SUFFIX,spincastle26.com
   - DOMAIN-SUFFIX,spincastlecasino.org
   - DOMAIN-SUFFIX,spincastlecasinos.com
   - DOMAIN-SUFFIX,spinch.casino
@@ -382958,7 +382666,6 @@ payload:
   - DOMAIN-SUFFIX,spinmaniacasino.vip
   - DOMAIN-SUFFIX,spinmastercasinos.online
   - DOMAIN-SUFFIX,spinmasterscasino.com
-  - DOMAIN-SUFFIX,spinmatch24.com
   - DOMAIN-SUFFIX,spinmatch365.com
   - DOMAIN-SUFFIX,spinmate88.com
   - DOMAIN-SUFFIX,spinmate88casino.site
@@ -385728,7 +385435,6 @@ payload:
   - DOMAIN-SUFFIX,starda164.casino
   - DOMAIN-SUFFIX,starda165.casino
   - DOMAIN-SUFFIX,starda168.casino
-  - DOMAIN-SUFFIX,starda168.com
   - DOMAIN-SUFFIX,starda17.casino
   - DOMAIN-SUFFIX,starda171.casino
   - DOMAIN-SUFFIX,starda174.casino
@@ -385765,7 +385471,6 @@ payload:
   - DOMAIN-SUFFIX,stardacasino.top
   - DOMAIN-SUFFIX,stardacasino-300.com
   - DOMAIN-SUFFIX,stardacasino-506.com
-  - DOMAIN-SUFFIX,stardacasino-567.top
   - DOMAIN-SUFFIX,stardacasino-aus.com
   - DOMAIN-SUFFIX,stardacasino-bezdeposita.buzz
   - DOMAIN-SUFFIX,stardacasino-br.com
@@ -386304,8 +386009,6 @@ payload:
   - DOMAIN-SUFFIX,stelario1.cc
   - DOMAIN-SUFFIX,stelario1.eu
   - DOMAIN-SUFFIX,stelario10.com
-  - DOMAIN-SUFFIX,stelario27.co
-  - DOMAIN-SUFFIX,stelario28.co
   - DOMAIN-SUFFIX,stelario29.co
   - DOMAIN-SUFFIX,stelario30.co
   - DOMAIN-SUFFIX,stelario31.co
@@ -388988,7 +388691,6 @@ payload:
   - DOMAIN-SUFFIX,swoobz.casino
   - DOMAIN-SUFFIX,swopstakes.com
   - DOMAIN-SUFFIX,swordbets.com
-  - DOMAIN-SUFFIX,sws.casino
   - DOMAIN-SUFFIX,swslots.sbs
   - DOMAIN-SUFFIX,swslots.site
   - DOMAIN-SUFFIX,swv288.com
@@ -396842,7 +396544,6 @@ payload:
   - DOMAIN-SUFFIX,toto12redgold.net
   - DOMAIN-SUFFIX,toto12redgold.org
   - DOMAIN-SUFFIX,toto12vip.com
-  - DOMAIN-SUFFIX,toto12wind.net
   - DOMAIN-SUFFIX,toto13.com
   - DOMAIN-SUFFIX,toto138hoki.com
   - DOMAIN-SUFFIX,toto13slot.com
@@ -398489,7 +398190,6 @@ payload:
   - DOMAIN-SUFFIX,ts4647.com
   - DOMAIN-SUFFIX,ts4ars10.com
   - DOMAIN-SUFFIX,ts4ars11.com
-  - DOMAIN-SUFFIX,ts4ars510.com
   - DOMAIN-SUFFIX,ts506.com
   - DOMAIN-SUFFIX,ts508.com
   - DOMAIN-SUFFIX,ts5696.com
@@ -399498,11 +399198,8 @@ payload:
   - DOMAIN-SUFFIX,twin150.com
   - DOMAIN-SUFFIX,twin151.com
   - DOMAIN-SUFFIX,twin153.com
-  - DOMAIN-SUFFIX,twin155.com
-  - DOMAIN-SUFFIX,twin156.com
   - DOMAIN-SUFFIX,twin157.com
   - DOMAIN-SUFFIX,twin158.com
-  - DOMAIN-SUFFIX,twin160.com
   - DOMAIN-SUFFIX,twin169.com
   - DOMAIN-SUFFIX,twin17.casino
   - DOMAIN-SUFFIX,twin170.com
@@ -405047,7 +404744,6 @@ payload:
   - DOMAIN-SUFFIX,vavadabets.com
   - DOMAIN-SUFFIX,vavadabgt51.com
   - DOMAIN-SUFFIX,vavadabonuses.com
-  - DOMAIN-SUFFIX,vavadacak2.com
   - DOMAIN-SUFFIX,vavadacasino.bet
   - DOMAIN-SUFFIX,vavadacasino.biz
   - DOMAIN-SUFFIX,vavadacasino.bond
@@ -405188,7 +404884,6 @@ payload:
   - DOMAIN-SUFFIX,vavadagh.com
   - DOMAIN-SUFFIX,vavadahbdgr.com
   - DOMAIN-SUFFIX,vavadahibvt.com
-  - DOMAIN-SUFFIX,vavadahkxx5.com
   - DOMAIN-SUFFIX,vavadaip9.com
   - DOMAIN-SUFFIX,vavadakzcasino.kz
   - DOMAIN-SUFFIX,vavadal7a4.com
@@ -405223,7 +404918,6 @@ payload:
   - DOMAIN-SUFFIX,vavadaplaycasino.ru
   - DOMAIN-SUFFIX,vavadaplaywin.com
   - DOMAIN-SUFFIX,vavadapoker.com
-  - DOMAIN-SUFFIX,vavadapork.com
   - DOMAIN-SUFFIX,vavadar4rt.casino
   - DOMAIN-SUFFIX,vavadarb1.com
   - DOMAIN-SUFFIX,vavadarf100.com
@@ -405432,12 +405126,10 @@ payload:
   - DOMAIN-SUFFIX,vaycasino-kazancinadresi.icu
   - DOMAIN-SUFFIX,vaycasino-live.com
   - DOMAIN-SUFFIX,vaycasino-mobil.icu
-  - DOMAIN-SUFFIX,vaycasino-mobil.lat
   - DOMAIN-SUFFIX,vaycasino-mobil.net
   - DOMAIN-SUFFIX,vaycasino-mobil-app.cfd
   - DOMAIN-SUFFIX,vaycasino-mobil-app.com
   - DOMAIN-SUFFIX,vaycasino-mobil-giris.com
-  - DOMAIN-SUFFIX,vaycasino-mobil-giris.lat
   - DOMAIN-SUFFIX,vaycasino-mobiladres.icu
   - DOMAIN-SUFFIX,vaycasino-mobiladresi.discount
   - DOMAIN-SUFFIX,vaycasino-mobilden.icu
@@ -405460,7 +405152,6 @@ payload:
   - DOMAIN-SUFFIX,vaycasino-resmi-adres2026.vip
   - DOMAIN-SUFFIX,vaycasino-resmi-adresi.lat
   - DOMAIN-SUFFIX,vaycasino-resmi-giris.cam
-  - DOMAIN-SUFFIX,vaycasino-resmi-giris.discount
   - DOMAIN-SUFFIX,vaycasino-resmi-girr.cam
   - DOMAIN-SUFFIX,vaycasino-resmi-orj2026.cam
   - DOMAIN-SUFFIX,vaycasino-resmi2026.icu
@@ -405592,7 +405283,6 @@ payload:
   - DOMAIN-SUFFIX,vaycasinox.xyz
   - DOMAIN-SUFFIX,vaycasinoyeni-giris.icu
   - DOMAIN-SUFFIX,vaycasinoyenigiris.top
-  - DOMAIN-SUFFIX,vayycasino.icu
   - DOMAIN-SUFFIX,vb008.com
   - DOMAIN-SUFFIX,vb1.casino
   - DOMAIN-SUFFIX,vb113.com
@@ -406742,7 +406432,6 @@ payload:
   - DOMAIN-SUFFIX,vegasworldslotsforfree.lol
   - DOMAIN-SUFFIX,vegasx-casino.com
   - DOMAIN-SUFFIX,vegasy.casino
-  - DOMAIN-SUFFIX,vegasyru.com
   - DOMAIN-SUFFIX,vegawin.com
   - DOMAIN-SUFFIX,vegawin2.org
   - DOMAIN-SUFFIX,vegaz-casino.ch
@@ -407801,9 +407490,6 @@ payload:
   - DOMAIN-SUFFIX,verywellcasino1.net
   - DOMAIN-SUFFIX,verywellcasino1.org
   - DOMAIN-SUFFIX,verywellcasino30.com
-  - DOMAIN-SUFFIX,verywellcasino33.com
-  - DOMAIN-SUFFIX,verywellcasino34.com
-  - DOMAIN-SUFFIX,verywellcasino35.com
   - DOMAIN-SUFFIX,verywellcasino37.com
   - DOMAIN-SUFFIX,verywellcasino38.com
   - DOMAIN-SUFFIX,verywellcasino77.com
@@ -409610,7 +409296,6 @@ payload:
   - DOMAIN-SUFFIX,visiwa.net
   - DOMAIN-SUFFIX,viskaingacalaro.com
   - DOMAIN-SUFFIX,visserhallen.nl
-  - DOMAIN-SUFFIX,vista-bet.gr
   - DOMAIN-SUFFIX,vistabet.casino
   - DOMAIN-SUFFIX,vistabet.com
   - DOMAIN-SUFFIX,vistabet.gr
@@ -415357,7 +415042,6 @@ payload:
   - DOMAIN-SUFFIX,waypointer.info
   - DOMAIN-SUFFIX,wayscasino.net
   - DOMAIN-SUFFIX,waysnolimit.net
-  - DOMAIN-SUFFIX,waytoyoungandrich.com
   - DOMAIN-SUFFIX,wazamba.bet
   - DOMAIN-SUFFIX,wazamba.com
   - DOMAIN-SUFFIX,wazamba.cz
@@ -417403,7 +417087,6 @@ payload:
   - DOMAIN-SUFFIX,wildtokyo-casino-se.com
   - DOMAIN-SUFFIX,wildtokyo09.com
   - DOMAIN-SUFFIX,wildtokyo1.net
-  - DOMAIN-SUFFIX,wildtokyo26.com
   - DOMAIN-SUFFIX,wildtokyo35.com
   - DOMAIN-SUFFIX,wildtokyo36.com
   - DOMAIN-SUFFIX,wildtokyo37.com
@@ -418615,7 +418298,6 @@ payload:
   - DOMAIN-SUFFIX,windetta-casino-cz.com
   - DOMAIN-SUFFIX,windetta10.com
   - DOMAIN-SUFFIX,windetta11.com
-  - DOMAIN-SUFFIX,windetta16.co
   - DOMAIN-SUFFIX,windetta20.co
   - DOMAIN-SUFFIX,windetta3.com
   - DOMAIN-SUFFIX,windetta4.com
@@ -418880,7 +418562,6 @@ payload:
   - DOMAIN-SUFFIX,winlegends.com
   - DOMAIN-SUFFIX,winlegends1.com
   - DOMAIN-SUFFIX,winlegends10.com
-  - DOMAIN-SUFFIX,winlegends18.co
   - DOMAIN-SUFFIX,winlegends19.co
   - DOMAIN-SUFFIX,winlegends21.com
   - DOMAIN-SUFFIX,winlegends23.co
@@ -419894,17 +419575,12 @@ payload:
   - DOMAIN-SUFFIX,winshark-kasino.at
   - DOMAIN-SUFFIX,winshark-kasino.de
   - DOMAIN-SUFFIX,winshark-uk-casino.com
-  - DOMAIN-SUFFIX,winshark03.com
-  - DOMAIN-SUFFIX,winshark04.com
-  - DOMAIN-SUFFIX,winshark05.com
   - DOMAIN-SUFFIX,winshark06.com
   - DOMAIN-SUFFIX,winshark07.com
   - DOMAIN-SUFFIX,winshark08.com
   - DOMAIN-SUFFIX,winshark09.com
   - DOMAIN-SUFFIX,winshark1.casino
   - DOMAIN-SUFFIX,winshark1.com
-  - DOMAIN-SUFFIX,winshark12.com
-  - DOMAIN-SUFFIX,winshark14.com
   - DOMAIN-SUFFIX,winshark15.com
   - DOMAIN-SUFFIX,winshark16.com
   - DOMAIN-SUFFIX,winshark17.com
@@ -420719,7 +420395,6 @@ payload:
   - DOMAIN-SUFFIX,winwin-66721.pro
   - DOMAIN-SUFFIX,winwin-66767.pro
   - DOMAIN-SUFFIX,winwin-67577.pro
-  - DOMAIN-SUFFIX,winwin-676846.top
   - DOMAIN-SUFFIX,winwin-6808.pro
   - DOMAIN-SUFFIX,winwin-6829.pro
   - DOMAIN-SUFFIX,winwin-6841.pro
@@ -421144,13 +420819,11 @@ payload:
   - DOMAIN-SUFFIX,winwinstz.christmas
   - DOMAIN-SUFFIX,winwinsuccess.fr
   - DOMAIN-SUFFIX,winwinsurebets.com
-  - DOMAIN-SUFFIX,winwinsystem.net
   - DOMAIN-SUFFIX,winwintahator.com
   - DOMAIN-SUFFIX,winwintahator.net
   - DOMAIN-SUFFIX,winwintahator.org
   - DOMAIN-SUFFIX,winwinter.info
   - DOMAIN-SUFFIX,winwinter-brit.com
-  - DOMAIN-SUFFIX,winwinter-eng.uk
   - DOMAIN-SUFFIX,winwinter-uk.casino
   - DOMAIN-SUFFIX,winwinter-uk.org
   - DOMAIN-SUFFIX,winwinter27.com
@@ -422544,7 +422217,6 @@ payload:
   - DOMAIN-SUFFIX,wowbetth.com
   - DOMAIN-SUFFIX,wowbetuz-uz.com
   - DOMAIN-SUFFIX,wowbetuzuz.com
-  - DOMAIN-SUFFIX,wowbetvip.com
   - DOMAIN-SUFFIX,wowbtt.com
   - DOMAIN-SUFFIX,wowcashout.com
   - DOMAIN-SUFFIX,wowcasino.app
@@ -431425,6 +431097,7 @@ payload:
   - DOMAIN-SUFFIX,zumobetcasino.online
   - DOMAIN-SUFFIX,zumobetcasinos.nl
   - DOMAIN-SUFFIX,zumobets1.nl
+  - DOMAIN-SUFFIX,zumospin.com
   - DOMAIN-SUFFIX,zumospin-casino.com
   - DOMAIN-SUFFIX,zumospin-casino.site
   - DOMAIN-SUFFIX,zumospin-casino-officieel.nl
