@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Aug 2026 07:02 UTC
-# Version: 2026.0819.0702.25
+# Last modified: 20 Aug 2026 07:09 UTC
+# Version: 2026.0820.0709.35
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54146
+# Number of entries: 54151
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -1628,7 +1628,6 @@ payload:
   - DOMAIN-SUFFIX,claims-validation.ndis.gov.au
   - DOMAIN-SUFFIX,pki.ndis.gov.au
   - DOMAIN-SUFFIX,posit-workbench.ndis.gov.au
-  - DOMAIN-SUFFIX,vaccination.gov.ng
   - DOMAIN-SUFFIX,et.grandmatootsy.com
   - DOMAIN-SUFFIX,official-complete-1.granpulse.us
   - DOMAIN-SUFFIX,ig.greensswobs.com
@@ -7074,6 +7073,7 @@ payload:
   - DOMAIN-SUFFIX,1jour1evenement.com
   - DOMAIN-SUFFIX,1joycasino.club
   - DOMAIN-SUFFIX,1jpbh5iht.de
+  - DOMAIN-SUFFIX,1jsskipuf8sd.com
   - DOMAIN-SUFFIX,1jtb.com
   - DOMAIN-SUFFIX,1jutu5nnx.com
   - DOMAIN-SUFFIX,1k1.net
@@ -14993,6 +14993,7 @@ payload:
   - DOMAIN-SUFFIX,buljlwaclnocq.site
   - DOMAIN-SUFFIX,bulkbreeding.com
   - DOMAIN-SUFFIX,bulkconflictpeculiarities.com
+  - DOMAIN-SUFFIX,bulkrat.com
   - DOMAIN-SUFFIX,bulky-battle.com
   - DOMAIN-SUFFIX,bulky-winter.pro
   - DOMAIN-SUFFIX,bulkymagazine.com
@@ -24501,6 +24502,7 @@ payload:
   - DOMAIN-SUFFIX,gadspms.com
   - DOMAIN-SUFFIX,gadspmz.com
   - DOMAIN-SUFFIX,gadssystems.com
+  - DOMAIN-SUFFIX,gafghbhfaihaeggdaade.world
   - DOMAIN-SUFFIX,gafioraqw.xyz
   - DOMAIN-SUFFIX,gagescenesclothes.com
   - DOMAIN-SUFFIX,gageushers.com
@@ -34016,6 +34018,7 @@ payload:
   - DOMAIN-SUFFIX,milicepatens.top
   - DOMAIN-SUFFIX,militantwitnessfelon.com
   - DOMAIN-SUFFIX,milkfiscal.com
+  - DOMAIN-SUFFIX,milkspendens.cfd
   - DOMAIN-SUFFIX,milky-night.com
   - DOMAIN-SUFFIX,milky-prior.pro
   - DOMAIN-SUFFIX,milky-silver.pro
@@ -41215,6 +41218,7 @@ payload:
   - DOMAIN-SUFFIX,questionable-shoulder.pro
   - DOMAIN-SUFFIX,questionablegirl.com
   - DOMAIN-SUFFIX,questioningcomplimentarypotato.com
+  - DOMAIN-SUFFIX,questioningraisin.com
   - DOMAIN-SUFFIX,questioningtosscontradiction.com
   - DOMAIN-SUFFIX,questionschildish.com
   - DOMAIN-SUFFIX,questopia.site
@@ -50342,6 +50346,7 @@ payload:
   - DOMAIN-SUFFIX,vihub.ru
   - DOMAIN-SUFFIX,vihvelibre.com
   - DOMAIN-SUFFIX,viiadaof.com
+  - DOMAIN-SUFFIX,viiadr.com
   - DOMAIN-SUFFIX,viibslav.com
   - DOMAIN-SUFFIX,viictorytiime.net
   - DOMAIN-SUFFIX,viiczfvm.com
