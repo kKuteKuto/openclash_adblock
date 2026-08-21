@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Aug 2026 14:12 UTC
-# Version: 2026.0820.1412.49
+# Last modified: 21 Aug 2026 07:03 UTC
+# Version: 2026.0821.0703.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54144
+# Number of entries: 54149
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -374,6 +374,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -810,6 +813,7 @@ payload:
   - DOMAIN-SUFFIX,cpdc.com.cn
   - DOMAIN-SUFFIX,da-bank.com.co
   - DOMAIN-SUFFIX,datanine.com.cn
+  - DOMAIN-SUFFIX,deepseekk.com.cn
   - DOMAIN-SUFFIX,destinychurchwa.com.au
   - DOMAIN-SUFFIX,dgrj.com.cn
   - DOMAIN-SUFFIX,dusk.com.tw
@@ -2279,6 +2283,7 @@ payload:
   - DOMAIN-SUFFIX,ge.mustierchirms.top
   - DOMAIN-SUFFIX,zb.mutantseggnogs.shop
   - DOMAIN-SUFFIX,bb.mutatesuet.com
+  - DOMAIN-SUFFIX,shafana.my.id
   - DOMAIN-SUFFIX,r39-g003-h8ig0w-u8f0we8-fgw0rgf-0we880e-rhgth.obs.ap-southeast-2.myhuaweicloud.com
   - DOMAIN-SUFFIX,aorlbl.myllovees.com
   - DOMAIN-SUFFIX,lloxej.myllovees.com
@@ -13002,7 +13007,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -40246,7 +40250,6 @@ payload:
   - DOMAIN-SUFFIX,psoacickoots.net
   - DOMAIN-SUFFIX,psoamaupsie.net
   - DOMAIN-SUFFIX,psoampoa.net
-  - DOMAIN-SUFFIX,psoanegodage.com
   - DOMAIN-SUFFIX,psoashaisoo.net
   - DOMAIN-SUFFIX,psoashouftees.net
   - DOMAIN-SUFFIX,psoathaithosh.net
@@ -44123,6 +44126,7 @@ payload:
   - DOMAIN-SUFFIX,shameful-touch.pro
   - DOMAIN-SUFFIX,shameless-employee.com
   - DOMAIN-SUFFIX,shameless-respond.pro
+  - DOMAIN-SUFFIX,shamelesspackage.pro
   - DOMAIN-SUFFIX,shamelesstotal.com
   - DOMAIN-SUFFIX,shamimtanguin.com
   - DOMAIN-SUFFIX,shanghejy.com
@@ -52486,6 +52490,7 @@ payload:
   - DOMAIN-SUFFIX,xerahhhwhpcey.online
   - DOMAIN-SUFFIX,xerdivqzcmi.com
   - DOMAIN-SUFFIX,xescvbxf.xyz
+  - DOMAIN-SUFFIX,xetoruelo.com
   - DOMAIN-SUFFIX,xewmulwtgydsgk.com
   - DOMAIN-SUFFIX,xexuchkq.com
   - DOMAIN-SUFFIX,xfalmawladvew.site
