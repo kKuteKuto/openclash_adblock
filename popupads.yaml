@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 21 Aug 2026 17:52 UTC
-# Version: 2026.0821.1752.26
+# Last modified: 22 Aug 2026 07:02 UTC
+# Version: 2026.0822.0702.21
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54153
+# Number of entries: 54154
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -14376,6 +14376,7 @@ payload:
   - DOMAIN-SUFFIX,boomads.com
   - DOMAIN-SUFFIX,boomertraff.com
   - DOMAIN-SUFFIX,boomwalkertraveller.com
+  - DOMAIN-SUFFIX,boondocksflaskvendor.com
   - DOMAIN-SUFFIX,boopoaglauph.net
   - DOMAIN-SUFFIX,booseed.com
   - DOMAIN-SUFFIX,booshoatoocotez.net
