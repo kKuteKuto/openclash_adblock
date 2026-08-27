@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Aug 2026 09:53 UTC
-# Version: 2026.0826.0953.11
+# Last modified: 26 Aug 2026 14:09 UTC
+# Version: 2026.0826.1409.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 54162
+# Number of entries: 54161
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -374,9 +374,6 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
-  - DOMAIN-SUFFIX,chiyouranai.base.shop
-  - DOMAIN-SUFFIX,tokujiro.base.shop
-  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -13009,6 +13006,7 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
+  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
   - DOMAIN-SUFFIX,basementunfamiliar.com
@@ -21562,6 +21560,7 @@ payload:
   - DOMAIN-SUFFIX,emplorecasquet.com
   - DOMAIN-SUFFIX,employdancing.com
   - DOMAIN-SUFFIX,employedexit.com
+  - DOMAIN-SUFFIX,employerexcusableslighted.com
   - DOMAIN-SUFFIX,employeroverwhelming.com
   - DOMAIN-SUFFIX,employerunder.com
   - DOMAIN-SUFFIX,employerupsideliterally.com
