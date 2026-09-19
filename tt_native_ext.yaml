@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 11 Sep 2026 22:00 UTC
-# Version: 2026.0911.2200.29
+# Last modified: 18 Sep 2026 22:05 UTC
+# Version: 2026.0918.2205.18
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 615
+# Number of entries: 613
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -105,7 +105,6 @@ payload:
   - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,frontier.capcutw.us
-  - DOMAIN-SUFFIX,mssdk-ru.tiktokv.com.www.digmawifi.com
   - DOMAIN-SUFFIX,mon-i18n.tiktokv.com.dvaitas.lt
   - DOMAIN-SUFFIX,mon16-normal-no1a.tiktokv.eu.dvaitas.lt
   - DOMAIN-SUFFIX,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
@@ -490,7 +489,6 @@ payload:
   - DOMAIN-SUFFIX,rtc-logger.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-i18n.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-ie.tiktokv.eu
-  - DOMAIN-SUFFIX,rtc-logger-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
