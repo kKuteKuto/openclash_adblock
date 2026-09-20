@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 19 Sep 2026 07:18 UTC
-# Version: 2026.0919.0718.47
+# Last modified: 20 Sep 2026 07:18 UTC
+# Version: 2026.0920.0718.16
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 50562
+# Number of entries: 50569
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -345,6 +345,9 @@ payload:
   - DOMAIN-SUFFIX,darian.bantengan.xyz
   - DOMAIN-SUFFIX,uc.barbelfaldfee.com
   - DOMAIN-SUFFIX,do.barmfellists.com
+  - DOMAIN-SUFFIX,chiyouranai.base.shop
+  - DOMAIN-SUFFIX,tokujiro.base.shop
+  - DOMAIN-SUFFIX,uranai1111.base.shop
   - DOMAIN-SUFFIX,ah.basothomug.com
   - DOMAIN-SUFFIX,bv.basquedbeloam.com
   - DOMAIN-SUFFIX,ck.bastardzingaro.com
@@ -12407,7 +12410,6 @@ payload:
   - DOMAIN-SUFFIX,bartramagynous.com
   - DOMAIN-SUFFIX,barytemarkup.com
   - DOMAIN-SUFFIX,barytethynnid.com
-  - DOMAIN-SUFFIX,base.shop
   - DOMAIN-SUFFIX,baseballletters.com
   - DOMAIN-SUFFIX,basednewsarticle.com
   - DOMAIN-SUFFIX,basejudgementquizmaster.com
@@ -22965,6 +22967,7 @@ payload:
   - DOMAIN-SUFFIX,fusrv.com
   - DOMAIN-SUFFIX,fussy-community.pro
   - DOMAIN-SUFFIX,fussy-rest.pro
+  - DOMAIN-SUFFIX,fussyreturn.com
   - DOMAIN-SUFFIX,futbollibretvhd.net
   - DOMAIN-SUFFIX,futcceabr.com
   - DOMAIN-SUFFIX,futebolmania.net
@@ -27479,6 +27482,7 @@ payload:
   - DOMAIN-SUFFIX,itsbbyfhfu.com
   - DOMAIN-SUFFIX,itsdonelist.com
   - DOMAIN-SUFFIX,itseagleswig.com
+  - DOMAIN-SUFFIX,itselfevidencedenied.com
   - DOMAIN-SUFFIX,itselfunderpants.com
   - DOMAIN-SUFFIX,itsipi.com
   - DOMAIN-SUFFIX,itskiddien.club
@@ -30307,6 +30311,7 @@ payload:
   - DOMAIN-SUFFIX,localsnaughty.com
   - DOMAIN-SUFFIX,locatedchatprofane.com
   - DOMAIN-SUFFIX,locatepartzeal.com
+  - DOMAIN-SUFFIX,locatezealous.com
   - DOMAIN-SUFFIX,lockandrelax.com
   - DOMAIN-SUFFIX,locked-link.com
   - DOMAIN-SUFFIX,lockedplacidsunday.com
@@ -40032,6 +40037,7 @@ payload:
   - DOMAIN-SUFFIX,rose2919.com
   - DOMAIN-SUFFIX,rosebudbrinkrat.com
   - DOMAIN-SUFFIX,rosebudedinburgh.com
+  - DOMAIN-SUFFIX,rosebudrefreshments.com
   - DOMAIN-SUFFIX,roshchyn.com
   - DOMAIN-SUFFIX,rosoavkecokgaz.com
   - DOMAIN-SUFFIX,rosy-award.pro
@@ -40047,6 +40053,7 @@ payload:
   - DOMAIN-SUFFIX,rotating-store.pro
   - DOMAIN-SUFFIX,rotbnllkqenrw.store
   - DOMAIN-SUFFIX,rothermophony.com
+  - DOMAIN-SUFFIX,rotlbaittle.cyou
   - DOMAIN-SUFFIX,rotondelibya.com
   - DOMAIN-SUFFIX,rottemuckna.com
   - DOMAIN-SUFFIX,rottencycle.com
