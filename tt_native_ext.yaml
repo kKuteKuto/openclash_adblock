@@ -5,8 +5,8 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 25 Sep 2026 22:04 UTC
-# Version: 2026.0925.2204.00
+# Last modified: 27 Sep 2026 20:32 UTC
+# Version: 2026.0927.2032.01
 # Syntax: Domains Wildcard (without subdomains)
 # Number of entries: 614
 #
@@ -626,4 +626,4 @@ payload:
   - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu.ttdns3.com
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu.ttdns3.com
   - DOMAIN-SUFFIX,ad-instantpage.tiktokv.us.ttdns4.com
-  - DOMAIN-SUFFIX,h4g3z1-native.tiktok.extended.web.app
+  - DOMAIN-SUFFIX,h4g3z1-native-tiktok-extended.web.app
