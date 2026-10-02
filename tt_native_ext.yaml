@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 27 Sep 2026 20:32 UTC
-# Version: 2026.0927.2032.01
+# Last modified: 01 Oct 2026 15:29 UTC
+# Version: 2026.1001.1529.37
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 614
+# Number of entries: 617
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,xlog-o.byteoversea.com
   - DOMAIN-SUFFIX,xlog-va.byteoversea.com
   - DOMAIN-SUFFIX,xlog-va-useast2a.byteoversea.com
+  - DOMAIN-SUFFIX,frontier.us.capcut.com
   - DOMAIN-SUFFIX,log-boot.capcutapi.com
   - DOMAIN-SUFFIX,log-sg.capcutapi.com
   - DOMAIN-SUFFIX,log-v2-boot.capcutapi.com
@@ -104,7 +105,9 @@ payload:
   - DOMAIN-SUFFIX,tnc-va.capcutapi.com
   - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,tnc16-normal-us-ttp2.capcutapi.us
   - DOMAIN-SUFFIX,frontier.capcutw.us
+  - DOMAIN-SUFFIX,frontier-us-ttp2.capcutw.us
   - DOMAIN-SUFFIX,mon-i18n.tiktokv.com.dvaitas.lt
   - DOMAIN-SUFFIX,mon16-normal-no1a.tiktokv.eu.dvaitas.lt
   - DOMAIN-SUFFIX,mon16-normal-useastred.tiktokv.eu.dvaitas.lt
