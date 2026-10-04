@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 02 Oct 2026 22:09 UTC
-# Version: 2026.1002.2209.28
+# Last modified: 04 Oct 2026 11:47 UTC
+# Version: 2026.1004.1147.21
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 618
+# Number of entries: 619
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -92,6 +92,7 @@ payload:
   - DOMAIN-SUFFIX,mssdk16-normal.capcutapi.com
   - DOMAIN-SUFFIX,mssdk16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,mssdk16-normal-us-ttp2.capcutapi.us
   - DOMAIN-SUFFIX,mssdk32-normal.capcutapi.com
   - DOMAIN-SUFFIX,mssdk32-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com
