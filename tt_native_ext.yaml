@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 19 Oct 2026 09:27 UTC
-# Version: 2026.1019.0927.44
+# Last modified: 28 Oct 2026 14:42 UTC
+# Version: 2026.1028.1442.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 624
+# Number of entries: 764
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -21,7 +21,12 @@ payload:
   - DOMAIN-SUFFIX,frontier23-normal-alisg.tiktokv.com.bpgslb.com
   - DOMAIN-SUFFIX,ads-sg.business-tiktok.com
   - DOMAIN-SUFFIX,ads-va.business-tiktok.com
+  - DOMAIN-SUFFIX,sf16-short-gcp.bytedapm.com
+  - DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com
+  - DOMAIN-SUFFIX,sf16-short-va.bytedapm.com
   - DOMAIN-SUFFIX,frontier.byteoversea.com
+  - DOMAIN-SUFFIX,frontier-my.byteoversea.com
+  - DOMAIN-SUFFIX,frontier-va.byteoversea.com
   - DOMAIN-SUFFIX,gplog-sg.byteoversea.com
   - DOMAIN-SUFFIX,gplog-va.byteoversea.com
   - DOMAIN-SUFFIX,gplog-va-useast2a.byteoversea.com
@@ -64,14 +69,23 @@ payload:
   - DOMAIN-SUFFIX,xlog-va.byteoversea.com
   - DOMAIN-SUFFIX,xlog-va-useast2a.byteoversea.com
   - DOMAIN-SUFFIX,frontier.us.capcut.com
+  - DOMAIN-SUFFIX,gplog-sg.capcutapi.com
+  - DOMAIN-SUFFIX,gplog-va.capcutapi.com
+  - DOMAIN-SUFFIX,location.capcutapi.us
+  - DOMAIN-SUFFIX,log.capcutapi.us
   - DOMAIN-SUFFIX,log-boot.capcutapi.com
   - DOMAIN-SUFFIX,log-sg.capcutapi.com
   - DOMAIN-SUFFIX,log-v2-boot.capcutapi.com
+  - DOMAIN-SUFFIX,log-va.capcutapi.com
   - DOMAIN-SUFFIX,log16-normal.capcutapi.com
   - DOMAIN-SUFFIX,log16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,log16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,log22-normal.capcutapi.com
+  - DOMAIN-SUFFIX,log31-normal.capcutapi.com
+  - DOMAIN-SUFFIX,log31-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,log32-normal.capcutapi.com
   - DOMAIN-SUFFIX,log32-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,maliva-mcs.capcutapi.com
   - DOMAIN-SUFFIX,mcs.capcutapi.us
   - DOMAIN-SUFFIX,mcs-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mcs-v2-boot.capcutapi.com
@@ -81,9 +95,13 @@ payload:
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com
   - DOMAIN-SUFFIX,mon-va.capcutapi.com
+  - DOMAIN-SUFFIX,mon16-normal.capcutapi.com
   - DOMAIN-SUFFIX,mon16-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mon16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,mon16-normal-us-ttp2.capcutapi.us
+  - DOMAIN-SUFFIX,mon31-normal.capcutapi.com
+  - DOMAIN-SUFFIX,mon31-normal-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mon32-normal.capcutapi.com
   - DOMAIN-SUFFIX,mon32-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,mssdk.capcutapi.us
   - DOMAIN-SUFFIX,mssdk-boot.capcutapi.com
@@ -98,6 +116,7 @@ payload:
   - DOMAIN-SUFFIX,pc-mon-boot.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon-v2-boot.capcutapi.com
+  - DOMAIN-SUFFIX,pc-mon-va.capcutapi.com
   - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,pc-mon16-normal-us-ttp2.capcutapi.us
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
@@ -107,6 +126,10 @@ payload:
   - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,tnc16-normal-us-ttp2.capcutapi.us
+  - DOMAIN-SUFFIX,ug-sg.capcutapi.com
+  - DOMAIN-SUFFIX,ug-va.capcutapi.com
+  - DOMAIN-SUFFIX,xlog.capcutapi.us
+  - DOMAIN-SUFFIX,xlog-va.capcutapi.com
   - DOMAIN-SUFFIX,frontier.capcutw.us
   - DOMAIN-SUFFIX,frontier-us-ttp2.capcutw.us
   - DOMAIN-SUFFIX,analytics.tiktok.com.edgekey.net
@@ -125,6 +148,8 @@ payload:
   - DOMAIN-SUFFIX,mcs-va-useast2a.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mon-boot.tiktokv.com.edgekey.net
   - DOMAIN-SUFFIX,mssdk-boot.tiktokv.com.edgekey.net
+  - DOMAIN-SUFFIX,sf16-short-sg.bytedapm.com.edgesuite.net
+  - DOMAIN-SUFFIX,sf16-short-va.bytedapm.com.edgesuite.net
   - DOMAIN-SUFFIX,mon-boot.capcutapi.com.edgesuite.net
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com.edgesuite.net
   - DOMAIN-SUFFIX,mon-v2-boot.capcutapi.com.edgesuite.net
@@ -213,6 +238,7 @@ payload:
   - DOMAIN-SUFFIX,vas-hl-x.snssdk.com
   - DOMAIN-SUFFIX,vcl-brain.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
+  - DOMAIN-SUFFIX,ads.in.tiktok.com
   - DOMAIN-SUFFIX,ads.us.tiktok.com
   - DOMAIN-SUFFIX,ads-ttp2.us.tiktok.com
   - DOMAIN-SUFFIX,analytics.us.tiktok.com
@@ -230,6 +256,8 @@ payload:
   - DOMAIN-SUFFIX,ads-ru.tiktok.com
   - DOMAIN-SUFFIX,ads-service.tiktok.com
   - DOMAIN-SUFFIX,ads-sg.tiktok.com
+  - DOMAIN-SUFFIX,ads-useast2a.tiktok.com
+  - DOMAIN-SUFFIX,ads-va.tiktok.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics-attribution.tiktok.com
   - DOMAIN-SUFFIX,analytics-attribution-va.tiktok.com
@@ -258,12 +286,19 @@ payload:
   - DOMAIN-SUFFIX,mcs.tiktok-row.net
   - DOMAIN-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,p16-ttam-va.tiktokcdn.com
+  - DOMAIN-SUFFIX,p19-tiktok-ads-sg.tiktokcdn.com
   - DOMAIN-SUFFIX,p19-ttam-va.tiktokcdn.com
   - DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,sf19-ads-format-sign.tiktokcdn.com
   - DOMAIN-SUFFIX,p16-ttam.tiktokcdn-us.com
   - DOMAIN-SUFFIX,p19-ttam.tiktokcdn-us.com
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
+  - DOMAIN-SUFFIX,ad-format.us.tiktokv.com
+  - DOMAIN-SUFFIX,ad-format-ttp2.us.tiktokv.com
+  - DOMAIN-SUFFIX,ad-instantpage.us.tiktokv.com
+  - DOMAIN-SUFFIX,ad-instantpage-ttp2.us.tiktokv.com
+  - DOMAIN-SUFFIX,frontier.us.tiktokv.com
+  - DOMAIN-SUFFIX,frontier-ttp2.us.tiktokv.com
   - DOMAIN-SUFFIX,location.us.tiktokv.com
   - DOMAIN-SUFFIX,location-ttp2.us.tiktokv.com
   - DOMAIN-SUFFIX,log.us.tiktokv.com
@@ -286,15 +321,25 @@ payload:
   - DOMAIN-SUFFIX,rtlog19-platform-useast5.us.tiktokv.com
   - DOMAIN-SUFFIX,tnc16-normal-useast8.us.tiktokv.com
   - DOMAIN-SUFFIX,tnc16-platform-useast5.us.tiktokv.com
+  - DOMAIN-SUFFIX,ugattribution-ttp2.us.tiktokv.com
   - DOMAIN-SUFFIX,xlog16-normal-useast8.us.tiktokv.com
   - DOMAIN-SUFFIX,xlog16-platform-useast5.us.tiktokv.com
   - DOMAIN-SUFFIX,ad.tiktokv.com
+  - DOMAIN-SUFFIX,ad.tiktokv.eu
   - DOMAIN-SUFFIX,ad.tiktokv.us
+  - DOMAIN-SUFFIX,ad-format.tiktokv.eu
   - DOMAIN-SUFFIX,ad-format.tiktokv.us
+  - DOMAIN-SUFFIX,ad-format-i18n.tiktokv.com
+  - DOMAIN-SUFFIX,ad-format-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,ad-format-ru.tiktokv.com
   - DOMAIN-SUFFIX,ad-format-sg.tiktokv.com
   - DOMAIN-SUFFIX,ad-format-ttp2.tiktokv.eu
+  - DOMAIN-SUFFIX,ad-format-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,ad-format16-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,ad-instantpage.tiktokv.eu
   - DOMAIN-SUFFIX,ad-instantpage.tiktokv.us
+  - DOMAIN-SUFFIX,ad-instantpage-i18n.tiktokv.com
+  - DOMAIN-SUFFIX,ad-instantpage-ie.tiktokv.eu
   - DOMAIN-SUFFIX,ad-instantpage-ru.tiktokv.com
   - DOMAIN-SUFFIX,ad-instantpage-sg.tiktokv.com
   - DOMAIN-SUFFIX,ad-instantpage-ttp2.tiktokv.eu
@@ -302,27 +347,53 @@ payload:
   - DOMAIN-SUFFIX,ad-instantpage-va.tiktokv.com
   - DOMAIN-SUFFIX,adinstantpage16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,frontier.tiktokv.com
+  - DOMAIN-SUFFIX,frontier.tiktokv.eu
   - DOMAIN-SUFFIX,frontier.tiktokv.us
   - DOMAIN-SUFFIX,frontier-i18n.tiktokv.com
+  - DOMAIN-SUFFIX,frontier-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,frontier-my.tiktokv.com
   - DOMAIN-SUFFIX,frontier-my2.tiktokv.com
+  - DOMAIN-SUFFIX,frontier-phx.tiktokv.com
   - DOMAIN-SUFFIX,frontier-ru.tiktokv.com
   - DOMAIN-SUFFIX,frontier-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,frontier-va.tiktokv.com
   - DOMAIN-SUFFIX,frontier100-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,frontier100-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier15-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,frontier15-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier15-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier16-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,frontier16-normal-no1a.tiktokv.eu
+  - DOMAIN-SUFFIX,frontier16-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier16-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,frontier16-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,frontier22-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,frontier22-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier22-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,frontier23-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,frontier23-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier23-normal-useast2a.tiktokv.eu
+  - DOMAIN-SUFFIX,frontier32-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,frontier32-normal-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,frontier32-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,frontier32-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,live-video-log16-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,live-video-log16-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,live-video-log16-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,live-video-log16-normal-useast2a.tiktokv.eu
+  - DOMAIN-SUFFIX,live-video-log16-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,live-video-log16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,location.tiktokv.com
   - DOMAIN-SUFFIX,location.tiktokv.eu
   - DOMAIN-SUFFIX,location.tiktokv.us
   - DOMAIN-SUFFIX,location-i18n.tiktokv.com
+  - DOMAIN-SUFFIX,location-ie.tiktokv.eu
   - DOMAIN-SUFFIX,location-ru.tiktokv.com
   - DOMAIN-SUFFIX,location-sg.tiktokv.com
   - DOMAIN-SUFFIX,location-ttp2.tiktokv.eu
+  - DOMAIN-SUFFIX,location-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,location-v6.tiktokv.com
+  - DOMAIN-SUFFIX,location-v6.tiktokv.eu
   - DOMAIN-SUFFIX,location-v6.tiktokv.us
   - DOMAIN-SUFFIX,location-v6-i18n.tiktokv.com
   - DOMAIN-SUFFIX,location-v6-ru.tiktokv.com
@@ -334,9 +405,12 @@ payload:
   - DOMAIN-SUFFIX,location16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,locationv16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,log.tiktokv.com
+  - DOMAIN-SUFFIX,log.tiktokv.eu
   - DOMAIN-SUFFIX,log.tiktokv.us
   - DOMAIN-SUFFIX,log-boot.tiktokv.com
   - DOMAIN-SUFFIX,log-dr.tiktokv.com
+  - DOMAIN-SUFFIX,log-dr.tiktokv.eu
+  - DOMAIN-SUFFIX,log-dr.tiktokv.us
   - DOMAIN-SUFFIX,log-dr16-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,log-dr16-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log-dr16-normal-useast5.tiktokv.us
@@ -356,6 +430,7 @@ payload:
   - DOMAIN-SUFFIX,log16-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-c-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-delay-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log16-normal-ie.tiktokv.eu
   - DOMAIN-SUFFIX,log16-normal-ind.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,log16-normal-useast1a.tiktokv.com
@@ -363,6 +438,8 @@ payload:
   - DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
   - DOMAIN-SUFFIX,log16-normal-useast8.tiktokv.us
   - DOMAIN-SUFFIX,log16-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,log16-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,log16-normal-zr-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log16-platform-ycru.tiktokv.com
   - DOMAIN-SUFFIX,log16-tmp-normal-useast1a.tiktokv.com
@@ -374,14 +451,23 @@ payload:
   - DOMAIN-SUFFIX,log19-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log19-normal.tiktokv.com
   - DOMAIN-SUFFIX,log19-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log19-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,log19-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log19-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,log19-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,log19-normal-useast8.tiktokv.us
+  - DOMAIN-SUFFIX,log19-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,log19-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log19-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log22-applog-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log22-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,log22-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,log22-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log22-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log3-normal-c-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log3-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal.tiktokv.com
@@ -390,6 +476,9 @@ payload:
   - DOMAIN-SUFFIX,log31-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log31-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,log31-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,log31-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log31-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal-no1a.tiktokv.eu
@@ -397,6 +486,8 @@ payload:
   - DOMAIN-SUFFIX,log32-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,log32-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,log32-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,log32-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal-c-alisg.tiktokv.com
@@ -435,30 +526,40 @@ payload:
   - DOMAIN-SUFFIX,mon16-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-c-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,mon16-normal-ie.tiktokv.eu
   - DOMAIN-SUFFIX,mon16-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,mon16-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-useast5.tiktokv.us
   - DOMAIN-SUFFIX,mon16-normal-useast8.tiktokv.us
   - DOMAIN-SUFFIX,mon16-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,mon16-normal-zr-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon16-platform-ycru.tiktokv.com
   - DOMAIN-SUFFIX,mon16-tmp-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon19-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon19-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon19-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,mon19-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon19-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon22-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon22-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon22-normal-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,mon22-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon22-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,mon31-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon31-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,mon31-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon31-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon32-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon32-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mon32-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,mon32-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon32-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,mon32-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,mon32-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,monbk.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-boot.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-i18n.tiktokv.com
@@ -493,13 +594,17 @@ payload:
   - DOMAIN-SUFFIX,mssdk32-normal-zr-alisg.tiktokv.com
   - DOMAIN-SUFFIX,mssdk32-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger.tiktokv.com
+  - DOMAIN-SUFFIX,rtc-logger.tiktokv.eu
   - DOMAIN-SUFFIX,rtc-logger.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-i18n.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,rtc-logger-ttp2.tiktokv.eu
   - DOMAIN-SUFFIX,rtc-logger-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
+  - DOMAIN-SUFFIX,rtc-logger16-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog-i18n.tiktokv.com
   - DOMAIN-SUFFIX,rtlog-phx.tiktokv.com
   - DOMAIN-SUFFIX,rtlog-ru.tiktokv.com
@@ -513,6 +618,7 @@ payload:
   - DOMAIN-SUFFIX,rtlog16-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog16-normal-ie.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog16-normal-ind.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog16-normal-useast1a.tiktokv.com
@@ -520,6 +626,9 @@ payload:
   - DOMAIN-SUFFIX,rtlog16-normal-useast5.tiktokv.us
   - DOMAIN-SUFFIX,rtlog16-normal-useast8.tiktokv.us
   - DOMAIN-SUFFIX,rtlog16-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,rtlog16-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog16-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog16-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-tmp-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog17-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog17-normal-alisg.tiktokv.com
@@ -529,8 +638,13 @@ payload:
   - DOMAIN-SUFFIX,rtlog19-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog19-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog19-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog19-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog19-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog19-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog19-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,rtlog19-normal-useast8.tiktokv.us
+  - DOMAIN-SUFFIX,rtlog19-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog19-normal-zr-alisg.tiktokv.com
   - DOMAIN-SUFFIX,rtlog19-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-applog-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-applog-useast2a.tiktokv.com
@@ -538,12 +652,26 @@ payload:
   - DOMAIN-SUFFIX,rtlog22-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog22-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog22-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog22-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog31-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog31-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog31-normal-no1a.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog31-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog31-normal-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog31-normal-useastred.tiktokv.eu
+  - DOMAIN-SUFFIX,rtlog31-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog31-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog31-normal-zr-useast1a.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog32-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog32-normal-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog32-normal-no1a.tiktokv.eu
+  - DOMAIN-SUFFIX,rtlog32-normal-useast2a.tiktokv.eu
+  - DOMAIN-SUFFIX,rtlog32-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog32-normal-zr.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog32-normal-zr-alisg.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog32-normal-zr-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog58-normal.tiktokv.com
   - DOMAIN-SUFFIX,rtlog58-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,rtlog58-normal-useast1a.tiktokv.com
@@ -584,18 +712,26 @@ payload:
   - DOMAIN-SUFFIX,ugattribution-ru.tiktokv.com
   - DOMAIN-SUFFIX,ugattribution-sg.tiktokv.com
   - DOMAIN-SUFFIX,xlog.tiktokv.com
+  - DOMAIN-SUFFIX,xlog.tiktokv.eu
   - DOMAIN-SUFFIX,xlog-ru.tiktokv.com
   - DOMAIN-SUFFIX,xlog-va.tiktokv.com
   - DOMAIN-SUFFIX,xlog-va-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,xlog16-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,xlog16-normal-c-useast2a.tiktokv.com
+  - DOMAIN-SUFFIX,xlog16-normal-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,xlog16-normal-no1a.tiktokv.eu
+  - DOMAIN-SUFFIX,xlog16-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,xlog16-normal-useast8.tiktokv.us
+  - DOMAIN-SUFFIX,xlog16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,xlog16-platform-ycru.tiktokv.com
   - DOMAIN-SUFFIX,xlog16-tmp-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,frontier.tiktokv-eu.com
   - DOMAIN-SUFFIX,log-snssdk.tiktokv-us.com
   - DOMAIN-SUFFIX,ads-ie.tiktokw.eu
   - DOMAIN-SUFFIX,ads-ttp2.tiktokw.eu
+  - DOMAIN-SUFFIX,ads-ttp2.tiktokw.us
   - DOMAIN-SUFFIX,ads16-normal-useastred.tiktokw.eu
+  - DOMAIN-SUFFIX,analytics-exp-ie.tiktokw.eu
   - DOMAIN-SUFFIX,analytics-exp-ttp2.tiktokw.eu
   - DOMAIN-SUFFIX,analytics-exp16-normal-useastred.tiktokw.eu
   - DOMAIN-SUFFIX,analytics-ie.tiktokw.eu
@@ -605,7 +741,11 @@ payload:
   - DOMAIN-SUFFIX,analytics16-normal-useast5.tiktokw.us
   - DOMAIN-SUFFIX,analytics16-normal-useast8.tiktokw.us
   - DOMAIN-SUFFIX,analytics16-normal-useastred.tiktokw.eu
+  - DOMAIN-SUFFIX,location.tiktokw.eu
   - DOMAIN-SUFFIX,location.tiktokw.us
+  - DOMAIN-SUFFIX,location-ttp2.tiktokw.eu
+  - DOMAIN-SUFFIX,location-ttp2.tiktokw.us
+  - DOMAIN-SUFFIX,location16-normal-useastred.tiktokw.eu
   - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,mcs-ie.tiktokw.eu
   - DOMAIN-SUFFIX,mcs-ie2.tiktokw.eu
