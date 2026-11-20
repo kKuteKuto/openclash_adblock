@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 19 Nov 2026 15:46 UTC
-# Version: 2026.1119.1546.51
+# Last modified: 19 Nov 2026 23:49 UTC
+# Version: 2026.1119.2349.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 676338
+# Number of entries: 676155
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -1227,6 +1227,7 @@ payload:
   - DOMAIN-SUFFIX,bitslerslots.co.uk
   - DOMAIN-SUFFIX,bitstarz.co.it
   - DOMAIN-SUFFIX,bitstarz-casino.co.it
+  - DOMAIN-SUFFIX,bitstarzcasino.co.it
   - DOMAIN-SUFFIX,bizzo-casino.co.com
   - DOMAIN-SUFFIX,bjs.co.id
   - DOMAIN-SUFFIX,bjsarcade.co.uk
@@ -3669,7 +3670,6 @@ payload:
   - DOMAIN-SUFFIX,betsafecasino.com.pl
   - DOMAIN-SUFFIX,betsafecasino.com.se
   - DOMAIN-SUFFIX,betsbot.com.br
-  - DOMAIN-SUFFIX,betsbream.com.au
   - DOMAIN-SUFFIX,betscanner.com.br
   - DOMAIN-SUFFIX,betsceara99.com.br
   - DOMAIN-SUFFIX,betscouts.com.br
@@ -4360,7 +4360,6 @@ payload:
   - DOMAIN-SUFFIX,fortunetiger.com.br
   - DOMAIN-SUFFIX,frank-bet365.com.cn
   - DOMAIN-SUFFIX,freakybillioncasino.com.pl
-  - DOMAIN-SUFFIX,freebookiebets.com.au
   - DOMAIN-SUFFIX,freecasino.com.pk
   - DOMAIN-SUFFIX,freeslots.com.co
   - DOMAIN-SUFFIX,freespins.com.co
@@ -5608,6 +5607,7 @@ payload:
   - DOMAIN-SUFFIX,vegascasinos.com.au
   - DOMAIN-SUFFIX,vegasexpert.com.ua
   - DOMAIN-SUFFIX,velobetcasino.com.se
+  - DOMAIN-SUFFIX,verabet.com.cn
   - DOMAIN-SUFFIX,verajohn-casino.com.pl
   - DOMAIN-SUFFIX,verdadefeminina.com.br
   - DOMAIN-SUFFIX,verde-casino.com.gr
@@ -6257,6 +6257,7 @@ payload:
   - DOMAIN-SUFFIX,tr.galabet-tr266.vip
   - DOMAIN-SUFFIX,tr.galabet-tr90.vip
   - DOMAIN-SUFFIX,tr.galabet6.vip
+  - DOMAIN-SUFFIX,ww38.galabetapuestas.com
   - DOMAIN-SUFFIX,tr.galabetgir15.vip
   - DOMAIN-SUFFIX,tr.galabetgir16.vip
   - DOMAIN-SUFFIX,tr.galabetgir17.vip
@@ -6602,6 +6603,7 @@ payload:
   - DOMAIN-SUFFIX,paypalcasino.it.com
   - DOMAIN-SUFFIX,prada555.it.com
   - DOMAIN-SUFFIX,roketbet2026guncel.it.com
+  - DOMAIN-SUFFIX,romabet2026.it.com
   - DOMAIN-SUFFIX,ufabet888.it.com
   - DOMAIN-SUFFIX,vox-casino-pl.it.com
   - DOMAIN-SUFFIX,yoyo33.it.com
@@ -8699,6 +8701,7 @@ payload:
   - DOMAIN-SUFFIX,beta.one.tchf.org
   - DOMAIN-SUFFIX,h5734.tdtccloud.com
   - DOMAIN-SUFFIX,tdtcimages.tdtccloud.com
+  - DOMAIN-SUFFIX,beta.teachturtle.com
   - DOMAIN-SUFFIX,wed.tebetuanml.icu
   - DOMAIN-SUFFIX,casino.tebox.dk
   - DOMAIN-SUFFIX,98win.tgcasino789.co
@@ -15805,6 +15808,7 @@ payload:
   - DOMAIN-SUFFIX,11tawaslotsitusmaxwin.lol
   - DOMAIN-SUFFIX,11tbet-id.com
   - DOMAIN-SUFFIX,11tbet16f.top
+  - DOMAIN-SUFFIX,11tbet4e.top
   - DOMAIN-SUFFIX,11tbet5l.top
   - DOMAIN-SUFFIX,11tbet7q.top
   - DOMAIN-SUFFIX,11tbets.com
@@ -33074,7 +33078,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-abt49.buzz
   - DOMAIN-SUFFIX,1xbet-abtd.top
   - DOMAIN-SUFFIX,1xbet-abtf.top
-  - DOMAIN-SUFFIX,1xbet-abu47.buzz
   - DOMAIN-SUFFIX,1xbet-abv36.cfd
   - DOMAIN-SUFFIX,1xbet-abv65.sbs
   - DOMAIN-SUFFIX,1xbet-abvm.top
@@ -33188,7 +33191,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ae3un.xyz
   - DOMAIN-SUFFIX,1xbet-ae4.top
   - DOMAIN-SUFFIX,1xbet-aec32.buzz
-  - DOMAIN-SUFFIX,1xbet-aec65.buzz
   - DOMAIN-SUFFIX,1xbet-aec78.cam
   - DOMAIN-SUFFIX,1xbet-aed46.sbs
   - DOMAIN-SUFFIX,1xbet-aee65.cfd
@@ -33343,7 +33345,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-agk26.cam
   - DOMAIN-SUFFIX,1xbet-agk5p.sbs
   - DOMAIN-SUFFIX,1xbet-agl.top
-  - DOMAIN-SUFFIX,1xbet-agl16.buzz
   - DOMAIN-SUFFIX,1xbet-agldr.top
   - DOMAIN-SUFFIX,1xbet-ago.top
   - DOMAIN-SUFFIX,1xbet-agop.top
@@ -33532,7 +33533,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-al9um.sbs
   - DOMAIN-SUFFIX,1xbet-ala.top
   - DOMAIN-SUFFIX,1xbet-alb51.top
-  - DOMAIN-SUFFIX,1xbet-alb52.buzz
   - DOMAIN-SUFFIX,1xbet-alb56.sbs
   - DOMAIN-SUFFIX,1xbet-albania.com
   - DOMAIN-SUFFIX,1xbet-albania.top
@@ -33752,7 +33752,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-apg88.cfd
   - DOMAIN-SUFFIX,1xbet-apg94.sbs
   - DOMAIN-SUFFIX,1xbet-aph.top
-  - DOMAIN-SUFFIX,1xbet-aph58.buzz
   - DOMAIN-SUFFIX,1xbet-aph67.buzz
   - DOMAIN-SUFFIX,1xbet-aphtf.top
   - DOMAIN-SUFFIX,1xbet-api-cn.com
@@ -33997,7 +33996,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-apuestas.mx
   - DOMAIN-SUFFIX,1xbet-apus.top
   - DOMAIN-SUFFIX,1xbet-apv45.cam
-  - DOMAIN-SUFFIX,1xbet-apv92.buzz
   - DOMAIN-SUFFIX,1xbet-apw85.cam
   - DOMAIN-SUFFIX,1xbet-apy33.buzz
   - DOMAIN-SUFFIX,1xbet-apz.top
@@ -34013,7 +34011,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-aqj27.cam
   - DOMAIN-SUFFIX,1xbet-aqj93.cfd
   - DOMAIN-SUFFIX,1xbet-aqjp.top
-  - DOMAIN-SUFFIX,1xbet-aqk85.buzz
   - DOMAIN-SUFFIX,1xbet-aqltg.icu
   - DOMAIN-SUFFIX,1xbet-aqm61.buzz
   - DOMAIN-SUFFIX,1xbet-aqm72.sbs
@@ -34027,7 +34024,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-aqta.top
   - DOMAIN-SUFFIX,1xbet-aqtx.top
   - DOMAIN-SUFFIX,1xbet-aqu.top
-  - DOMAIN-SUFFIX,1xbet-aqu28.buzz
   - DOMAIN-SUFFIX,1xbet-aqz74.buzz
   - DOMAIN-SUFFIX,1xbet-ar.app
   - DOMAIN-SUFFIX,1xbet-ar.biz
@@ -34177,7 +34173,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ask.buzz
   - DOMAIN-SUFFIX,1xbet-asl78.cfd
   - DOMAIN-SUFFIX,1xbet-asm.top
-  - DOMAIN-SUFFIX,1xbet-asm68.buzz
   - DOMAIN-SUFFIX,1xbet-asm79.top
   - DOMAIN-SUFFIX,1xbet-asn57.cam
   - DOMAIN-SUFFIX,1xbet-asn7v.top
@@ -34353,7 +34348,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-avz82.cam
   - DOMAIN-SUFFIX,1xbet-awa.top
   - DOMAIN-SUFFIX,1xbet-awa45.cfd
-  - DOMAIN-SUFFIX,1xbet-awa69.buzz
   - DOMAIN-SUFFIX,1xbet-awaf.top
   - DOMAIN-SUFFIX,1xbet-awal.top
   - DOMAIN-SUFFIX,1xbet-awb89.sbs
@@ -35080,7 +35074,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-bg709.cfd
   - DOMAIN-SUFFIX,1xbet-bg79j.cyou
   - DOMAIN-SUFFIX,1xbet-bga4.cfd
-  - DOMAIN-SUFFIX,1xbet-bgb25.buzz
   - DOMAIN-SUFFIX,1xbet-bgb4.cfd
   - DOMAIN-SUFFIX,1xbet-bgc48.cfd
   - DOMAIN-SUFFIX,1xbet-bgc91.top
@@ -35795,7 +35788,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-bpe3.cfd
   - DOMAIN-SUFFIX,1xbet-bpe9.top
   - DOMAIN-SUFFIX,1xbet-bph6.top
-  - DOMAIN-SUFFIX,1xbet-bph89.buzz
   - DOMAIN-SUFFIX,1xbet-bpm.top
   - DOMAIN-SUFFIX,1xbet-bpov.top
   - DOMAIN-SUFFIX,1xbet-bppq.top
@@ -36387,7 +36379,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cagr.top
   - DOMAIN-SUFFIX,1xbet-cai.top
   - DOMAIN-SUFFIX,1xbet-cai7q.sbs
-  - DOMAIN-SUFFIX,1xbet-cai85.buzz
   - DOMAIN-SUFFIX,1xbet-caj57.cfd
   - DOMAIN-SUFFIX,1xbet-caje.top
   - DOMAIN-SUFFIX,1xbet-cajr.top
@@ -37182,7 +37173,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cdy45.cfd
   - DOMAIN-SUFFIX,1xbet-cdya.top
   - DOMAIN-SUFFIX,1xbet-cdz17.buzz
-  - DOMAIN-SUFFIX,1xbet-cdz68.buzz
   - DOMAIN-SUFFIX,1xbet-ce.xyz
   - DOMAIN-SUFFIX,1xbet-ce36e.icu
   - DOMAIN-SUFFIX,1xbet-cea.top
@@ -37280,7 +37270,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cgp.top
   - DOMAIN-SUFFIX,1xbet-cgra.top
   - DOMAIN-SUFFIX,1xbet-cgs.top
-  - DOMAIN-SUFFIX,1xbet-cgt44.buzz
   - DOMAIN-SUFFIX,1xbet-cgv41.top
   - DOMAIN-SUFFIX,1xbet-cgvi.top
   - DOMAIN-SUFFIX,1xbet-cgvp.top
@@ -37340,7 +37329,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-chinese520-kaiyun.games
   - DOMAIN-SUFFIX,1xbet-chj58.sbs
   - DOMAIN-SUFFIX,1xbet-chm83.cfd
-  - DOMAIN-SUFFIX,1xbet-chn44.buzz
   - DOMAIN-SUFFIX,1xbet-cho5t.cyou
   - DOMAIN-SUFFIX,1xbet-cho79.cam
   - DOMAIN-SUFFIX,1xbet-cho99.buzz
@@ -37475,7 +37463,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-clc26.buzz
   - DOMAIN-SUFFIX,1xbet-cld49.cfd
   - DOMAIN-SUFFIX,1xbet-cleb.top
-  - DOMAIN-SUFFIX,1xbet-clf53.buzz
   - DOMAIN-SUFFIX,1xbet-clf94.cam
   - DOMAIN-SUFFIX,1xbet-clg49.buzz
   - DOMAIN-SUFFIX,1xbet-client-access.ru
@@ -37487,7 +37474,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-clm57.cam
   - DOMAIN-SUFFIX,1xbet-clmk.top
   - DOMAIN-SUFFIX,1xbet-clo.top
-  - DOMAIN-SUFFIX,1xbet-clo56.buzz
   - DOMAIN-SUFFIX,1xbet-clp85.buzz
   - DOMAIN-SUFFIX,1xbet-clp94.cam
   - DOMAIN-SUFFIX,1xbet-clq.top
@@ -37541,7 +37527,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cn4fs.sbs
   - DOMAIN-SUFFIX,1xbet-cnah.top
   - DOMAIN-SUFFIX,1xbet-cnbt.top
-  - DOMAIN-SUFFIX,1xbet-cnd44.buzz
   - DOMAIN-SUFFIX,1xbet-cne.top
   - DOMAIN-SUFFIX,1xbet-cngi.top
   - DOMAIN-SUFFIX,1xbet-cnh85.buzz
@@ -37662,7 +37647,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cou12.buzz
   - DOMAIN-SUFFIX,1xbet-count.top
   - DOMAIN-SUFFIX,1xbet-cover.top
-  - DOMAIN-SUFFIX,1xbet-cow83.buzz
   - DOMAIN-SUFFIX,1xbet-coxyf.sbs
   - DOMAIN-SUFFIX,1xbet-coyk.top
   - DOMAIN-SUFFIX,1xbet-coza.top
@@ -37714,7 +37698,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cpnpn.xyz
   - DOMAIN-SUFFIX,1xbet-cpo82.cfd
   - DOMAIN-SUFFIX,1xbet-cpon.top
-  - DOMAIN-SUFFIX,1xbet-cpp19.buzz
   - DOMAIN-SUFFIX,1xbet-cppn.top
   - DOMAIN-SUFFIX,1xbet-cpq99.cfd
   - DOMAIN-SUFFIX,1xbet-cpqh.top
@@ -37803,7 +37786,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cricket.xyz
   - DOMAIN-SUFFIX,1xbet-crjh.top
   - DOMAIN-SUFFIX,1xbet-crk91.cam
-  - DOMAIN-SUFFIX,1xbet-crl41.buzz
   - DOMAIN-SUFFIX,1xbet-crl62.cam
   - DOMAIN-SUFFIX,1xbet-crm29.cfd
   - DOMAIN-SUFFIX,1xbet-cro.top
@@ -37963,7 +37945,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-cwal.top
   - DOMAIN-SUFFIX,1xbet-cwb.top
   - DOMAIN-SUFFIX,1xbet-cwc.top
-  - DOMAIN-SUFFIX,1xbet-cwc18.buzz
   - DOMAIN-SUFFIX,1xbet-cwc86.cam
   - DOMAIN-SUFFIX,1xbet-cwd.top
   - DOMAIN-SUFFIX,1xbet-cwd99.sbs
@@ -38316,7 +38297,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ddnw.top
   - DOMAIN-SUFFIX,1xbet-ddo73.sbs
   - DOMAIN-SUFFIX,1xbet-ddow.top
-  - DOMAIN-SUFFIX,1xbet-ddp88.buzz
   - DOMAIN-SUFFIX,1xbet-ddru.top
   - DOMAIN-SUFFIX,1xbet-dds.cfd
   - DOMAIN-SUFFIX,1xbet-dds25.cfd
@@ -38446,7 +38426,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dfi38.buzz
   - DOMAIN-SUFFIX,1xbet-dfj.top
   - DOMAIN-SUFFIX,1xbet-dfkg.click
-  - DOMAIN-SUFFIX,1xbet-dfm13.buzz
   - DOMAIN-SUFFIX,1xbet-dfm61.sbs
   - DOMAIN-SUFFIX,1xbet-dfmp.top
   - DOMAIN-SUFFIX,1xbet-dfn15.cfd
@@ -38466,7 +38445,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dfw62.buzz
   - DOMAIN-SUFFIX,1xbet-dfy.top
   - DOMAIN-SUFFIX,1xbet-dfy84.cam
-  - DOMAIN-SUFFIX,1xbet-dfz83.buzz
   - DOMAIN-SUFFIX,1xbet-dga21.cam
   - DOMAIN-SUFFIX,1xbet-dgas14.best
   - DOMAIN-SUFFIX,1xbet-dgau.top
@@ -38515,7 +38493,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dhu66.sbs
   - DOMAIN-SUFFIX,1xbet-dhun.top
   - DOMAIN-SUFFIX,1xbet-dhvh.top
-  - DOMAIN-SUFFIX,1xbet-dhw19.buzz
   - DOMAIN-SUFFIX,1xbet-dhxjw.top
   - DOMAIN-SUFFIX,1xbet-dhzdf.top
   - DOMAIN-SUFFIX,1xbet-di00a.click
@@ -38697,7 +38674,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dnj.top
   - DOMAIN-SUFFIX,1xbet-dnk.top
   - DOMAIN-SUFFIX,1xbet-dnl.top
-  - DOMAIN-SUFFIX,1xbet-dnl35.buzz
   - DOMAIN-SUFFIX,1xbet-dnlf.top
   - DOMAIN-SUFFIX,1xbet-dnlw.top
   - DOMAIN-SUFFIX,1xbet-dnm.top
@@ -38706,7 +38682,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dnn94.cfd
   - DOMAIN-SUFFIX,1xbet-dno.top
   - DOMAIN-SUFFIX,1xbet-dno8s.buzz
-  - DOMAIN-SUFFIX,1xbet-dnp37.buzz
   - DOMAIN-SUFFIX,1xbet-dnp83.cam
   - DOMAIN-SUFFIX,1xbet-dnqt.top
   - DOMAIN-SUFFIX,1xbet-dnrh.top
@@ -38751,7 +38726,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-doji.top
   - DOMAIN-SUFFIX,1xbet-dojz.top
   - DOMAIN-SUFFIX,1xbet-dok.top
-  - DOMAIN-SUFFIX,1xbet-dok39.buzz
   - DOMAIN-SUFFIX,1xbet-dok46.top
   - DOMAIN-SUFFIX,1xbet-dokb.top
   - DOMAIN-SUFFIX,1xbet-dol87.top
@@ -38765,7 +38739,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-doos.top
   - DOMAIN-SUFFIX,1xbet-dopk.top
   - DOMAIN-SUFFIX,1xbet-doq.top
-  - DOMAIN-SUFFIX,1xbet-doq53.buzz
   - DOMAIN-SUFFIX,1xbet-dor39.top
   - DOMAIN-SUFFIX,1xbet-dos29.top
   - DOMAIN-SUFFIX,1xbet-dos72.cfd
@@ -39189,7 +39162,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-dzho.top
   - DOMAIN-SUFFIX,1xbet-dzi71.buzz
   - DOMAIN-SUFFIX,1xbet-dzk34.cfd
-  - DOMAIN-SUFFIX,1xbet-dzl95.buzz
   - DOMAIN-SUFFIX,1xbet-dzn17.buzz
   - DOMAIN-SUFFIX,1xbet-dzn41.sbs
   - DOMAIN-SUFFIX,1xbet-dzo22.buzz
@@ -39708,7 +39680,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ejfd.click
   - DOMAIN-SUFFIX,1xbet-ejh.top
   - DOMAIN-SUFFIX,1xbet-eji51.sbs
-  - DOMAIN-SUFFIX,1xbet-ejj76.buzz
   - DOMAIN-SUFFIX,1xbet-ejjz.top
   - DOMAIN-SUFFIX,1xbet-ejk.top
   - DOMAIN-SUFFIX,1xbet-ejkd.top
@@ -39734,7 +39705,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ejux.top
   - DOMAIN-SUFFIX,1xbet-ejv37.cfd
   - DOMAIN-SUFFIX,1xbet-ejv59.cam
-  - DOMAIN-SUFFIX,1xbet-ejv89.buzz
   - DOMAIN-SUFFIX,1xbet-ejvt.top
   - DOMAIN-SUFFIX,1xbet-ejw62.sbs
   - DOMAIN-SUFFIX,1xbet-ejx45.sbs
@@ -39912,7 +39882,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-enx31.buzz
   - DOMAIN-SUFFIX,1xbet-enx81.buzz
   - DOMAIN-SUFFIX,1xbet-enxb.top
-  - DOMAIN-SUFFIX,1xbet-eny24.buzz
   - DOMAIN-SUFFIX,1xbet-eny54.sbs
   - DOMAIN-SUFFIX,1xbet-eo1.top
   - DOMAIN-SUFFIX,1xbet-eo355.icu
@@ -39949,7 +39918,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-eowj5.icu
   - DOMAIN-SUFFIX,1xbet-eoy.top
   - DOMAIN-SUFFIX,1xbet-eoy81.sbs
-  - DOMAIN-SUFFIX,1xbet-eoz46.buzz
   - DOMAIN-SUFFIX,1xbet-ep1.top
   - DOMAIN-SUFFIX,1xbet-ep2.top
   - DOMAIN-SUFFIX,1xbet-epc16.cfd
@@ -40002,7 +39970,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-er1.top
   - DOMAIN-SUFFIX,1xbet-era.top
   - DOMAIN-SUFFIX,1xbet-era.xyz
-  - DOMAIN-SUFFIX,1xbet-era14.buzz
   - DOMAIN-SUFFIX,1xbet-era21.sbs
   - DOMAIN-SUFFIX,1xbet-erb.top
   - DOMAIN-SUFFIX,1xbet-erbt.top
@@ -40123,7 +40090,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-et.online
   - DOMAIN-SUFFIX,1xbet-et1.top
   - DOMAIN-SUFFIX,1xbet-eta.top
-  - DOMAIN-SUFFIX,1xbet-etb14.buzz
   - DOMAIN-SUFFIX,1xbet-etb21.cfd
   - DOMAIN-SUFFIX,1xbet-etbm.top
   - DOMAIN-SUFFIX,1xbet-etbq.top
@@ -40139,7 +40105,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-etk92.sbs
   - DOMAIN-SUFFIX,1xbet-etm14.cfd
   - DOMAIN-SUFFIX,1xbet-etm39.cfd
-  - DOMAIN-SUFFIX,1xbet-etm54.buzz
   - DOMAIN-SUFFIX,1xbet-etm87.top
   - DOMAIN-SUFFIX,1xbet-etmd.top
   - DOMAIN-SUFFIX,1xbet-etmm.top
@@ -40236,7 +40201,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-evn78.cam
   - DOMAIN-SUFFIX,1xbet-evn78.sbs
   - DOMAIN-SUFFIX,1xbet-evou.top
-  - DOMAIN-SUFFIX,1xbet-evp19.buzz
   - DOMAIN-SUFFIX,1xbet-evp41.sbs
   - DOMAIN-SUFFIX,1xbet-evqp.top
   - DOMAIN-SUFFIX,1xbet-evs77.sbs
@@ -40388,7 +40352,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ez2.top
   - DOMAIN-SUFFIX,1xbet-ez6z8.cyou
   - DOMAIN-SUFFIX,1xbet-eza5.top
-  - DOMAIN-SUFFIX,1xbet-ezb77.buzz
   - DOMAIN-SUFFIX,1xbet-ezc.top
   - DOMAIN-SUFFIX,1xbet-ezc19.buzz
   - DOMAIN-SUFFIX,1xbet-ezd86.cfd
@@ -40699,7 +40662,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-fcn.top
   - DOMAIN-SUFFIX,1xbet-fcnk.top
   - DOMAIN-SUFFIX,1xbet-fco18.buzz
-  - DOMAIN-SUFFIX,1xbet-fco61.buzz
   - DOMAIN-SUFFIX,1xbet-fcp.top
   - DOMAIN-SUFFIX,1xbet-fcs77.cam
   - DOMAIN-SUFFIX,1xbet-fcsg.top
@@ -40963,7 +40925,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-fit17.buzz
   - DOMAIN-SUFFIX,1xbet-fitv1.top
   - DOMAIN-SUFFIX,1xbet-fiu69.cfd
-  - DOMAIN-SUFFIX,1xbet-fiv15.buzz
   - DOMAIN-SUFFIX,1xbet-fiv37.buzz
   - DOMAIN-SUFFIX,1xbet-fiw.buzz
   - DOMAIN-SUFFIX,1xbet-fiw67.buzz
@@ -41006,7 +40967,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-fjo72.sbs
   - DOMAIN-SUFFIX,1xbet-fjo78.sbs
   - DOMAIN-SUFFIX,1xbet-fjo82.cfd
-  - DOMAIN-SUFFIX,1xbet-fjq53.buzz
   - DOMAIN-SUFFIX,1xbet-fjr.top
   - DOMAIN-SUFFIX,1xbet-fjt48.cfd
   - DOMAIN-SUFFIX,1xbet-fjtl.top
@@ -41212,7 +41172,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-foa.top
   - DOMAIN-SUFFIX,1xbet-foa68.cfd
   - DOMAIN-SUFFIX,1xbet-foa84.sbs
-  - DOMAIN-SUFFIX,1xbet-fob12.buzz
   - DOMAIN-SUFFIX,1xbet-fob4.lol
   - DOMAIN-SUFFIX,1xbet-fob46.cam
   - DOMAIN-SUFFIX,1xbet-fob93.cfd
@@ -41400,7 +41359,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-fsd.top
   - DOMAIN-SUFFIX,1xbet-fsf28.cfd
   - DOMAIN-SUFFIX,1xbet-fsfd.top
-  - DOMAIN-SUFFIX,1xbet-fsh17.buzz
   - DOMAIN-SUFFIX,1xbet-fshee.icu
   - DOMAIN-SUFFIX,1xbet-fsi.info
   - DOMAIN-SUFFIX,1xbet-fsi68.cfd
@@ -41424,7 +41382,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-fsxx.top
   - DOMAIN-SUFFIX,1xbet-fsz11.sbs
   - DOMAIN-SUFFIX,1xbet-fta26.cfd
-  - DOMAIN-SUFFIX,1xbet-fta45.buzz
   - DOMAIN-SUFFIX,1xbet-ftc71.buzz
   - DOMAIN-SUFFIX,1xbet-ftc82.cfd
   - DOMAIN-SUFFIX,1xbet-ftdm.top
@@ -41433,7 +41390,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ftf74.top
   - DOMAIN-SUFFIX,1xbet-ftf95.buzz
   - DOMAIN-SUFFIX,1xbet-ftff.top
-  - DOMAIN-SUFFIX,1xbet-ftg32.buzz
   - DOMAIN-SUFFIX,1xbet-ftg37.top
   - DOMAIN-SUFFIX,1xbet-ftg39.sbs
   - DOMAIN-SUFFIX,1xbet-ftgt.top
@@ -41458,7 +41414,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ftui54.biz
   - DOMAIN-SUFFIX,1xbet-ftw.top
   - DOMAIN-SUFFIX,1xbet-ftzk.top
-  - DOMAIN-SUFFIX,1xbet-fua76.buzz
   - DOMAIN-SUFFIX,1xbet-fuav.top
   - DOMAIN-SUFFIX,1xbet-fub48.cfd
   - DOMAIN-SUFFIX,1xbet-fud65.buzz
@@ -41923,7 +41878,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gdi16.cam
   - DOMAIN-SUFFIX,1xbet-gdj66.cam
   - DOMAIN-SUFFIX,1xbet-gdkz.top
-  - DOMAIN-SUFFIX,1xbet-gdl68.buzz
   - DOMAIN-SUFFIX,1xbet-gdlz.top
   - DOMAIN-SUFFIX,1xbet-gdm.top
   - DOMAIN-SUFFIX,1xbet-gdm15.sbs
@@ -41934,7 +41888,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gds.top
   - DOMAIN-SUFFIX,1xbet-gds.xyz
   - DOMAIN-SUFFIX,1xbet-gds49.buzz
-  - DOMAIN-SUFFIX,1xbet-gdt63.buzz
   - DOMAIN-SUFFIX,1xbet-gdu.top
   - DOMAIN-SUFFIX,1xbet-gdu61.sbs
   - DOMAIN-SUFFIX,1xbet-gdue.top
@@ -42395,7 +42348,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gmn96.cam
   - DOMAIN-SUFFIX,1xbet-gmne.top
   - DOMAIN-SUFFIX,1xbet-gmp.top
-  - DOMAIN-SUFFIX,1xbet-gmp92.buzz
   - DOMAIN-SUFFIX,1xbet-gmrt.top
   - DOMAIN-SUFFIX,1xbet-gmu.top
   - DOMAIN-SUFFIX,1xbet-gmup.top
@@ -42555,7 +42507,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gpke.top
   - DOMAIN-SUFFIX,1xbet-gpky.top
   - DOMAIN-SUFFIX,1xbet-gpm.top
-  - DOMAIN-SUFFIX,1xbet-gpm46.buzz
   - DOMAIN-SUFFIX,1xbet-gpns.top
   - DOMAIN-SUFFIX,1xbet-gpo55.cam
   - DOMAIN-SUFFIX,1xbet-gpp31.cfd
@@ -42635,13 +42586,11 @@ payload:
   - DOMAIN-SUFFIX,1xbet-grl.top
   - DOMAIN-SUFFIX,1xbet-grml.top
   - DOMAIN-SUFFIX,1xbet-grn.top
-  - DOMAIN-SUFFIX,1xbet-grn37.buzz
   - DOMAIN-SUFFIX,1xbet-grnm.top
   - DOMAIN-SUFFIX,1xbet-gro1d.cfd
   - DOMAIN-SUFFIX,1xbet-grp35.buzz
   - DOMAIN-SUFFIX,1xbet-grp94.cfd
   - DOMAIN-SUFFIX,1xbet-grpm.top
-  - DOMAIN-SUFFIX,1xbet-grq14.buzz
   - DOMAIN-SUFFIX,1xbet-grr.top
   - DOMAIN-SUFFIX,1xbet-grs1.top
   - DOMAIN-SUFFIX,1xbet-grt2o.icu
@@ -42654,7 +42603,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gryd.top
   - DOMAIN-SUFFIX,1xbet-grza49.biz
   - DOMAIN-SUFFIX,1xbet-gs52d.xyz
-  - DOMAIN-SUFFIX,1xbet-gsa13.buzz
   - DOMAIN-SUFFIX,1xbet-gsae5.sbs
   - DOMAIN-SUFFIX,1xbet-gsc79.top
   - DOMAIN-SUFFIX,1xbet-gsc92.top
@@ -42684,7 +42632,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gsx.top
   - DOMAIN-SUFFIX,1xbet-gsx3.top
   - DOMAIN-SUFFIX,1xbet-gsx4.top
-  - DOMAIN-SUFFIX,1xbet-gsz16.buzz
   - DOMAIN-SUFFIX,1xbet-gsz63.cfd
   - DOMAIN-SUFFIX,1xbet-gt.org
   - DOMAIN-SUFFIX,1xbet-gt3.top
@@ -42703,14 +42650,12 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gtns.top
   - DOMAIN-SUFFIX,1xbet-gto72.buzz
   - DOMAIN-SUFFIX,1xbet-gtox.top
-  - DOMAIN-SUFFIX,1xbet-gtp13.buzz
   - DOMAIN-SUFFIX,1xbet-gtqq.top
   - DOMAIN-SUFFIX,1xbet-gtr.top
   - DOMAIN-SUFFIX,1xbet-gtr.xyz
   - DOMAIN-SUFFIX,1xbet-gts32.sbs
   - DOMAIN-SUFFIX,1xbet-gts39.cfd
   - DOMAIN-SUFFIX,1xbet-gtu74.cam
-  - DOMAIN-SUFFIX,1xbet-gtz57.buzz
   - DOMAIN-SUFFIX,1xbet-gu2tfm2.top
   - DOMAIN-SUFFIX,1xbet-gu6u.click
   - DOMAIN-SUFFIX,1xbet-gua.top
@@ -42868,7 +42813,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-gyb32.cam
   - DOMAIN-SUFFIX,1xbet-gyb57.cfd
   - DOMAIN-SUFFIX,1xbet-gye52.cfd
-  - DOMAIN-SUFFIX,1xbet-gyf57.buzz
   - DOMAIN-SUFFIX,1xbet-gyh87.cam
   - DOMAIN-SUFFIX,1xbet-gyhl0.top
   - DOMAIN-SUFFIX,1xbet-gyio.top
@@ -43032,7 +42976,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hbo98.cam
   - DOMAIN-SUFFIX,1xbet-hbp.cfd
   - DOMAIN-SUFFIX,1xbet-hbp23.cam
-  - DOMAIN-SUFFIX,1xbet-hbp24.buzz
   - DOMAIN-SUFFIX,1xbet-hbp44.cfd
   - DOMAIN-SUFFIX,1xbet-hbpf.top
   - DOMAIN-SUFFIX,1xbet-hbq75.cam
@@ -43054,7 +42997,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hcd.top
   - DOMAIN-SUFFIX,1xbet-hce.top
   - DOMAIN-SUFFIX,1xbet-hcf.top
-  - DOMAIN-SUFFIX,1xbet-hcf91.buzz
   - DOMAIN-SUFFIX,1xbet-hcg.top
   - DOMAIN-SUFFIX,1xbet-hcg92.sbs
   - DOMAIN-SUFFIX,1xbet-hci.top
@@ -43102,7 +43044,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hdku3.blog
   - DOMAIN-SUFFIX,1xbet-hdl.top
   - DOMAIN-SUFFIX,1xbet-hdl58qi.sbs
-  - DOMAIN-SUFFIX,1xbet-hdl65.buzz
   - DOMAIN-SUFFIX,1xbet-hdll.top
   - DOMAIN-SUFFIX,1xbet-hdn.top
   - DOMAIN-SUFFIX,1xbet-hdn12.top
@@ -43226,7 +43167,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hge67.top
   - DOMAIN-SUFFIX,1xbet-hgh8.cfd
   - DOMAIN-SUFFIX,1xbet-hgi85.sbs
-  - DOMAIN-SUFFIX,1xbet-hgk23.buzz
   - DOMAIN-SUFFIX,1xbet-hgk94.sbs
   - DOMAIN-SUFFIX,1xbet-hgl.living
   - DOMAIN-SUFFIX,1xbet-hgl78.cfd
@@ -43266,7 +43206,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hhkc.click
   - DOMAIN-SUFFIX,1xbet-hhm45.buzz
   - DOMAIN-SUFFIX,1xbet-hhmfp.sbs
-  - DOMAIN-SUFFIX,1xbet-hhn18.buzz
   - DOMAIN-SUFFIX,1xbet-hhnz44.biz
   - DOMAIN-SUFFIX,1xbet-hhp41.cfd
   - DOMAIN-SUFFIX,1xbet-hhp72.cfd
@@ -43364,7 +43303,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hkc.top
   - DOMAIN-SUFFIX,1xbet-hkd18.cfd
   - DOMAIN-SUFFIX,1xbet-hki68.buzz
-  - DOMAIN-SUFFIX,1xbet-hkj61.buzz
   - DOMAIN-SUFFIX,1xbet-hkk49.cfd
   - DOMAIN-SUFFIX,1xbet-hkke.top
   - DOMAIN-SUFFIX,1xbet-hkm79.buzz
@@ -43556,7 +43494,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hpu77.cfd
   - DOMAIN-SUFFIX,1xbet-hpvc.top
   - DOMAIN-SUFFIX,1xbet-hpx59.cam
-  - DOMAIN-SUFFIX,1xbet-hpx88.buzz
   - DOMAIN-SUFFIX,1xbet-hpy85.top
   - DOMAIN-SUFFIX,1xbet-hq4qa.click
   - DOMAIN-SUFFIX,1xbet-hqa78.sbs
@@ -43673,7 +43610,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hub-cn.com
   - DOMAIN-SUFFIX,1xbet-hub88.space
   - DOMAIN-SUFFIX,1xbet-huc52.top
-  - DOMAIN-SUFFIX,1xbet-huc53.buzz
   - DOMAIN-SUFFIX,1xbet-huch.com
   - DOMAIN-SUFFIX,1xbet-huci.com
   - DOMAIN-SUFFIX,1xbet-hucj.com
@@ -43686,7 +43622,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hucq.com
   - DOMAIN-SUFFIX,1xbet-hucr.com
   - DOMAIN-SUFFIX,1xbet-hucs.com
-  - DOMAIN-SUFFIX,1xbet-hud47.buzz
   - DOMAIN-SUFFIX,1xbet-hudx.com
   - DOMAIN-SUFFIX,1xbet-hudy.com
   - DOMAIN-SUFFIX,1xbet-hudz.com
@@ -43785,11 +43720,9 @@ payload:
   - DOMAIN-SUFFIX,1xbet-hxe85.buzz
   - DOMAIN-SUFFIX,1xbet-hxes.top
   - DOMAIN-SUFFIX,1xbet-hxf21.top
-  - DOMAIN-SUFFIX,1xbet-hxf36.buzz
   - DOMAIN-SUFFIX,1xbet-hxh.top
   - DOMAIN-SUFFIX,1xbet-hxi26.cam
   - DOMAIN-SUFFIX,1xbet-hxj25.buzz
-  - DOMAIN-SUFFIX,1xbet-hxo44.buzz
   - DOMAIN-SUFFIX,1xbet-hxpw.top
   - DOMAIN-SUFFIX,1xbet-hxq0s.cfd
   - DOMAIN-SUFFIX,1xbet-hxqj.top
@@ -44186,7 +44119,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ih.xyz
   - DOMAIN-SUFFIX,1xbet-ih6u.top
   - DOMAIN-SUFFIX,1xbet-iha46.top
-  - DOMAIN-SUFFIX,1xbet-iha76.buzz
   - DOMAIN-SUFFIX,1xbet-ihb60.click
   - DOMAIN-SUFFIX,1xbet-ihbf.top
   - DOMAIN-SUFFIX,1xbet-ihbq.top
@@ -44307,7 +44239,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ikj55.sbs
   - DOMAIN-SUFFIX,1xbet-ikj62.cam
   - DOMAIN-SUFFIX,1xbet-ikjd.top
-  - DOMAIN-SUFFIX,1xbet-ikk16.buzz
   - DOMAIN-SUFFIX,1xbet-ikl17.sbs
   - DOMAIN-SUFFIX,1xbet-ikm18.cfd
   - DOMAIN-SUFFIX,1xbet-ikm19.cfd
@@ -44319,7 +44250,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ikp.top
   - DOMAIN-SUFFIX,1xbet-ikp19.sbs
   - DOMAIN-SUFFIX,1xbet-ikq81.buzz
-  - DOMAIN-SUFFIX,1xbet-iks98.buzz
   - DOMAIN-SUFFIX,1xbet-iksj.top
   - DOMAIN-SUFFIX,1xbet-iksk.top
   - DOMAIN-SUFFIX,1xbet-iksm.top
@@ -44345,7 +44275,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ikvj.top
   - DOMAIN-SUFFIX,1xbet-ikx53.buzz
   - DOMAIN-SUFFIX,1xbet-iky.top
-  - DOMAIN-SUFFIX,1xbet-iky26.buzz
   - DOMAIN-SUFFIX,1xbet-iky76mp.sbs
   - DOMAIN-SUFFIX,1xbet-il406.icu
   - DOMAIN-SUFFIX,1xbet-il8w.cfd
@@ -44408,7 +44337,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-imn.cfd
   - DOMAIN-SUFFIX,1xbet-imo96.cfd
   - DOMAIN-SUFFIX,1xbet-imq55.sbs
-  - DOMAIN-SUFFIX,1xbet-imq79.buzz
   - DOMAIN-SUFFIX,1xbet-imr.top
   - DOMAIN-SUFFIX,1xbet-imrq.top
   - DOMAIN-SUFFIX,1xbet-imvc.top
@@ -44600,7 +44528,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-iovt.top
   - DOMAIN-SUFFIX,1xbet-iox48.cfd
   - DOMAIN-SUFFIX,1xbet-iox53.cam
-  - DOMAIN-SUFFIX,1xbet-iox79.buzz
   - DOMAIN-SUFFIX,1xbet-ioxs.top
   - DOMAIN-SUFFIX,1xbet-ioy16.buzz
   - DOMAIN-SUFFIX,1xbet-ioyq.top
@@ -44675,7 +44602,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-iran.top
   - DOMAIN-SUFFIX,1xbet-irb87.top
   - DOMAIN-SUFFIX,1xbet-ird39.cfd
-  - DOMAIN-SUFFIX,1xbet-ire32.buzz
   - DOMAIN-SUFFIX,1xbet-irg33.cfd
   - DOMAIN-SUFFIX,1xbet-irh8r.top
   - DOMAIN-SUFFIX,1xbet-iril.top
@@ -44693,7 +44619,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-irp89.cam
   - DOMAIN-SUFFIX,1xbet-irq.com
   - DOMAIN-SUFFIX,1xbet-irq.top
-  - DOMAIN-SUFFIX,1xbet-irr53.buzz
   - DOMAIN-SUFFIX,1xbet-irt18.sbs
   - DOMAIN-SUFFIX,1xbet-irt94.sbs
   - DOMAIN-SUFFIX,1xbet-irtq.top
@@ -44715,7 +44640,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-isk.top
   - DOMAIN-SUFFIX,1xbet-isk58.buzz
   - DOMAIN-SUFFIX,1xbet-iske.cfd
-  - DOMAIN-SUFFIX,1xbet-ism33.buzz
   - DOMAIN-SUFFIX,1xbet-ismir.top
   - DOMAIN-SUFFIX,1xbet-isp28.cam
   - DOMAIN-SUFFIX,1xbet-isq33.cam
@@ -44726,7 +44650,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-isw13.buzz
   - DOMAIN-SUFFIX,1xbet-isww.lol
   - DOMAIN-SUFFIX,1xbet-isx.top
-  - DOMAIN-SUFFIX,1xbet-isz69.buzz
   - DOMAIN-SUFFIX,1xbet-it.com
   - DOMAIN-SUFFIX,1xbet-it.it
   - DOMAIN-SUFFIX,1xbet-itad.top
@@ -44755,7 +44678,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-itui.cam
   - DOMAIN-SUFFIX,1xbet-itv21.top
   - DOMAIN-SUFFIX,1xbet-itv82.sbs
-  - DOMAIN-SUFFIX,1xbet-itx63.buzz
   - DOMAIN-SUFFIX,1xbet-itx72.cam
   - DOMAIN-SUFFIX,1xbet-itx99.cam
   - DOMAIN-SUFFIX,1xbet-itxa.pro
@@ -44870,7 +44792,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-iwj68.sbs
   - DOMAIN-SUFFIX,1xbet-iwj83.sbs
   - DOMAIN-SUFFIX,1xbet-iwl13.cfd
-  - DOMAIN-SUFFIX,1xbet-iwn36.buzz
   - DOMAIN-SUFFIX,1xbet-iwn52.buzz
   - DOMAIN-SUFFIX,1xbet-iwnl.top
   - DOMAIN-SUFFIX,1xbet-iwo.top
@@ -44913,7 +44834,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-iycl.top
   - DOMAIN-SUFFIX,1xbet-iyd97.sbs
   - DOMAIN-SUFFIX,1xbet-iye.top
-  - DOMAIN-SUFFIX,1xbet-iyf41.buzz
   - DOMAIN-SUFFIX,1xbet-iyf43.cam
   - DOMAIN-SUFFIX,1xbet-iyh56.cam
   - DOMAIN-SUFFIX,1xbet-iyim.top
@@ -45070,7 +44990,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jap.net
   - DOMAIN-SUFFIX,1xbet-jap.org
   - DOMAIN-SUFFIX,1xbet-jap.top
-  - DOMAIN-SUFFIX,1xbet-jap38.buzz
   - DOMAIN-SUFFIX,1xbet-japanese.info
   - DOMAIN-SUFFIX,1xbet-japoo.top
   - DOMAIN-SUFFIX,1xbet-jaq.cfd
@@ -45188,7 +45107,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-je39.cam
   - DOMAIN-SUFFIX,1xbet-jea4.cam
   - DOMAIN-SUFFIX,1xbet-jear.top
-  - DOMAIN-SUFFIX,1xbet-jeb79.buzz
   - DOMAIN-SUFFIX,1xbet-jed48.cam
   - DOMAIN-SUFFIX,1xbet-jed88.sbs
   - DOMAIN-SUFFIX,1xbet-jee27.cam
@@ -45209,7 +45127,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jeo43.buzz
   - DOMAIN-SUFFIX,1xbet-jeq82.cam
   - DOMAIN-SUFFIX,1xbet-jer34.cam
-  - DOMAIN-SUFFIX,1xbet-jer65.buzz
   - DOMAIN-SUFFIX,1xbet-jern.top
   - DOMAIN-SUFFIX,1xbet-jerxb.buzz
   - DOMAIN-SUFFIX,1xbet-jes.top
@@ -45333,7 +45250,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jiki.top
   - DOMAIN-SUFFIX,1xbet-jil18.cfd
   - DOMAIN-SUFFIX,1xbet-jil45.cam
-  - DOMAIN-SUFFIX,1xbet-jim39.buzz
   - DOMAIN-SUFFIX,1xbet-jim67.buzz
   - DOMAIN-SUFFIX,1xbet-jim88.buzz
   - DOMAIN-SUFFIX,1xbet-jin.top
@@ -45463,9 +45379,7 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jmk99.cam
   - DOMAIN-SUFFIX,1xbet-jml77.cam
   - DOMAIN-SUFFIX,1xbet-jmm74.top
-  - DOMAIN-SUFFIX,1xbet-jmm83.buzz
   - DOMAIN-SUFFIX,1xbet-jmm97.sbs
-  - DOMAIN-SUFFIX,1xbet-jmn36.buzz
   - DOMAIN-SUFFIX,1xbet-jmn47.cfd
   - DOMAIN-SUFFIX,1xbet-jmn72.cfd
   - DOMAIN-SUFFIX,1xbet-jmof.top
@@ -45552,7 +45466,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jpab.top
   - DOMAIN-SUFFIX,1xbet-jpaq.top
   - DOMAIN-SUFFIX,1xbet-jpbd.top
-  - DOMAIN-SUFFIX,1xbet-jpd21.buzz
   - DOMAIN-SUFFIX,1xbet-jpe26.sbs
   - DOMAIN-SUFFIX,1xbet-jpf33.cam
   - DOMAIN-SUFFIX,1xbet-jpg.top
@@ -45740,7 +45653,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ju60.top
   - DOMAIN-SUFFIX,1xbet-ju65.lol
   - DOMAIN-SUFFIX,1xbet-ju8w9.sbs
-  - DOMAIN-SUFFIX,1xbet-jua54.buzz
   - DOMAIN-SUFFIX,1xbet-juahe.sbs
   - DOMAIN-SUFFIX,1xbet-juc62.cfd
   - DOMAIN-SUFFIX,1xbet-jue47.cam
@@ -45845,7 +45757,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jwg84.buzz
   - DOMAIN-SUFFIX,1xbet-jwgw89.best
   - DOMAIN-SUFFIX,1xbet-jwh97.sbs
-  - DOMAIN-SUFFIX,1xbet-jwl32.buzz
   - DOMAIN-SUFFIX,1xbet-jwlo.top
   - DOMAIN-SUFFIX,1xbet-jwm22.cam
   - DOMAIN-SUFFIX,1xbet-jwn54.buzz
@@ -45958,7 +45869,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-jzy71.cfd
   - DOMAIN-SUFFIX,1xbet-jzy74.cfd
   - DOMAIN-SUFFIX,1xbet-jzy84.buzz
-  - DOMAIN-SUFFIX,1xbet-jzz88.buzz
   - DOMAIN-SUFFIX,1xbet-jzzk.top
   - DOMAIN-SUFFIX,1xbet-k00rq.cyou
   - DOMAIN-SUFFIX,1xbet-k01w.click
@@ -46546,7 +46456,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-khbd.top
   - DOMAIN-SUFFIX,1xbet-khcs.top
   - DOMAIN-SUFFIX,1xbet-khd48.sbs
-  - DOMAIN-SUFFIX,1xbet-khd56.buzz
   - DOMAIN-SUFFIX,1xbet-khdc.top
   - DOMAIN-SUFFIX,1xbet-khe38.cam
   - DOMAIN-SUFFIX,1xbet-khelo.com
@@ -46599,7 +46508,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-kie68.cam
   - DOMAIN-SUFFIX,1xbet-kif94.cfd
   - DOMAIN-SUFFIX,1xbet-kifx.top
-  - DOMAIN-SUFFIX,1xbet-kig18.buzz
   - DOMAIN-SUFFIX,1xbet-kij.top
   - DOMAIN-SUFFIX,1xbet-kik.top
   - DOMAIN-SUFFIX,1xbet-kimh.click
@@ -46779,7 +46687,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-knb99.sbs
   - DOMAIN-SUFFIX,1xbet-knd.top
   - DOMAIN-SUFFIX,1xbet-kndt.top
-  - DOMAIN-SUFFIX,1xbet-kng58.buzz
   - DOMAIN-SUFFIX,1xbet-kng81.cam
   - DOMAIN-SUFFIX,1xbet-knj57.sbs
   - DOMAIN-SUFFIX,1xbet-knj74.cam
@@ -47261,7 +47168,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-kz4mg.click
   - DOMAIN-SUFFIX,1xbet-kza79.cam
   - DOMAIN-SUFFIX,1xbet-kzad.top
-  - DOMAIN-SUFFIX,1xbet-kzc84.buzz
   - DOMAIN-SUFFIX,1xbet-kzci.top
   - DOMAIN-SUFFIX,1xbet-kze54.cam
   - DOMAIN-SUFFIX,1xbet-kze69.cam
@@ -47288,7 +47194,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-kzt5.cfd
   - DOMAIN-SUFFIX,1xbet-kzuk.top
   - DOMAIN-SUFFIX,1xbet-kzv27.cam
-  - DOMAIN-SUFFIX,1xbet-kzv73.buzz
   - DOMAIN-SUFFIX,1xbet-kzvl.top
   - DOMAIN-SUFFIX,1xbet-kzx86.top
   - DOMAIN-SUFFIX,1xbet-kzx99.cfd
@@ -47694,7 +47599,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-lhc26.top
   - DOMAIN-SUFFIX,1xbet-lhe45.sbs
   - DOMAIN-SUFFIX,1xbet-lhe65.buzz
-  - DOMAIN-SUFFIX,1xbet-lhe97.buzz
   - DOMAIN-SUFFIX,1xbet-lhh.xyz
   - DOMAIN-SUFFIX,1xbet-lhh22.cfd
   - DOMAIN-SUFFIX,1xbet-lhh49.cfd
@@ -48152,7 +48056,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-loginnow.sbs
   - DOMAIN-SUFFIX,1xbet-loginregistration.cyou
   - DOMAIN-SUFFIX,1xbet-loginuz.com
-  - DOMAIN-SUFFIX,1xbet-loh44.buzz
   - DOMAIN-SUFFIX,1xbet-loi97.sbs
   - DOMAIN-SUFFIX,1xbet-loj.top
   - DOMAIN-SUFFIX,1xbet-loj22.cfd
@@ -48440,7 +48343,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-lva57.buzz
   - DOMAIN-SUFFIX,1xbet-lvb58.cam
   - DOMAIN-SUFFIX,1xbet-lvb99.cam
-  - DOMAIN-SUFFIX,1xbet-lvc71.buzz
   - DOMAIN-SUFFIX,1xbet-lvca.click
   - DOMAIN-SUFFIX,1xbet-lvd59.cam
   - DOMAIN-SUFFIX,1xbet-lvdt.top
@@ -48795,7 +48697,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mbl94nb.buzz
   - DOMAIN-SUFFIX,1xbet-mbm56.cfd
   - DOMAIN-SUFFIX,1xbet-mbnc.top
-  - DOMAIN-SUFFIX,1xbet-mbp37.buzz
   - DOMAIN-SUFFIX,1xbet-mbp55.sbs
   - DOMAIN-SUFFIX,1xbet-mbq99.sbs
   - DOMAIN-SUFFIX,1xbet-mbrg.top
@@ -48962,7 +48863,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mfd54.buzz
   - DOMAIN-SUFFIX,1xbet-mfdf.top
   - DOMAIN-SUFFIX,1xbet-mfg61.cam
-  - DOMAIN-SUFFIX,1xbet-mfg65.buzz
   - DOMAIN-SUFFIX,1xbet-mfh85.cfd
   - DOMAIN-SUFFIX,1xbet-mfi.top
   - DOMAIN-SUFFIX,1xbet-mfi76.cfd
@@ -49375,7 +49275,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mntl9.sbs
   - DOMAIN-SUFFIX,1xbet-mnu26.cam
   - DOMAIN-SUFFIX,1xbet-mnv.top
-  - DOMAIN-SUFFIX,1xbet-mnv81.buzz
   - DOMAIN-SUFFIX,1xbet-mnvz.top
   - DOMAIN-SUFFIX,1xbet-mnw.top
   - DOMAIN-SUFFIX,1xbet-mnw24.cam
@@ -49662,7 +49561,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mrz.buzz
   - DOMAIN-SUFFIX,1xbet-mrz38.cam
   - DOMAIN-SUFFIX,1xbet-mrz73.cfd
-  - DOMAIN-SUFFIX,1xbet-mrz78.buzz
   - DOMAIN-SUFFIX,1xbet-ms04.top
   - DOMAIN-SUFFIX,1xbet-ms1a.top
   - DOMAIN-SUFFIX,1xbet-ms1e.top
@@ -49680,7 +49578,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-msa42.cam
   - DOMAIN-SUFFIX,1xbet-mse31.buzz
   - DOMAIN-SUFFIX,1xbet-msf.top
-  - DOMAIN-SUFFIX,1xbet-msf81.buzz
   - DOMAIN-SUFFIX,1xbet-msfi.top
   - DOMAIN-SUFFIX,1xbet-msg65.top
   - DOMAIN-SUFFIX,1xbet-msi.top
@@ -49732,7 +49629,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mue73.sbs
   - DOMAIN-SUFFIX,1xbet-muek.top
   - DOMAIN-SUFFIX,1xbet-muf43.buzz
-  - DOMAIN-SUFFIX,1xbet-mug45.buzz
   - DOMAIN-SUFFIX,1xbet-mugb.top
   - DOMAIN-SUFFIX,1xbet-muh19.sbs
   - DOMAIN-SUFFIX,1xbet-muhm.top
@@ -49775,11 +49671,9 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mvi.top
   - DOMAIN-SUFFIX,1xbet-mvj41.cam
   - DOMAIN-SUFFIX,1xbet-mvl12.cam
-  - DOMAIN-SUFFIX,1xbet-mvm96.buzz
   - DOMAIN-SUFFIX,1xbet-mvn76.cfd
   - DOMAIN-SUFFIX,1xbet-mvp43.sbs
   - DOMAIN-SUFFIX,1xbet-mvq79.cam
-  - DOMAIN-SUFFIX,1xbet-mvq85.buzz
   - DOMAIN-SUFFIX,1xbet-mvr99.buzz
   - DOMAIN-SUFFIX,1xbet-mvsi.top
   - DOMAIN-SUFFIX,1xbet-mvt92.cam
@@ -49846,7 +49740,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mxqz.cam
   - DOMAIN-SUFFIX,1xbet-mxr96.cam
   - DOMAIN-SUFFIX,1xbet-mxs78.sbs
-  - DOMAIN-SUFFIX,1xbet-mxt35.buzz
   - DOMAIN-SUFFIX,1xbet-mxt88.top
   - DOMAIN-SUFFIX,1xbet-mxtz.top
   - DOMAIN-SUFFIX,1xbet-mxue.top
@@ -49915,12 +49808,10 @@ payload:
   - DOMAIN-SUFFIX,1xbet-mzj71.cam
   - DOMAIN-SUFFIX,1xbet-mzj81.cam
   - DOMAIN-SUFFIX,1xbet-mzktv3q.buzz
-  - DOMAIN-SUFFIX,1xbet-mzn26.buzz
   - DOMAIN-SUFFIX,1xbet-mzn27.top
   - DOMAIN-SUFFIX,1xbet-mzn94.cfd
   - DOMAIN-SUFFIX,1xbet-mzp29.cam
   - DOMAIN-SUFFIX,1xbet-mzp35.cam
-  - DOMAIN-SUFFIX,1xbet-mzp85.buzz
   - DOMAIN-SUFFIX,1xbet-mzq5.top
   - DOMAIN-SUFFIX,1xbet-mzry.top
   - DOMAIN-SUFFIX,1xbet-mzs.top
@@ -50053,7 +49944,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-natk.top
   - DOMAIN-SUFFIX,1xbet-nau91.cam
   - DOMAIN-SUFFIX,1xbet-nav.top
-  - DOMAIN-SUFFIX,1xbet-nav13.buzz
   - DOMAIN-SUFFIX,1xbet-naw29.cfd
   - DOMAIN-SUFFIX,1xbet-naw47.cam
   - DOMAIN-SUFFIX,1xbet-naw76.cfd
@@ -50235,7 +50125,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-nfb74.cfd
   - DOMAIN-SUFFIX,1xbet-nfb78.cam
   - DOMAIN-SUFFIX,1xbet-nfd59.cam
-  - DOMAIN-SUFFIX,1xbet-nfd83.buzz
   - DOMAIN-SUFFIX,1xbet-nff.top
   - DOMAIN-SUFFIX,1xbet-nfh76.cam
   - DOMAIN-SUFFIX,1xbet-nfj48.sbs
@@ -50440,11 +50329,9 @@ payload:
   - DOMAIN-SUFFIX,1xbet-nkn44.cfd
   - DOMAIN-SUFFIX,1xbet-nkp68.sbs
   - DOMAIN-SUFFIX,1xbet-nkp69.sbs
-  - DOMAIN-SUFFIX,1xbet-nkq39.buzz
   - DOMAIN-SUFFIX,1xbet-nkq78.cfd
   - DOMAIN-SUFFIX,1xbet-nkqi.top
   - DOMAIN-SUFFIX,1xbet-nkr.top
-  - DOMAIN-SUFFIX,1xbet-nks64.buzz
   - DOMAIN-SUFFIX,1xbet-nksj.top
   - DOMAIN-SUFFIX,1xbet-nksua.blog
   - DOMAIN-SUFFIX,1xbet-nku.xyz
@@ -50719,7 +50606,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-nrhl.top
   - DOMAIN-SUFFIX,1xbet-nri.top
   - DOMAIN-SUFFIX,1xbet-nri69.sbs
-  - DOMAIN-SUFFIX,1xbet-nri88.buzz
   - DOMAIN-SUFFIX,1xbet-nrj.top
   - DOMAIN-SUFFIX,1xbet-nrk.top
   - DOMAIN-SUFFIX,1xbet-nrkn.top
@@ -50763,7 +50649,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-nsb.top
   - DOMAIN-SUFFIX,1xbet-nsb49.sbs
   - DOMAIN-SUFFIX,1xbet-nsc.cfd
-  - DOMAIN-SUFFIX,1xbet-nsc62.buzz
   - DOMAIN-SUFFIX,1xbet-nscs.top
   - DOMAIN-SUFFIX,1xbet-nse34.buzz
   - DOMAIN-SUFFIX,1xbet-nsez.top
@@ -50964,7 +50849,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-nxh59.cam
   - DOMAIN-SUFFIX,1xbet-nxi7c.cyou
   - DOMAIN-SUFFIX,1xbet-nxjm.top
-  - DOMAIN-SUFFIX,1xbet-nxk14.buzz
   - DOMAIN-SUFFIX,1xbet-nxk17.sbs
   - DOMAIN-SUFFIX,1xbet-nxkw.top
   - DOMAIN-SUFFIX,1xbet-nxkx.top
@@ -51217,7 +51101,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-oc5.top
   - DOMAIN-SUFFIX,1xbet-ocad.top
   - DOMAIN-SUFFIX,1xbet-ocbh.click
-  - DOMAIN-SUFFIX,1xbet-occ54.buzz
   - DOMAIN-SUFFIX,1xbet-occv.top
   - DOMAIN-SUFFIX,1xbet-ocd.top
   - DOMAIN-SUFFIX,1xbet-ocdb0.cfd
@@ -51616,7 +51499,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-og6bk.cyou
   - DOMAIN-SUFFIX,1xbet-ogal.top
   - DOMAIN-SUFFIX,1xbet-oge35.cfd
-  - DOMAIN-SUFFIX,1xbet-oge36.buzz
   - DOMAIN-SUFFIX,1xbet-ogft.click
   - DOMAIN-SUFFIX,1xbet-ogg77.sbs
   - DOMAIN-SUFFIX,1xbet-oghh.top
@@ -51688,7 +51570,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-oie55.buzz
   - DOMAIN-SUFFIX,1xbet-oif.top
   - DOMAIN-SUFFIX,1xbet-oif18.cam
-  - DOMAIN-SUFFIX,1xbet-oig92.buzz
   - DOMAIN-SUFFIX,1xbet-oii63.buzz
   - DOMAIN-SUFFIX,1xbet-oij28.cfd
   - DOMAIN-SUFFIX,1xbet-oijb.top
@@ -51768,7 +51649,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-oka37.cam
   - DOMAIN-SUFFIX,1xbet-okd67.cfd
   - DOMAIN-SUFFIX,1xbet-okd82.cam
-  - DOMAIN-SUFFIX,1xbet-okh27.buzz
   - DOMAIN-SUFFIX,1xbet-okh74.cam
   - DOMAIN-SUFFIX,1xbet-okhv.top
   - DOMAIN-SUFFIX,1xbet-oki.top
@@ -52275,7 +52155,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-oumj.top
   - DOMAIN-SUFFIX,1xbet-ouo.xyz
   - DOMAIN-SUFFIX,1xbet-ouoc.click
-  - DOMAIN-SUFFIX,1xbet-oup15.buzz
   - DOMAIN-SUFFIX,1xbet-out22.cfd
   - DOMAIN-SUFFIX,1xbet-out27.cfd
   - DOMAIN-SUFFIX,1xbet-outx.buzz
@@ -52571,7 +52450,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pae.top
   - DOMAIN-SUFFIX,1xbet-paf82.sbs
   - DOMAIN-SUFFIX,1xbet-pafw.top
-  - DOMAIN-SUFFIX,1xbet-pag37.buzz
   - DOMAIN-SUFFIX,1xbet-page.com
   - DOMAIN-SUFFIX,1xbet-pahf.top
   - DOMAIN-SUFFIX,1xbet-pai85.sbs
@@ -52645,7 +52523,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pbl.cfd
   - DOMAIN-SUFFIX,1xbet-pbl.top
   - DOMAIN-SUFFIX,1xbet-pbl26.sbs
-  - DOMAIN-SUFFIX,1xbet-pbl86.buzz
   - DOMAIN-SUFFIX,1xbet-pbna.top
   - DOMAIN-SUFFIX,1xbet-pbo31.top
   - DOMAIN-SUFFIX,1xbet-pbo56.cam
@@ -52663,7 +52540,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pbx59.sbs
   - DOMAIN-SUFFIX,1xbet-pbx61.top
   - DOMAIN-SUFFIX,1xbet-pbxw.top
-  - DOMAIN-SUFFIX,1xbet-pbz31.buzz
   - DOMAIN-SUFFIX,1xbet-pbzs.top
   - DOMAIN-SUFFIX,1xbet-pbzx.top
   - DOMAIN-SUFFIX,1xbet-pc.cfd
@@ -52776,7 +52652,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pdwz.top
   - DOMAIN-SUFFIX,1xbet-pdx87.cam
   - DOMAIN-SUFFIX,1xbet-pdxki.top
-  - DOMAIN-SUFFIX,1xbet-pdy97.buzz
   - DOMAIN-SUFFIX,1xbet-pdyni.icu
   - DOMAIN-SUFFIX,1xbet-pdyz.top
   - DOMAIN-SUFFIX,1xbet-pdzd.top
@@ -52825,7 +52700,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pfc.top
   - DOMAIN-SUFFIX,1xbet-pfc65.cam
   - DOMAIN-SUFFIX,1xbet-pfd54.cfd
-  - DOMAIN-SUFFIX,1xbet-pfd85.buzz
   - DOMAIN-SUFFIX,1xbet-pfe.top
   - DOMAIN-SUFFIX,1xbet-pfe77.cfd
   - DOMAIN-SUFFIX,1xbet-pfeh.cfd
@@ -53341,7 +53215,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pqh5p.click
   - DOMAIN-SUFFIX,1xbet-pqh62.sbs
   - DOMAIN-SUFFIX,1xbet-pqhf.top
-  - DOMAIN-SUFFIX,1xbet-pqi19.buzz
   - DOMAIN-SUFFIX,1xbet-pqk.top
   - DOMAIN-SUFFIX,1xbet-pqk96.buzz
   - DOMAIN-SUFFIX,1xbet-pqkb.top
@@ -53373,7 +53246,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-prd28.cfd
   - DOMAIN-SUFFIX,1xbet-pre.top
   - DOMAIN-SUFFIX,1xbet-pre33.cam
-  - DOMAIN-SUFFIX,1xbet-pre62.buzz
   - DOMAIN-SUFFIX,1xbet-prematch.ru
   - DOMAIN-SUFFIX,1xbet-prematch-bet.ru
   - DOMAIN-SUFFIX,1xbet-prematch-guide.ru
@@ -53604,7 +53476,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ptm.xyz
   - DOMAIN-SUFFIX,1xbet-ptn29.cam
   - DOMAIN-SUFFIX,1xbet-ptn41.sbs
-  - DOMAIN-SUFFIX,1xbet-ptn76.buzz
   - DOMAIN-SUFFIX,1xbet-ptqk.top
   - DOMAIN-SUFFIX,1xbet-ptr91.buzz
   - DOMAIN-SUFFIX,1xbet-ptra.top
@@ -53644,7 +53515,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ptt6.top
   - DOMAIN-SUFFIX,1xbet-ptt7.top
   - DOMAIN-SUFFIX,1xbet-pttu.top
-  - DOMAIN-SUFFIX,1xbet-ptu32.buzz
   - DOMAIN-SUFFIX,1xbet-ptwd.top
   - DOMAIN-SUFFIX,1xbet-ptyzskh.cam
   - DOMAIN-SUFFIX,1xbet-ptyzskn.cam
@@ -53875,7 +53745,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-pzj.top
   - DOMAIN-SUFFIX,1xbet-pzl5c.top
   - DOMAIN-SUFFIX,1xbet-pzlw.top
-  - DOMAIN-SUFFIX,1xbet-pzm27.buzz
   - DOMAIN-SUFFIX,1xbet-pzn28.cam
   - DOMAIN-SUFFIX,1xbet-pzna.top
   - DOMAIN-SUFFIX,1xbet-pznb.top
@@ -54056,7 +53925,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qbgj.top
   - DOMAIN-SUFFIX,1xbet-qbh.top
   - DOMAIN-SUFFIX,1xbet-qbi13.cam
-  - DOMAIN-SUFFIX,1xbet-qbj35.buzz
   - DOMAIN-SUFFIX,1xbet-qbk.top
   - DOMAIN-SUFFIX,1xbet-qbl.sbs
   - DOMAIN-SUFFIX,1xbet-qbl29.cfd
@@ -54202,7 +54070,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qflb.top
   - DOMAIN-SUFFIX,1xbet-qfm.top
   - DOMAIN-SUFFIX,1xbet-qfm8.top
-  - DOMAIN-SUFFIX,1xbet-qfo86.buzz
   - DOMAIN-SUFFIX,1xbet-qfoa.top
   - DOMAIN-SUFFIX,1xbet-qfoh.top
   - DOMAIN-SUFFIX,1xbet-qfqw.top
@@ -54233,7 +54100,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qgb11.cfd
   - DOMAIN-SUFFIX,1xbet-qgc.top
   - DOMAIN-SUFFIX,1xbet-qgc65.cam
-  - DOMAIN-SUFFIX,1xbet-qgf83.buzz
   - DOMAIN-SUFFIX,1xbet-qgfg.top
   - DOMAIN-SUFFIX,1xbet-qgg.top
   - DOMAIN-SUFFIX,1xbet-qgg57.sbs
@@ -54267,7 +54133,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qh2du.top
   - DOMAIN-SUFFIX,1xbet-qha19.cam
   - DOMAIN-SUFFIX,1xbet-qha1s.buzz
-  - DOMAIN-SUFFIX,1xbet-qha34.buzz
   - DOMAIN-SUFFIX,1xbet-qha97.buzz
   - DOMAIN-SUFFIX,1xbet-qhet.top
   - DOMAIN-SUFFIX,1xbet-qhgq.top
@@ -54317,7 +54182,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qim.top
   - DOMAIN-SUFFIX,1xbet-qim32.cfd
   - DOMAIN-SUFFIX,1xbet-qio.top
-  - DOMAIN-SUFFIX,1xbet-qio94.buzz
   - DOMAIN-SUFFIX,1xbet-qira.top
   - DOMAIN-SUFFIX,1xbet-qiv41.top
   - DOMAIN-SUFFIX,1xbet-qiv52.cam
@@ -54409,7 +54273,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qlg73.cfd
   - DOMAIN-SUFFIX,1xbet-qlgn.top
   - DOMAIN-SUFFIX,1xbet-qlh.cfd
-  - DOMAIN-SUFFIX,1xbet-qlh75.buzz
   - DOMAIN-SUFFIX,1xbet-qlh76.cam
   - DOMAIN-SUFFIX,1xbet-qli46.sbs
   - DOMAIN-SUFFIX,1xbet-qlj37.cfd
@@ -54646,7 +54509,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qrvs.top
   - DOMAIN-SUFFIX,1xbet-qrvt.top
   - DOMAIN-SUFFIX,1xbet-qrw.top
-  - DOMAIN-SUFFIX,1xbet-qry15.buzz
   - DOMAIN-SUFFIX,1xbet-qryx.top
   - DOMAIN-SUFFIX,1xbet-qrz22.sbs
   - DOMAIN-SUFFIX,1xbet-qrzu.top
@@ -54697,7 +54559,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qtm.top
   - DOMAIN-SUFFIX,1xbet-qtnz.top
   - DOMAIN-SUFFIX,1xbet-qto.xyz
-  - DOMAIN-SUFFIX,1xbet-qto55.buzz
   - DOMAIN-SUFFIX,1xbet-qtp36.cam
   - DOMAIN-SUFFIX,1xbet-qtp72.sbs
   - DOMAIN-SUFFIX,1xbet-qtq28.cfd
@@ -54730,7 +54591,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-quf63.cam
   - DOMAIN-SUFFIX,1xbet-quf98.cfd
   - DOMAIN-SUFFIX,1xbet-qug.top
-  - DOMAIN-SUFFIX,1xbet-qug25.buzz
   - DOMAIN-SUFFIX,1xbet-qug6.top
   - DOMAIN-SUFFIX,1xbet-quhj.top
   - DOMAIN-SUFFIX,1xbet-quick-signup.com
@@ -54744,7 +54604,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qumy.top
   - DOMAIN-SUFFIX,1xbet-qun67.buzz
   - DOMAIN-SUFFIX,1xbet-qunt.top
-  - DOMAIN-SUFFIX,1xbet-quo63.buzz
   - DOMAIN-SUFFIX,1xbet-quor.top
   - DOMAIN-SUFFIX,1xbet-qup53.cam
   - DOMAIN-SUFFIX,1xbet-quq14.cam
@@ -54885,7 +54744,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-qyt56.cfd
   - DOMAIN-SUFFIX,1xbet-qyt92.top
   - DOMAIN-SUFFIX,1xbet-qyt96.cfd
-  - DOMAIN-SUFFIX,1xbet-qyu75.buzz
   - DOMAIN-SUFFIX,1xbet-qyvtg.top
   - DOMAIN-SUFFIX,1xbet-qywe.top
   - DOMAIN-SUFFIX,1xbet-qyza.top
@@ -55036,7 +54894,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-rang.top
   - DOMAIN-SUFFIX,1xbet-ranv.cfd
   - DOMAIN-SUFFIX,1xbet-raox.top
-  - DOMAIN-SUFFIX,1xbet-rap77.buzz
   - DOMAIN-SUFFIX,1xbet-raqo.top
   - DOMAIN-SUFFIX,1xbet-rar72.cam
   - DOMAIN-SUFFIX,1xbet-ras.top
@@ -55056,7 +54913,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-rb71.top
   - DOMAIN-SUFFIX,1xbet-rb9xm.click
   - DOMAIN-SUFFIX,1xbet-rba.top
-  - DOMAIN-SUFFIX,1xbet-rba15.buzz
   - DOMAIN-SUFFIX,1xbet-rbbv.top
   - DOMAIN-SUFFIX,1xbet-rbe.top
   - DOMAIN-SUFFIX,1xbet-rbe29.cfd
@@ -55931,7 +55787,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-rstm7.top
   - DOMAIN-SUFFIX,1xbet-rstm8.top
   - DOMAIN-SUFFIX,1xbet-rstm9.top
-  - DOMAIN-SUFFIX,1xbet-rsv31.buzz
   - DOMAIN-SUFFIX,1xbet-rsv86.sbs
   - DOMAIN-SUFFIX,1xbet-rsx3.top
   - DOMAIN-SUFFIX,1xbet-rsx39.sbs
@@ -56562,7 +56417,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-sds26.cam
   - DOMAIN-SUFFIX,1xbet-sds77.cam
   - DOMAIN-SUFFIX,1xbet-sds77.top
-  - DOMAIN-SUFFIX,1xbet-sdt83.buzz
   - DOMAIN-SUFFIX,1xbet-sdv3s.cfd
   - DOMAIN-SUFFIX,1xbet-sdxf.top
   - DOMAIN-SUFFIX,1xbet-sdy71.sbs
@@ -56637,7 +56491,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-sflk.top
   - DOMAIN-SUFFIX,1xbet-sfn48.top
   - DOMAIN-SUFFIX,1xbet-sfn86.buzz
-  - DOMAIN-SUFFIX,1xbet-sfn94.buzz
   - DOMAIN-SUFFIX,1xbet-sfno.top
   - DOMAIN-SUFFIX,1xbet-sfns.top
   - DOMAIN-SUFFIX,1xbet-sfox.top
@@ -56949,7 +56802,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-skde.top
   - DOMAIN-SUFFIX,1xbet-skdg.top
   - DOMAIN-SUFFIX,1xbet-ske.top
-  - DOMAIN-SUFFIX,1xbet-ske69.buzz
   - DOMAIN-SUFFIX,1xbet-skel.top
   - DOMAIN-SUFFIX,1xbet-skf.top
   - DOMAIN-SUFFIX,1xbet-skg.top
@@ -57141,7 +56993,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-smw.top
   - DOMAIN-SUFFIX,1xbet-smw.xyz
   - DOMAIN-SUFFIX,1xbet-smx.top
-  - DOMAIN-SUFFIX,1xbet-smx62.buzz
   - DOMAIN-SUFFIX,1xbet-smxg.top
   - DOMAIN-SUFFIX,1xbet-smy.top
   - DOMAIN-SUFFIX,1xbet-smy87.buzz
@@ -57172,7 +57023,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-snj.top
   - DOMAIN-SUFFIX,1xbet-snj95.cfd
   - DOMAIN-SUFFIX,1xbet-snl.top
-  - DOMAIN-SUFFIX,1xbet-snl55.buzz
   - DOMAIN-SUFFIX,1xbet-snl84.cfd
   - DOMAIN-SUFFIX,1xbet-snm.top
   - DOMAIN-SUFFIX,1xbet-snn86ht.top
@@ -57461,7 +57311,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-srl.top
   - DOMAIN-SUFFIX,1xbet-srl67.sbs
   - DOMAIN-SUFFIX,1xbet-srlx.top
-  - DOMAIN-SUFFIX,1xbet-srm66.buzz
   - DOMAIN-SUFFIX,1xbet-srpk.top
   - DOMAIN-SUFFIX,1xbet-srs33.top
   - DOMAIN-SUFFIX,1xbet-srs59.sbs
@@ -57611,7 +57460,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-still.top
   - DOMAIN-SUFFIX,1xbet-stio.top
   - DOMAIN-SUFFIX,1xbet-stj.xyz
-  - DOMAIN-SUFFIX,1xbet-stl78.buzz
   - DOMAIN-SUFFIX,1xbet-stp.top
   - DOMAIN-SUFFIX,1xbet-stpa.top
   - DOMAIN-SUFFIX,1xbet-stq.top
@@ -57824,7 +57672,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-sxzz.top
   - DOMAIN-SUFFIX,1xbet-sy1.sbs
   - DOMAIN-SUFFIX,1xbet-sy6h.cfd
-  - DOMAIN-SUFFIX,1xbet-sya97.buzz
   - DOMAIN-SUFFIX,1xbet-sybm.top
   - DOMAIN-SUFFIX,1xbet-syc.top
   - DOMAIN-SUFFIX,1xbet-syc94.cam
@@ -58432,14 +58279,11 @@ payload:
   - DOMAIN-SUFFIX,1xbet-tjir.top
   - DOMAIN-SUFFIX,1xbet-tjj53.cam
   - DOMAIN-SUFFIX,1xbet-tjk0n.buzz
-  - DOMAIN-SUFFIX,1xbet-tjk36.buzz
-  - DOMAIN-SUFFIX,1xbet-tjm11.buzz
   - DOMAIN-SUFFIX,1xbet-tjn26.cam
   - DOMAIN-SUFFIX,1xbet-tjn69.cam
   - DOMAIN-SUFFIX,1xbet-tjn89.cfd
   - DOMAIN-SUFFIX,1xbet-tjo98.sbs
   - DOMAIN-SUFFIX,1xbet-tjp.top
-  - DOMAIN-SUFFIX,1xbet-tjq69.buzz
   - DOMAIN-SUFFIX,1xbet-tjq78.buzz
   - DOMAIN-SUFFIX,1xbet-tjql.top
   - DOMAIN-SUFFIX,1xbet-tjqsv.xyz
@@ -58447,7 +58291,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-tjs74.sbs
   - DOMAIN-SUFFIX,1xbet-tjt19.sbs
   - DOMAIN-SUFFIX,1xbet-tju.top
-  - DOMAIN-SUFFIX,1xbet-tjw55.buzz
   - DOMAIN-SUFFIX,1xbet-tjy33.sbs
   - DOMAIN-SUFFIX,1xbet-tk70.top
   - DOMAIN-SUFFIX,1xbet-tk71.top
@@ -59502,7 +59345,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uarr7.cyou
   - DOMAIN-SUFFIX,1xbet-uas19.cfd
   - DOMAIN-SUFFIX,1xbet-uas44.cfd
-  - DOMAIN-SUFFIX,1xbet-uas83.buzz
   - DOMAIN-SUFFIX,1xbet-uauk.top
   - DOMAIN-SUFFIX,1xbet-uavh.top
   - DOMAIN-SUFFIX,1xbet-uax.top
@@ -59633,7 +59475,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uejw.cfd
   - DOMAIN-SUFFIX,1xbet-uem21.cam
   - DOMAIN-SUFFIX,1xbet-uen14.buzz
-  - DOMAIN-SUFFIX,1xbet-ueo29.buzz
   - DOMAIN-SUFFIX,1xbet-ueoq.top
   - DOMAIN-SUFFIX,1xbet-uepe.cfd
   - DOMAIN-SUFFIX,1xbet-uer.top
@@ -59692,7 +59533,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uglc.top
   - DOMAIN-SUFFIX,1xbet-uglh.top
   - DOMAIN-SUFFIX,1xbet-ugmul.pro
-  - DOMAIN-SUFFIX,1xbet-ugp49.buzz
   - DOMAIN-SUFFIX,1xbet-ugpp.top
   - DOMAIN-SUFFIX,1xbet-ugpv.top
   - DOMAIN-SUFFIX,1xbet-ugq.cfd
@@ -60011,7 +59851,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-upi.top
   - DOMAIN-SUFFIX,1xbet-upk41.sbs
   - DOMAIN-SUFFIX,1xbet-upm8a.cfd
-  - DOMAIN-SUFFIX,1xbet-upo33.buzz
   - DOMAIN-SUFFIX,1xbet-upq45.sbs
   - DOMAIN-SUFFIX,1xbet-upqa.top
   - DOMAIN-SUFFIX,1xbet-ups.xyz
@@ -60046,7 +59885,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uqjp.top
   - DOMAIN-SUFFIX,1xbet-uqm62.cam
   - DOMAIN-SUFFIX,1xbet-uqn.top
-  - DOMAIN-SUFFIX,1xbet-uqn16.buzz
   - DOMAIN-SUFFIX,1xbet-uqn61.cfd
   - DOMAIN-SUFFIX,1xbet-uqqic.click
   - DOMAIN-SUFFIX,1xbet-uqr45bb.sbs
@@ -60311,7 +60149,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uxlw.top
   - DOMAIN-SUFFIX,1xbet-uxoj.top
   - DOMAIN-SUFFIX,1xbet-uxq23.cam
-  - DOMAIN-SUFFIX,1xbet-uxs26.buzz
   - DOMAIN-SUFFIX,1xbet-uxsn.top
   - DOMAIN-SUFFIX,1xbet-uxt64.sbs
   - DOMAIN-SUFFIX,1xbet-uxtw.top
@@ -60420,8 +60257,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-uzs.top
   - DOMAIN-SUFFIX,1xbet-uzse.top
   - DOMAIN-SUFFIX,1xbet-uzu.cfd
-  - DOMAIN-SUFFIX,1xbet-uzu69.buzz
-  - DOMAIN-SUFFIX,1xbet-uzu79.buzz
   - DOMAIN-SUFFIX,1xbet-uzx.top
   - DOMAIN-SUFFIX,1xbet-uzy79.sbs
   - DOMAIN-SUFFIX,1xbet-uzz59.cfd
@@ -60858,7 +60693,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vka.top
   - DOMAIN-SUFFIX,1xbet-vka78.buzz
   - DOMAIN-SUFFIX,1xbet-vkak.top
-  - DOMAIN-SUFFIX,1xbet-vkd26.buzz
   - DOMAIN-SUFFIX,1xbet-vke.top
   - DOMAIN-SUFFIX,1xbet-vke53.sbs
   - DOMAIN-SUFFIX,1xbet-vke75.top
@@ -60962,7 +60796,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vmfd.top
   - DOMAIN-SUFFIX,1xbet-vmfj.top
   - DOMAIN-SUFFIX,1xbet-vmg3g.ru
-  - DOMAIN-SUFFIX,1xbet-vmi99.buzz
   - DOMAIN-SUFFIX,1xbet-vmiv.top
   - DOMAIN-SUFFIX,1xbet-vmj.buzz
   - DOMAIN-SUFFIX,1xbet-vmk61.cam
@@ -60988,7 +60821,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vmm.top
   - DOMAIN-SUFFIX,1xbet-vmm42.cam
   - DOMAIN-SUFFIX,1xbet-vmoul.cfd
-  - DOMAIN-SUFFIX,1xbet-vmp22.buzz
   - DOMAIN-SUFFIX,1xbet-vmp62.buzz
   - DOMAIN-SUFFIX,1xbet-vmq53.cfd
   - DOMAIN-SUFFIX,1xbet-vms.xyz
@@ -61047,7 +60879,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vnl93.sbs
   - DOMAIN-SUFFIX,1xbet-vnle.top
   - DOMAIN-SUFFIX,1xbet-vnm.com
-  - DOMAIN-SUFFIX,1xbet-vnn21.buzz
   - DOMAIN-SUFFIX,1xbet-vnnn.top
   - DOMAIN-SUFFIX,1xbet-vno73.cfd
   - DOMAIN-SUFFIX,1xbet-vnp66.sbs
@@ -61179,7 +61010,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vpw.top
   - DOMAIN-SUFFIX,1xbet-vpx18.sbs
   - DOMAIN-SUFFIX,1xbet-vpx94.cam
-  - DOMAIN-SUFFIX,1xbet-vpy99.buzz
   - DOMAIN-SUFFIX,1xbet-vpzf.click
   - DOMAIN-SUFFIX,1xbet-vq838.cyou
   - DOMAIN-SUFFIX,1xbet-vqb.top
@@ -61232,7 +61062,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vrvh.top
   - DOMAIN-SUFFIX,1xbet-vrw43.buzz
   - DOMAIN-SUFFIX,1xbet-vrwe.top
-  - DOMAIN-SUFFIX,1xbet-vrx25.buzz
   - DOMAIN-SUFFIX,1xbet-vryf.top
   - DOMAIN-SUFFIX,1xbet-vrz53.sbs
   - DOMAIN-SUFFIX,1xbet-vs.xyz
@@ -61383,14 +61212,12 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vvur.top
   - DOMAIN-SUFFIX,1xbet-vvy99.cam
   - DOMAIN-SUFFIX,1xbet-vvyg.top
-  - DOMAIN-SUFFIX,1xbet-vvz74.buzz
   - DOMAIN-SUFFIX,1xbet-vw0ca.cfd
   - DOMAIN-SUFFIX,1xbet-vw3i2.sbs
   - DOMAIN-SUFFIX,1xbet-vw6h.buzz
   - DOMAIN-SUFFIX,1xbet-vwa.top
   - DOMAIN-SUFFIX,1xbet-vwbg.top
   - DOMAIN-SUFFIX,1xbet-vwbv.top
-  - DOMAIN-SUFFIX,1xbet-vwc54.buzz
   - DOMAIN-SUFFIX,1xbet-vwd64.sbs
   - DOMAIN-SUFFIX,1xbet-vwd78wx.buzz
   - DOMAIN-SUFFIX,1xbet-vwen50.best
@@ -61412,7 +61239,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-vwq46.top
   - DOMAIN-SUFFIX,1xbet-vwr34.cam
   - DOMAIN-SUFFIX,1xbet-vwtpx.buzz
-  - DOMAIN-SUFFIX,1xbet-vwu54.buzz
   - DOMAIN-SUFFIX,1xbet-vwy72.sbs
   - DOMAIN-SUFFIX,1xbet-vwzv.top
   - DOMAIN-SUFFIX,1xbet-vx2kn.cfd
@@ -61572,7 +61398,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wa12.top
   - DOMAIN-SUFFIX,1xbet-wa94q.cfd
   - DOMAIN-SUFFIX,1xbet-waa.top
-  - DOMAIN-SUFFIX,1xbet-waa63.buzz
   - DOMAIN-SUFFIX,1xbet-waa73.buzz
   - DOMAIN-SUFFIX,1xbet-waao.top
   - DOMAIN-SUFFIX,1xbet-wabv.top
@@ -61709,7 +61534,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wdt99.top
   - DOMAIN-SUFFIX,1xbet-wdu59.cam
   - DOMAIN-SUFFIX,1xbet-wdus.top
-  - DOMAIN-SUFFIX,1xbet-wdx68.buzz
   - DOMAIN-SUFFIX,1xbet-wdx77.sbs
   - DOMAIN-SUFFIX,1xbet-wdxi.top
   - DOMAIN-SUFFIX,1xbet-wdxv.top
@@ -61987,7 +61811,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wjwdw.top
   - DOMAIN-SUFFIX,1xbet-wjx.top
   - DOMAIN-SUFFIX,1xbet-wjx41.sbs
-  - DOMAIN-SUFFIX,1xbet-wjx71.buzz
   - DOMAIN-SUFFIX,1xbet-wjy43.buzz
   - DOMAIN-SUFFIX,1xbet-wjz.top
   - DOMAIN-SUFFIX,1xbet-wjz3l.icu
@@ -62038,7 +61861,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wln45.sbs
   - DOMAIN-SUFFIX,1xbet-wln67.top
   - DOMAIN-SUFFIX,1xbet-wlnx.top
-  - DOMAIN-SUFFIX,1xbet-wlp33.buzz
   - DOMAIN-SUFFIX,1xbet-wlpa.lol
   - DOMAIN-SUFFIX,1xbet-wlq.top
   - DOMAIN-SUFFIX,1xbet-wlqt.top
@@ -62109,7 +61931,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wnnw.top
   - DOMAIN-SUFFIX,1xbet-wnp52.sbs
   - DOMAIN-SUFFIX,1xbet-wnq45.cam
-  - DOMAIN-SUFFIX,1xbet-wnq47.buzz
   - DOMAIN-SUFFIX,1xbet-wnq88.cam
   - DOMAIN-SUFFIX,1xbet-wnqz.top
   - DOMAIN-SUFFIX,1xbet-wnra.top
@@ -62180,7 +62001,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wpj32.sbs
   - DOMAIN-SUFFIX,1xbet-wpk75.cam
   - DOMAIN-SUFFIX,1xbet-wpm57.top
-  - DOMAIN-SUFFIX,1xbet-wpn44.buzz
   - DOMAIN-SUFFIX,1xbet-wpn47.cfd
   - DOMAIN-SUFFIX,1xbet-wpo85.cam
   - DOMAIN-SUFFIX,1xbet-wpos02.best
@@ -62330,7 +62150,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wu.xyz
   - DOMAIN-SUFFIX,1xbet-wu12.top
   - DOMAIN-SUFFIX,1xbet-wua36.cam
-  - DOMAIN-SUFFIX,1xbet-wub32.buzz
   - DOMAIN-SUFFIX,1xbet-wub5f.buzz
   - DOMAIN-SUFFIX,1xbet-wuc.sbs
   - DOMAIN-SUFFIX,1xbet-wud.cfd
@@ -62377,7 +62196,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wvfg.top
   - DOMAIN-SUFFIX,1xbet-wvh.top
   - DOMAIN-SUFFIX,1xbet-wvh44.sbs
-  - DOMAIN-SUFFIX,1xbet-wvi33.buzz
   - DOMAIN-SUFFIX,1xbet-wvj18.buzz
   - DOMAIN-SUFFIX,1xbet-wvl12.sbs
   - DOMAIN-SUFFIX,1xbet-wvm.top
@@ -62491,7 +62309,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-wz8i.click
   - DOMAIN-SUFFIX,1xbet-wzg66.sbs
   - DOMAIN-SUFFIX,1xbet-wzh.top
-  - DOMAIN-SUFFIX,1xbet-wzi12.buzz
   - DOMAIN-SUFFIX,1xbet-wzl88.buzz
   - DOMAIN-SUFFIX,1xbet-wzm52.sbs
   - DOMAIN-SUFFIX,1xbet-wzm89.sbs
@@ -62627,7 +62444,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-xa1p.top
   - DOMAIN-SUFFIX,1xbet-xa1q.top
   - DOMAIN-SUFFIX,1xbet-xa2wl.blog
-  - DOMAIN-SUFFIX,1xbet-xaa34.buzz
   - DOMAIN-SUFFIX,1xbet-xab26.cfd
   - DOMAIN-SUFFIX,1xbet-xacb.top
   - DOMAIN-SUFFIX,1xbet-xad62.cam
@@ -62905,7 +62721,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-xhde.top
   - DOMAIN-SUFFIX,1xbet-xhe.top
   - DOMAIN-SUFFIX,1xbet-xhe51.cam
-  - DOMAIN-SUFFIX,1xbet-xhg69.buzz
   - DOMAIN-SUFFIX,1xbet-xhj24.sbs
   - DOMAIN-SUFFIX,1xbet-xhjm.top
   - DOMAIN-SUFFIX,1xbet-xhk79.cam
@@ -62971,7 +62786,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-xjjz3.top
   - DOMAIN-SUFFIX,1xbet-xjk17.buzz
   - DOMAIN-SUFFIX,1xbet-xjm.top
-  - DOMAIN-SUFFIX,1xbet-xjm83.buzz
   - DOMAIN-SUFFIX,1xbet-xjmr.xyz
   - DOMAIN-SUFFIX,1xbet-xjo81.cfd
   - DOMAIN-SUFFIX,1xbet-xjpt.top
@@ -62995,7 +62809,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-xk4.top
   - DOMAIN-SUFFIX,1xbet-xk97l.icu
   - DOMAIN-SUFFIX,1xbet-xka.top
-  - DOMAIN-SUFFIX,1xbet-xka24.buzz
   - DOMAIN-SUFFIX,1xbet-xkb8.cfd
   - DOMAIN-SUFFIX,1xbet-xkc32.cam
   - DOMAIN-SUFFIX,1xbet-xkcd.top
@@ -63640,7 +63453,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ybf57.cfd
   - DOMAIN-SUFFIX,1xbet-ybg49.sbs
   - DOMAIN-SUFFIX,1xbet-ybgg.top
-  - DOMAIN-SUFFIX,1xbet-ybi75.buzz
   - DOMAIN-SUFFIX,1xbet-ybj.top
   - DOMAIN-SUFFIX,1xbet-ybk.top
   - DOMAIN-SUFFIX,1xbet-ybk48.sbs
@@ -63702,7 +63514,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-ycwq.top
   - DOMAIN-SUFFIX,1xbet-ycxk16.best
   - DOMAIN-SUFFIX,1xbet-ycy.top
-  - DOMAIN-SUFFIX,1xbet-ycy37.buzz
   - DOMAIN-SUFFIX,1xbet-ycz13.buzz
   - DOMAIN-SUFFIX,1xbet-ycztf.click
   - DOMAIN-SUFFIX,1xbet-yczx.top
@@ -64039,7 +63850,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yn7ni.cfd
   - DOMAIN-SUFFIX,1xbet-yna26.cam
   - DOMAIN-SUFFIX,1xbet-yna72.sbs
-  - DOMAIN-SUFFIX,1xbet-ynb59.buzz
   - DOMAIN-SUFFIX,1xbet-ynbu.top
   - DOMAIN-SUFFIX,1xbet-ynbx.top
   - DOMAIN-SUFFIX,1xbet-ynd15.sbs
@@ -64047,7 +63857,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yne44.cam
   - DOMAIN-SUFFIX,1xbet-yng.top
   - DOMAIN-SUFFIX,1xbet-yni.top
-  - DOMAIN-SUFFIX,1xbet-yni39.buzz
   - DOMAIN-SUFFIX,1xbet-yni57.cam
   - DOMAIN-SUFFIX,1xbet-yni93.sbs
   - DOMAIN-SUFFIX,1xbet-ynk84.cam
@@ -64278,7 +64087,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yte.top
   - DOMAIN-SUFFIX,1xbet-yte58.sbs
   - DOMAIN-SUFFIX,1xbet-yte78.cfd
-  - DOMAIN-SUFFIX,1xbet-ytf47.buzz
   - DOMAIN-SUFFIX,1xbet-ytfo.top
   - DOMAIN-SUFFIX,1xbet-ytfr.top
   - DOMAIN-SUFFIX,1xbet-yti.top
@@ -64328,7 +64136,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yu4r.top
   - DOMAIN-SUFFIX,1xbet-yu4s.top
   - DOMAIN-SUFFIX,1xbet-yu4t.top
-  - DOMAIN-SUFFIX,1xbet-yua45.buzz
   - DOMAIN-SUFFIX,1xbet-yubd.top
   - DOMAIN-SUFFIX,1xbet-yudd.top
   - DOMAIN-SUFFIX,1xbet-yude.top
@@ -64400,7 +64207,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yvit6.cfd
   - DOMAIN-SUFFIX,1xbet-yvk23.buzz
   - DOMAIN-SUFFIX,1xbet-yvl14.top
-  - DOMAIN-SUFFIX,1xbet-yvl26.buzz
   - DOMAIN-SUFFIX,1xbet-yvl32.cam
   - DOMAIN-SUFFIX,1xbet-yvl35.top
   - DOMAIN-SUFFIX,1xbet-yvl48.cam
@@ -64517,7 +64323,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yzd.top
   - DOMAIN-SUFFIX,1xbet-yzd28.sbs
   - DOMAIN-SUFFIX,1xbet-yzd87.cfd
-  - DOMAIN-SUFFIX,1xbet-yze22.buzz
   - DOMAIN-SUFFIX,1xbet-yze56.sbs
   - DOMAIN-SUFFIX,1xbet-yzer.top
   - DOMAIN-SUFFIX,1xbet-yzh44.sbs
@@ -64536,7 +64341,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-yzp66.cfd
   - DOMAIN-SUFFIX,1xbet-yzqfn.cfd
   - DOMAIN-SUFFIX,1xbet-yzr0i.xyz
-  - DOMAIN-SUFFIX,1xbet-yzr72.buzz
   - DOMAIN-SUFFIX,1xbet-yzt.top
   - DOMAIN-SUFFIX,1xbet-yzv.top
   - DOMAIN-SUFFIX,1xbet-yzvj.top
@@ -65082,7 +64886,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-zggl.top
   - DOMAIN-SUFFIX,1xbet-zgj41.sbs
   - DOMAIN-SUFFIX,1xbet-zgjx.top
-  - DOMAIN-SUFFIX,1xbet-zgk13.buzz
   - DOMAIN-SUFFIX,1xbet-zgk15.cam
   - DOMAIN-SUFFIX,1xbet-zgn86.sbs
   - DOMAIN-SUFFIX,1xbet-zgnrs.top
@@ -65374,7 +65177,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-zpow.top
   - DOMAIN-SUFFIX,1xbet-zpp22.sbs
   - DOMAIN-SUFFIX,1xbet-zpp46.top
-  - DOMAIN-SUFFIX,1xbet-zpp48.buzz
   - DOMAIN-SUFFIX,1xbet-zpp57.sbs
   - DOMAIN-SUFFIX,1xbet-zpq57.sbs
   - DOMAIN-SUFFIX,1xbet-zpu38.sbs
@@ -65578,7 +65380,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-zvx72.cam
   - DOMAIN-SUFFIX,1xbet-zvx93.buzz
   - DOMAIN-SUFFIX,1xbet-zvxh.top
-  - DOMAIN-SUFFIX,1xbet-zvz52.buzz
   - DOMAIN-SUFFIX,1xbet-zvz74.sbs
   - DOMAIN-SUFFIX,1xbet-zvz98.sbs
   - DOMAIN-SUFFIX,1xbet-zw10w.sbs
@@ -65622,7 +65423,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-zwx.top
   - DOMAIN-SUFFIX,1xbet-zwy.top
   - DOMAIN-SUFFIX,1xbet-zwz.top
-  - DOMAIN-SUFFIX,1xbet-zwz14.buzz
   - DOMAIN-SUFFIX,1xbet-zx.xyz
   - DOMAIN-SUFFIX,1xbet-zx5ui.top
   - DOMAIN-SUFFIX,1xbet-zxa71.cfd
@@ -65638,7 +65438,6 @@ payload:
   - DOMAIN-SUFFIX,1xbet-zxfb.top
   - DOMAIN-SUFFIX,1xbet-zxg.top
   - DOMAIN-SUFFIX,1xbet-zxl67.sbs
-  - DOMAIN-SUFFIX,1xbet-zxm59.buzz
   - DOMAIN-SUFFIX,1xbet-zxn.top
   - DOMAIN-SUFFIX,1xbet-zxni.top
   - DOMAIN-SUFFIX,1xbet-zxnv.top
@@ -70295,7 +70094,6 @@ payload:
   - DOMAIN-SUFFIX,1xbetx.fun
   - DOMAIN-SUFFIX,1xbetx.info
   - DOMAIN-SUFFIX,1xbetx.live
-  - DOMAIN-SUFFIX,1xbetx.net
   - DOMAIN-SUFFIX,1xbetx.pro
   - DOMAIN-SUFFIX,1xbetx.sbs
   - DOMAIN-SUFFIX,1xbetx.site
@@ -71655,6 +71453,7 @@ payload:
   - DOMAIN-SUFFIX,1xslot.best
   - DOMAIN-SUFFIX,1xslot.bid
   - DOMAIN-SUFFIX,1xslot.bio
+  - DOMAIN-SUFFIX,1xslot.biz
   - DOMAIN-SUFFIX,1xslot.buzz
   - DOMAIN-SUFFIX,1xslot.cam
   - DOMAIN-SUFFIX,1xslot.casino
@@ -71870,6 +71669,7 @@ payload:
   - DOMAIN-SUFFIX,1xslots.website
   - DOMAIN-SUFFIX,1xslots.wiki
   - DOMAIN-SUFFIX,1xslots.wine
+  - DOMAIN-SUFFIX,1xslots.xyz
   - DOMAIN-SUFFIX,1xslots-001.top
   - DOMAIN-SUFFIX,1xslots-004.buzz
   - DOMAIN-SUFFIX,1xslots-005.buzz
@@ -83523,7 +83323,6 @@ payload:
   - DOMAIN-SUFFIX,2mx-casino.com
   - DOMAIN-SUFFIX,2mzone.xyz
   - DOMAIN-SUFFIX,2napi.xyz
-  - DOMAIN-SUFFIX,2nd-wind.net
   - DOMAIN-SUFFIX,2nd-windconsultant.com
   - DOMAIN-SUFFIX,2ndwind-consultant.com
   - DOMAIN-SUFFIX,2neon54.com
@@ -118961,7 +118760,6 @@ payload:
   - DOMAIN-SUFFIX,7k-151.casino
   - DOMAIN-SUFFIX,7k-152.casino
   - DOMAIN-SUFFIX,7k-155.casino
-  - DOMAIN-SUFFIX,7k-156.casino
   - DOMAIN-SUFFIX,7k-158.casino
   - DOMAIN-SUFFIX,7k-159.casino
   - DOMAIN-SUFFIX,7k-163.casino
@@ -135086,6 +134884,7 @@ payload:
   - DOMAIN-SUFFIX,9558.top
   - DOMAIN-SUFFIX,95587.casino
   - DOMAIN-SUFFIX,95595v.com
+  - DOMAIN-SUFFIX,955bet.xyz
   - DOMAIN-SUFFIX,955bet-vip.com
   - DOMAIN-SUFFIX,955bet03.com
   - DOMAIN-SUFFIX,955bet06.com
@@ -138667,6 +138466,7 @@ payload:
   - DOMAIN-SUFFIX,9e8.casino
   - DOMAIN-SUFFIX,9em.casino
   - DOMAIN-SUFFIX,9eq.casino
+  - DOMAIN-SUFFIX,9er.app
   - DOMAIN-SUFFIX,9eucasino.click
   - DOMAIN-SUFFIX,9f.com
   - DOMAIN-SUFFIX,9f-bet936.com
@@ -144407,6 +144207,7 @@ payload:
   - DOMAIN-SUFFIX,aktifslot.net
   - DOMAIN-SUFFIX,aktifwin.xyz
   - DOMAIN-SUFFIX,aktion-mensch.de
+  - DOMAIN-SUFFIX,aktions-gewinner.info
   - DOMAIN-SUFFIX,aktivpoker.se
   - DOMAIN-SUFFIX,aktivs.info
   - DOMAIN-SUFFIX,aktorku.xyz
@@ -145449,7 +145250,6 @@ payload:
   - DOMAIN-SUFFIX,alfabetcasino.ch
   - DOMAIN-SUFFIX,alfabetcasino.com
   - DOMAIN-SUFFIX,alfabetcasino.pl
-  - DOMAIN-SUFFIX,alfabetizacinfinancierafinancialliteracy.live
   - DOMAIN-SUFFIX,alfabeto-creality.com
   - DOMAIN-SUFFIX,alfabeto-lda.com
   - DOMAIN-SUFFIX,alfabets.com
@@ -145688,6 +145488,7 @@ payload:
   - DOMAIN-SUFFIX,alibetsasus.xyz
   - DOMAIN-SUFFIX,alibetsmilli.xyz
   - DOMAIN-SUFFIX,alicash88.com
+  - DOMAIN-SUFFIX,alicasino.sbs
   - DOMAIN-SUFFIX,alice-springs-casino-au.com
   - DOMAIN-SUFFIX,alice-win.casino
   - DOMAIN-SUFFIX,alice-win.com
@@ -172387,6 +172188,7 @@ payload:
   - DOMAIN-SUFFIX,bet-bitcoin-casinos-eire1.site
   - DOMAIN-SUFFIX,bet-bjoy88.com
   - DOMAIN-SUFFIX,bet-bk-1x.com
+  - DOMAIN-SUFFIX,bet-bk8.com
   - DOMAIN-SUFFIX,bet-bk8.org
   - DOMAIN-SUFFIX,bet-blackfin.com
   - DOMAIN-SUFFIX,bet-blackfin.vip
@@ -176108,6 +175910,7 @@ payload:
   - DOMAIN-SUFFIX,bet88.quest
   - DOMAIN-SUFFIX,bet88.systems
   - DOMAIN-SUFFIX,bet88.vegas
+  - DOMAIN-SUFFIX,bet88.watch
   - DOMAIN-SUFFIX,bet88-1st.com
   - DOMAIN-SUFFIX,bet88-2026.cam
   - DOMAIN-SUFFIX,bet88-365.com
@@ -178240,6 +178043,7 @@ payload:
   - DOMAIN-SUFFIX,betasus1818.com
   - DOMAIN-SUFFIX,betasus1819.com
   - DOMAIN-SUFFIX,betasus1820.com
+  - DOMAIN-SUFFIX,betasus1825.com
   - DOMAIN-SUFFIX,betasus1830.com
   - DOMAIN-SUFFIX,betasus1848.com
   - DOMAIN-SUFFIX,betasus1852.com
@@ -178256,6 +178060,7 @@ payload:
   - DOMAIN-SUFFIX,betasus724.com
   - DOMAIN-SUFFIX,betasusa.site
   - DOMAIN-SUFFIX,betasusa-guncel-girisyap.org
+  - DOMAIN-SUFFIX,betasusadresi1102.co
   - DOMAIN-SUFFIX,betasusadresin.cam
   - DOMAIN-SUFFIX,betasusagiris.com
   - DOMAIN-SUFFIX,betasusagiris.icu
@@ -179566,6 +179371,7 @@ payload:
   - DOMAIN-SUFFIX,betcris.com
   - DOMAIN-SUFFIX,betcris.do
   - DOMAIN-SUFFIX,betcris.mx
+  - DOMAIN-SUFFIX,betcris.nl
   - DOMAIN-SUFFIX,betcris.pa
   - DOMAIN-SUFFIX,betcris.pe
   - DOMAIN-SUFFIX,betcris.pl
@@ -180270,6 +180076,7 @@ payload:
   - DOMAIN-SUFFIX,betflix-169.com
   - DOMAIN-SUFFIX,betflix-24.org
   - DOMAIN-SUFFIX,betflix-282.best
+  - DOMAIN-SUFFIX,betflix-285.me
   - DOMAIN-SUFFIX,betflix-285.site
   - DOMAIN-SUFFIX,betflix-356.com
   - DOMAIN-SUFFIX,betflix-356.net
@@ -180377,6 +180184,7 @@ payload:
   - DOMAIN-SUFFIX,betflix68.xyz
   - DOMAIN-SUFFIX,betflix6888.info
   - DOMAIN-SUFFIX,betflix7777.bet
+  - DOMAIN-SUFFIX,betflix7777s.com
   - DOMAIN-SUFFIX,betflix789-slot.xyz
   - DOMAIN-SUFFIX,betflix829.net
   - DOMAIN-SUFFIX,betflix88.win
@@ -182483,6 +182291,7 @@ payload:
   - DOMAIN-SUFFIX,betking88.casino
   - DOMAIN-SUFFIX,betking88-gacor.com
   - DOMAIN-SUFFIX,betking88-pro-max.com
+  - DOMAIN-SUFFIX,betkingarena.win
   - DOMAIN-SUFFIX,betkingcasino.info
   - DOMAIN-SUFFIX,betkingcasino-ng.com
   - DOMAIN-SUFFIX,betkingcasinocz.com
@@ -183287,6 +183096,7 @@ payload:
   - DOMAIN-SUFFIX,betmatch-odds.com
   - DOMAIN-SUFFIX,betmatch-offiziell.de
   - DOMAIN-SUFFIX,betmatch-online.bet
+  - DOMAIN-SUFFIX,betmatch-online.com
   - DOMAIN-SUFFIX,betmatch-play.com
   - DOMAIN-SUFFIX,betmatch-play.icu
   - DOMAIN-SUFFIX,betmatch-promo.com
@@ -183323,6 +183133,7 @@ payload:
   - DOMAIN-SUFFIX,betmatchcasinos.de
   - DOMAIN-SUFFIX,betmatches-casino.com
   - DOMAIN-SUFFIX,betmatches-casinos.com
+  - DOMAIN-SUFFIX,betmatchh.de
   - DOMAIN-SUFFIX,betmatchh-at.com
   - DOMAIN-SUFFIX,betmatchhu.pro
   - DOMAIN-SUFFIX,betmatchhungary.online
@@ -184707,6 +184518,7 @@ payload:
   - DOMAIN-SUFFIX,beton78.site
   - DOMAIN-SUFFIX,beton88.fun
   - DOMAIN-SUFFIX,beton88.store
+  - DOMAIN-SUFFIX,beton88-pikir.homes
   - DOMAIN-SUFFIX,beton88-satu.site
   - DOMAIN-SUFFIX,beton888.club
   - DOMAIN-SUFFIX,beton888.online
@@ -186114,6 +185926,7 @@ payload:
   - DOMAIN-SUFFIX,betpascasino2026.icu
   - DOMAIN-SUFFIX,betpascasinoweb.icu
   - DOMAIN-SUFFIX,betpasgiris.sbs
+  - DOMAIN-SUFFIX,betpasgiris2026.com
   - DOMAIN-SUFFIX,betpasguncelgiris-idex.vip
   - DOMAIN-SUFFIX,betpaslink.org
   - DOMAIN-SUFFIX,betpaslivecasinom.icu
@@ -192476,6 +192289,7 @@ payload:
   - DOMAIN-SUFFIX,bettertogetherorg.com
   - DOMAIN-SUFFIX,bettertogetherproperty.com
   - DOMAIN-SUFFIX,bettertogethersociety.com
+  - DOMAIN-SUFFIX,bettertogetherstays.com
   - DOMAIN-SUFFIX,bettertool.xyz
   - DOMAIN-SUFFIX,bettertraining.xyz
   - DOMAIN-SUFFIX,betterversionhealthcare.com
@@ -192505,6 +192319,7 @@ payload:
   - DOMAIN-SUFFIX,bettery-ru.com
   - DOMAIN-SUFFIX,betteryou-usa.com
   - DOMAIN-SUFFIX,betteryoutips-game.live
+  - DOMAIN-SUFFIX,betterzincloom.shop
   - DOMAIN-SUFFIX,bettexcasino.bet
   - DOMAIN-SUFFIX,bettflix-tokyo.com
   - DOMAIN-SUFFIX,bettg88casino.com
@@ -195407,6 +195222,7 @@ payload:
   - DOMAIN-SUFFIX,betzone-rdb.com
   - DOMAIN-SUFFIX,betzone-tz.com
   - DOMAIN-SUFFIX,betzonecasino.ro
+  - DOMAIN-SUFFIX,betzoplay.pics
   - DOMAIN-SUFFIX,betzox.com
   - DOMAIN-SUFFIX,betzpoker.com
   - DOMAIN-SUFFIX,betzula.com
@@ -201183,6 +200999,7 @@ payload:
   - DOMAIN-SUFFIX,bk8fsq0x.top
   - DOMAIN-SUFFIX,bk8ftv.live
   - DOMAIN-SUFFIX,bk8ful3k.top
+  - DOMAIN-SUFFIX,bk8funth.com
   - DOMAIN-SUFFIX,bk8fusion.com
   - DOMAIN-SUFFIX,bk8fvn.com
   - DOMAIN-SUFFIX,bk8game.asia
@@ -213089,6 +212906,7 @@ payload:
   - DOMAIN-SUFFIX,bwin-game.xyz
   - DOMAIN-SUFFIX,bwin-games.de
   - DOMAIN-SUFFIX,bwin-global.com
+  - DOMAIN-SUFFIX,bwin-hungary.com
   - DOMAIN-SUFFIX,bwin-in.com
   - DOMAIN-SUFFIX,bwin-jeu.com
   - DOMAIN-SUFFIX,bwin-kasino-norge.shop
@@ -228024,6 +227842,7 @@ payload:
   - DOMAIN-SUFFIX,casino-offer-zone.com
   - DOMAIN-SUFFIX,casino-offers.ink
   - DOMAIN-SUFFIX,casino-offers-canada.com
+  - DOMAIN-SUFFIX,casino-offers-online-pt.com
   - DOMAIN-SUFFIX,casino-offers-radar.com
   - DOMAIN-SUFFIX,casino-offers-station.com
   - DOMAIN-SUFFIX,casino-official.bar
@@ -235084,7 +234903,6 @@ payload:
   - DOMAIN-SUFFIX,casino0dn.buzz
   - DOMAIN-SUFFIX,casino0dws.buzz
   - DOMAIN-SUFFIX,casino0eb7.buzz
-  - DOMAIN-SUFFIX,casino0f0.top
   - DOMAIN-SUFFIX,casino0gf.buzz
   - DOMAIN-SUFFIX,casino0h4.buzz
   - DOMAIN-SUFFIX,casino0h5i.buzz
@@ -240268,7 +240086,6 @@ payload:
   - DOMAIN-SUFFIX,casino35g.buzz
   - DOMAIN-SUFFIX,casino35gd.buzz
   - DOMAIN-SUFFIX,casino35km.buzz
-  - DOMAIN-SUFFIX,casino35win.top
   - DOMAIN-SUFFIX,casino36.org
   - DOMAIN-SUFFIX,casino36.team
   - DOMAIN-SUFFIX,casino360.bet
@@ -254461,7 +254278,6 @@ payload:
   - DOMAIN-SUFFIX,casinocordobaar.com
   - DOMAIN-SUFFIX,casinocore.co
   - DOMAIN-SUFFIX,casinocore.lat
-  - DOMAIN-SUFFIX,casinocore.net
   - DOMAIN-SUFFIX,casinocorfu.gr
   - DOMAIN-SUFFIX,casinocorgibet.ch
   - DOMAIN-SUFFIX,casinocorgibet.com
@@ -275537,6 +275353,7 @@ payload:
   - DOMAIN-SUFFIX,casinozoccerde.com
   - DOMAIN-SUFFIX,casinozoccerde.org
   - DOMAIN-SUFFIX,casinozodiac.click
+  - DOMAIN-SUFFIX,casinozodiac.cz
   - DOMAIN-SUFFIX,casinozodiac.eu
   - DOMAIN-SUFFIX,casinozodiac.net
   - DOMAIN-SUFFIX,casinozodiac.review
@@ -283986,6 +283803,7 @@ payload:
   - DOMAIN-SUFFIX,ciatotooke.com
   - DOMAIN-SUFFIX,cibenew.site
   - DOMAIN-SUFFIX,cibermatex.com
+  - DOMAIN-SUFFIX,cibettertogether.com
   - DOMAIN-SUFFIX,cibillfish.org
   - DOMAIN-SUFFIX,cicak-win.win
   - DOMAIN-SUFFIX,cicakwin-dot.info
@@ -302474,6 +302292,7 @@ payload:
   - DOMAIN-SUFFIX,didi51-tthq1023.cc
   - DOMAIN-SUFFIX,didi51-tube0966.cc
   - DOMAIN-SUFFIX,didi51-tuwp1005.cc
+  - DOMAIN-SUFFIX,didi51-tuyu1001.cc
   - DOMAIN-SUFFIX,didi51-twtj1014.cc
   - DOMAIN-SUFFIX,didi51-txux1074.cc
   - DOMAIN-SUFFIX,didi51-tyle0935.cc
@@ -310110,6 +309929,7 @@ payload:
   - DOMAIN-SUFFIX,efol.org
   - DOMAIN-SUFFIX,eforbet.bet
   - DOMAIN-SUFFIX,eforbet100.com
+  - DOMAIN-SUFFIX,eforbet103.com
   - DOMAIN-SUFFIX,eforbet111.com
   - DOMAIN-SUFFIX,eforbet112.com
   - DOMAIN-SUFFIX,eforbet114.com
@@ -337529,12 +337349,14 @@ payload:
   - DOMAIN-SUFFIX,gg51-lbzs1923.cc
   - DOMAIN-SUFFIX,gg51-lcbh209.vip
   - DOMAIN-SUFFIX,gg51-lccq1526.vip
+  - DOMAIN-SUFFIX,gg51-lces2063.cc
   - DOMAIN-SUFFIX,gg51-lcex1611.vip
   - DOMAIN-SUFFIX,gg51-lcfy1858.cc
   - DOMAIN-SUFFIX,gg51-lcgf2363.cc
   - DOMAIN-SUFFIX,gg51-lcgk2466.cc
   - DOMAIN-SUFFIX,gg51-lcgm971.com
   - DOMAIN-SUFFIX,gg51-lcgp2189.cc
+  - DOMAIN-SUFFIX,gg51-lcgr2257.cc
   - DOMAIN-SUFFIX,gg51-lcgt1877.cc
   - DOMAIN-SUFFIX,gg51-lcgw2482.cc
   - DOMAIN-SUFFIX,gg51-lchf612.vip
@@ -337547,6 +337369,7 @@ payload:
   - DOMAIN-SUFFIX,gg51-lciu2533.cc
   - DOMAIN-SUFFIX,gg51-lcja1845.cc
   - DOMAIN-SUFFIX,gg51-lckh1826.cc
+  - DOMAIN-SUFFIX,gg51-lckq1711.vip
   - DOMAIN-SUFFIX,gg51-lcls1358.vip
   - DOMAIN-SUFFIX,gg51-lclw2167.cc
   - DOMAIN-SUFFIX,gg51-lcmh1430.vip
@@ -337913,6 +337736,7 @@ payload:
   - DOMAIN-SUFFIX,gg51-lkhh1146.vip
   - DOMAIN-SUFFIX,gg51-lkht1621.vip
   - DOMAIN-SUFFIX,gg51-lkjb2123.cc
+  - DOMAIN-SUFFIX,gg51-lkjg2062.cc
   - DOMAIN-SUFFIX,gg51-lkjv978.vip
   - DOMAIN-SUFFIX,gg51-lkkq1338.vip
   - DOMAIN-SUFFIX,gg51-lklm2421.cc
@@ -342342,6 +342166,7 @@ payload:
   - DOMAIN-SUFFIX,gokilplay.xyz
   - DOMAIN-SUFFIX,gokjewagen.nl
   - DOMAIN-SUFFIX,gokkasten.casino
+  - DOMAIN-SUFFIX,gokkasten-win.online
   - DOMAIN-SUFFIX,gokkastenencasino.com
   - DOMAIN-SUFFIX,gokkastenslots.nl
   - DOMAIN-SUFFIX,gokken999hub.com
@@ -347063,6 +346888,7 @@ payload:
   - DOMAIN-SUFFIX,grandpashabet-app.com
   - DOMAIN-SUFFIX,grandpashabet-app.live
   - DOMAIN-SUFFIX,grandpashabet-applives.xyz
+  - DOMAIN-SUFFIX,grandpashabet-bayram.com
   - DOMAIN-SUFFIX,grandpashabet-bonus.top
   - DOMAIN-SUFFIX,grandpashabet-bonusday.icu
   - DOMAIN-SUFFIX,grandpashabet-bonuslari-girisi.icu
@@ -347342,6 +347168,7 @@ payload:
   - DOMAIN-SUFFIX,grandpashabet-trorg.icu
   - DOMAIN-SUFFIX,grandpashabet-trr.icu
   - DOMAIN-SUFFIX,grandpashabet-turk.art
+  - DOMAIN-SUFFIX,grandpashabet-turk.click
   - DOMAIN-SUFFIX,grandpashabet-turkce.click
   - DOMAIN-SUFFIX,grandpashabet-turkce.info
   - DOMAIN-SUFFIX,grandpashabet-turkey2026.vip
@@ -347993,6 +347820,7 @@ payload:
   - DOMAIN-SUFFIX,grandpashabetlogincasino.icu
   - DOMAIN-SUFFIX,grandpashabetlol.fun
   - DOMAIN-SUFFIX,grandpashabetmobil.co
+  - DOMAIN-SUFFIX,grandpashabetmobilerisim.vip
   - DOMAIN-SUFFIX,grandpashabetmobiles.top
   - DOMAIN-SUFFIX,grandpashabetmobileturkey.vip
   - DOMAIN-SUFFIX,grandpashabetmobilgiris.vip
@@ -385377,7 +385205,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet10053.com
   - DOMAIN-SUFFIX,jojobet10054.com
   - DOMAIN-SUFFIX,jojobet10056.com
-  - DOMAIN-SUFFIX,jojobet100569.com
   - DOMAIN-SUFFIX,jojobet10057.com
   - DOMAIN-SUFFIX,jojobet10058.com
   - DOMAIN-SUFFIX,jojobet1006.org
@@ -385441,7 +385268,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet10111.com
   - DOMAIN-SUFFIX,jojobet10113.com
   - DOMAIN-SUFFIX,jojobet101130.com
-  - DOMAIN-SUFFIX,jojobet101141.com
   - DOMAIN-SUFFIX,jojobet10115.com
   - DOMAIN-SUFFIX,jojobet101165.com
   - DOMAIN-SUFFIX,jojobet10117.com
@@ -386463,7 +386289,6 @@ payload:
   - DOMAIN-SUFFIX,jojobet12130.com
   - DOMAIN-SUFFIX,jojobet12134.com
   - DOMAIN-SUFFIX,jojobet12136.com
-  - DOMAIN-SUFFIX,jojobet12141.com
   - DOMAIN-SUFFIX,jojobet12142.com
   - DOMAIN-SUFFIX,jojobet12158.com
   - DOMAIN-SUFFIX,jojobet12161.com
@@ -390058,7 +389883,6 @@ payload:
   - DOMAIN-SUFFIX,jojobetvip.icu
   - DOMAIN-SUFFIX,jojobetvip.ltd
   - DOMAIN-SUFFIX,jojobetvip.sbs
-  - DOMAIN-SUFFIX,jojobetvip.site
   - DOMAIN-SUFFIX,jojobetvip.xyz
   - DOMAIN-SUFFIX,jojobetvip-gir.com
   - DOMAIN-SUFFIX,jojobetvip-giris.icu
@@ -393663,7 +393487,6 @@ payload:
   - DOMAIN-SUFFIX,joycasino63.sbs
   - DOMAIN-SUFFIX,joycasino7.net
   - DOMAIN-SUFFIX,joycasino7.org
-  - DOMAIN-SUFFIX,joycasino706.buzz
   - DOMAIN-SUFFIX,joycasino71.fun
   - DOMAIN-SUFFIX,joycasino712.buzz
   - DOMAIN-SUFFIX,joycasino747.best
@@ -429650,7 +429473,6 @@ payload:
   - DOMAIN-SUFFIX,lybet9.com
   - DOMAIN-SUFFIX,lycanpoker.com
   - DOMAIN-SUFFIX,lycasino.pl
-  - DOMAIN-SUFFIX,lyceecharlespeguy.com
   - DOMAIN-SUFFIX,lyceehoteliergeorgesfreche.fr
   - DOMAIN-SUFFIX,lycheetea.xyz
   - DOMAIN-SUFFIX,lyckoskrapet.biz
@@ -430432,6 +430254,7 @@ payload:
   - DOMAIN-SUFFIX,m-zones.org
   - DOMAIN-SUFFIX,m0022.com
   - DOMAIN-SUFFIX,m00rvg1o.com
+  - DOMAIN-SUFFIX,m00stbet1.site
   - DOMAIN-SUFFIX,m0101.xyz
   - DOMAIN-SUFFIX,m0330.com
   - DOMAIN-SUFFIX,m03641.com
@@ -437514,6 +437337,7 @@ payload:
   - DOMAIN-SUFFIX,makrobet-slot.cam
   - DOMAIN-SUFFIX,makrobet-yayin.icu
   - DOMAIN-SUFFIX,makrobet655.com
+  - DOMAIN-SUFFIX,makrobet916.com
   - DOMAIN-SUFFIX,makrobet927.com
   - DOMAIN-SUFFIX,makrobetbonus.com
   - DOMAIN-SUFFIX,makrobetgirisss.com
@@ -442049,7 +441873,6 @@ payload:
   - DOMAIN-SUFFIX,matbet948.com
   - DOMAIN-SUFFIX,matbet9480.icu
   - DOMAIN-SUFFIX,matbet9485.icu
-  - DOMAIN-SUFFIX,matbet9487.com
   - DOMAIN-SUFFIX,matbet9490.icu
   - DOMAIN-SUFFIX,matbet9495.icu
   - DOMAIN-SUFFIX,matbet950.com
@@ -444276,6 +444099,7 @@ payload:
   - DOMAIN-SUFFIX,maxwin-giris.com
   - DOMAIN-SUFFIX,maxwin-giris.org
   - DOMAIN-SUFFIX,maxwin-girisyap-official.icu
+  - DOMAIN-SUFFIX,maxwin-guncelgirisr.icu
   - DOMAIN-SUFFIX,maxwin-homebet88.online
   - DOMAIN-SUFFIX,maxwin-id.com
   - DOMAIN-SUFFIX,maxwin-in.com
@@ -449504,7 +449328,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-avu18.sbs
   - DOMAIN-SUFFIX,melbet-avz26.cfd
   - DOMAIN-SUFFIX,melbet-aw.top
-  - DOMAIN-SUFFIX,melbet-awa66.buzz
   - DOMAIN-SUFFIX,melbet-axd.top
   - DOMAIN-SUFFIX,melbet-axuf.top
   - DOMAIN-SUFFIX,melbet-axum.top
@@ -449531,7 +449354,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-azi.top
   - DOMAIN-SUFFIX,melbet-azj6.top
   - DOMAIN-SUFFIX,melbet-azm.top
-  - DOMAIN-SUFFIX,melbet-azt34.buzz
   - DOMAIN-SUFFIX,melbet-azv79.sbs
   - DOMAIN-SUFFIX,melbet-b.top
   - DOMAIN-SUFFIX,melbet-b10n.top
@@ -450174,7 +449996,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-ccc8.top
   - DOMAIN-SUFFIX,melbet-ccc9.top
   - DOMAIN-SUFFIX,melbet-ccf83.cfd
-  - DOMAIN-SUFFIX,melbet-ccj85.buzz
   - DOMAIN-SUFFIX,melbet-ccr33.cfd
   - DOMAIN-SUFFIX,melbet-ccu.cfd
   - DOMAIN-SUFFIX,melbet-cdh61kg.cam
@@ -450860,7 +450681,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-gmp31.cam
   - DOMAIN-SUFFIX,melbet-gmx18.cam
   - DOMAIN-SUFFIX,melbet-gnb.top
-  - DOMAIN-SUFFIX,melbet-gne42.buzz
   - DOMAIN-SUFFIX,melbet-gnl21.cfd
   - DOMAIN-SUFFIX,melbet-goa.top
   - DOMAIN-SUFFIX,melbet-goh.top
@@ -450875,7 +450695,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-gqh21.sbs
   - DOMAIN-SUFFIX,melbet-gql84.cfd
   - DOMAIN-SUFFIX,melbet-gqn35.top
-  - DOMAIN-SUFFIX,melbet-gqz33.buzz
   - DOMAIN-SUFFIX,melbet-grh64.cfd
   - DOMAIN-SUFFIX,melbet-grt77.sbs
   - DOMAIN-SUFFIX,melbet-gsb24.cam
@@ -451110,7 +450929,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-ilq33.sbs
   - DOMAIN-SUFFIX,melbet-ils.top
   - DOMAIN-SUFFIX,melbet-ils67.cam
-  - DOMAIN-SUFFIX,melbet-ilw81.buzz
   - DOMAIN-SUFFIX,melbet-imb89.sbs
   - DOMAIN-SUFFIX,melbet-in.com
   - DOMAIN-SUFFIX,melbet-in.fyi
@@ -451165,7 +450983,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-irani.online
   - DOMAIN-SUFFIX,melbet-irani.site
   - DOMAIN-SUFFIX,melbet-iraq.site
-  - DOMAIN-SUFFIX,melbet-irj76.buzz
   - DOMAIN-SUFFIX,melbet-irn.com
   - DOMAIN-SUFFIX,melbet-irs36.sbs
   - DOMAIN-SUFFIX,melbet-irs64.sbs
@@ -451384,7 +451201,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-jsm.top
   - DOMAIN-SUFFIX,melbet-jsr88.cam
   - DOMAIN-SUFFIX,melbet-jssm.top
-  - DOMAIN-SUFFIX,melbet-jsu85.buzz
   - DOMAIN-SUFFIX,melbet-jtc5.top
   - DOMAIN-SUFFIX,melbet-jtd2.top
   - DOMAIN-SUFFIX,melbet-jte97.cfd
@@ -451602,7 +451418,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-kxy78.cam
   - DOMAIN-SUFFIX,melbet-kyd.top
   - DOMAIN-SUFFIX,melbet-kyl71me.sbs
-  - DOMAIN-SUFFIX,melbet-kyn76.buzz
   - DOMAIN-SUFFIX,melbet-kyp93.sbs
   - DOMAIN-SUFFIX,melbet-kyrgyzstan.com
   - DOMAIN-SUFFIX,melbet-kyu54.buzz
@@ -451653,7 +451468,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-lgq71.sbs
   - DOMAIN-SUFFIX,melbet-lgyb.top
   - DOMAIN-SUFFIX,melbet-lgz.top
-  - DOMAIN-SUFFIX,melbet-lgz76.buzz
   - DOMAIN-SUFFIX,melbet-lhn45.sbs
   - DOMAIN-SUFFIX,melbet-lhr29.buzz
   - DOMAIN-SUFFIX,melbet-lhr68.cfd
@@ -452012,7 +451826,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-ngs68we.top
   - DOMAIN-SUFFIX,melbet-ngw42jx.buzz
   - DOMAIN-SUFFIX,melbet-nhd81.cfd
-  - DOMAIN-SUFFIX,melbet-nho45.buzz
   - DOMAIN-SUFFIX,melbet-nhv11.cam
   - DOMAIN-SUFFIX,melbet-nih96.cam
   - DOMAIN-SUFFIX,melbet-nik38zd.buzz
@@ -452271,7 +452084,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-pbv97te.top
   - DOMAIN-SUFFIX,melbet-pc28.top
   - DOMAIN-SUFFIX,melbet-pcf31.cfd
-  - DOMAIN-SUFFIX,melbet-pcs99.buzz
   - DOMAIN-SUFFIX,melbet-pct.top
   - DOMAIN-SUFFIX,melbet-pdd.top
   - DOMAIN-SUFFIX,melbet-pde78.sbs
@@ -452406,7 +452218,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-pto84.buzz
   - DOMAIN-SUFFIX,melbet-ptv58.sbs
   - DOMAIN-SUFFIX,melbet-puj46.cfd
-  - DOMAIN-SUFFIX,melbet-pun77.buzz
   - DOMAIN-SUFFIX,melbet-pus72.cfd
   - DOMAIN-SUFFIX,melbet-pv5t.buzz
   - DOMAIN-SUFFIX,melbet-pve.top
@@ -452414,7 +452225,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-pvk33.cfd
   - DOMAIN-SUFFIX,melbet-pvk46.cam
   - DOMAIN-SUFFIX,melbet-pvn15.sbs
-  - DOMAIN-SUFFIX,melbet-pvn99.buzz
   - DOMAIN-SUFFIX,melbet-pvz55.top
   - DOMAIN-SUFFIX,melbet-pwc71.cfd
   - DOMAIN-SUFFIX,melbet-pwk.top
@@ -452811,7 +452621,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-sgc12.cfd
   - DOMAIN-SUFFIX,melbet-sgw96.sbs
   - DOMAIN-SUFFIX,melbet-shg78.buzz
-  - DOMAIN-SUFFIX,melbet-shv41.buzz
   - DOMAIN-SUFFIX,melbet-shx36.cam
   - DOMAIN-SUFFIX,melbet-sid51.sbs
   - DOMAIN-SUFFIX,melbet-sim.top
@@ -452861,7 +452670,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-soz93.sbs
   - DOMAIN-SUFFIX,melbet-sp.com
   - DOMAIN-SUFFIX,melbet-spa52.sbs
-  - DOMAIN-SUFFIX,melbet-spi28.buzz
   - DOMAIN-SUFFIX,melbet-spm63.sbs
   - DOMAIN-SUFFIX,melbet-sport.site
   - DOMAIN-SUFFIX,melbet-sport1.ru
@@ -453437,7 +453245,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-wcn45.cam
   - DOMAIN-SUFFIX,melbet-wdd95.cfd
   - DOMAIN-SUFFIX,melbet-wdf94.sbs
-  - DOMAIN-SUFFIX,melbet-wdx66.buzz
   - DOMAIN-SUFFIX,melbet-wea65.cfd
   - DOMAIN-SUFFIX,melbet-web.com
   - DOMAIN-SUFFIX,melbet-wen34ar.cam
@@ -453489,11 +453296,9 @@ payload:
   - DOMAIN-SUFFIX,melbet-wqg41.sbs
   - DOMAIN-SUFFIX,melbet-wqp.top
   - DOMAIN-SUFFIX,melbet-wqs89.cfd
-  - DOMAIN-SUFFIX,melbet-wqz54.buzz
   - DOMAIN-SUFFIX,melbet-wrc54.cam
   - DOMAIN-SUFFIX,melbet-wrf49.cfd
   - DOMAIN-SUFFIX,melbet-wrs85.cam
-  - DOMAIN-SUFFIX,melbet-wsd58.buzz
   - DOMAIN-SUFFIX,melbet-wse94.cam
   - DOMAIN-SUFFIX,melbet-wsf1.top
   - DOMAIN-SUFFIX,melbet-wsf2.top
@@ -453564,7 +453369,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-xen34.cfd
   - DOMAIN-SUFFIX,melbet-xev23.cfd
   - DOMAIN-SUFFIX,melbet-xew21.cam
-  - DOMAIN-SUFFIX,melbet-xff73.buzz
   - DOMAIN-SUFFIX,melbet-xfl76.cfd
   - DOMAIN-SUFFIX,melbet-xfp83.top
   - DOMAIN-SUFFIX,melbet-xfq96.buzz
@@ -453763,7 +453567,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-ytc62.cfd
   - DOMAIN-SUFFIX,melbet-ytg91uu.buzz
   - DOMAIN-SUFFIX,melbet-ytm29.cam
-  - DOMAIN-SUFFIX,melbet-ytn83.buzz
   - DOMAIN-SUFFIX,melbet-ytu.top
   - DOMAIN-SUFFIX,melbet-ytuu.top
   - DOMAIN-SUFFIX,melbet-yukle.com
@@ -453783,7 +453586,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-yxf88.cfd
   - DOMAIN-SUFFIX,melbet-yxj36.top
   - DOMAIN-SUFFIX,melbet-yxl46.sbs
-  - DOMAIN-SUFFIX,melbet-yxy41.buzz
   - DOMAIN-SUFFIX,melbet-yy6u.top
   - DOMAIN-SUFFIX,melbet-yyr98.sbs
   - DOMAIN-SUFFIX,melbet-yzc62.sbs
@@ -453899,7 +453701,6 @@ payload:
   - DOMAIN-SUFFIX,melbet-zpn28.cam
   - DOMAIN-SUFFIX,melbet-zpx95.sbs
   - DOMAIN-SUFFIX,melbet-zpy79.cfd
-  - DOMAIN-SUFFIX,melbet-zqc78.buzz
   - DOMAIN-SUFFIX,melbet-zqi53.cam
   - DOMAIN-SUFFIX,melbet-zqp94.cfd
   - DOMAIN-SUFFIX,melbet-zquu.top
@@ -457221,6 +457022,7 @@ payload:
   - DOMAIN-SUFFIX,meritbetgiris.xyz
   - DOMAIN-SUFFIX,meritbetgiris-gunceladres.icu
   - DOMAIN-SUFFIX,meritbetgiris-xyz.com
+  - DOMAIN-SUFFIX,meritbetgiris2026.com
   - DOMAIN-SUFFIX,meritbetgirisadres.com
   - DOMAIN-SUFFIX,meritbetgirisadres.icu
   - DOMAIN-SUFFIX,meritbetgirisadrestr.com
@@ -468287,7 +468089,6 @@ payload:
   - DOMAIN-SUFFIX,mostbetskg.buzz
   - DOMAIN-SUFFIX,mostbetskg.fun
   - DOMAIN-SUFFIX,mostbetslots-app.com
-  - DOMAIN-SUFFIX,mostbetsng.online
   - DOMAIN-SUFFIX,mostbetspain.click
   - DOMAIN-SUFFIX,mostbetspain.top
   - DOMAIN-SUFFIX,mostbetspin7.ru
@@ -476299,6 +476100,7 @@ payload:
   - DOMAIN-SUFFIX,nesine-casino2026.com
   - DOMAIN-SUFFIX,nesine-casinogiris.com
   - DOMAIN-SUFFIX,nesine2026casino.com
+  - DOMAIN-SUFFIX,nesinecasino.app
   - DOMAIN-SUFFIX,nesinecasino.com
   - DOMAIN-SUFFIX,nesinecasino.icu
   - DOMAIN-SUFFIX,nesinecasino.site
@@ -476616,6 +476418,7 @@ payload:
   - DOMAIN-SUFFIX,netflixcasino1327.com
   - DOMAIN-SUFFIX,netflixcasino1328.com
   - DOMAIN-SUFFIX,netflixcasino1329.com
+  - DOMAIN-SUFFIX,netflixcasino1791.com
   - DOMAIN-SUFFIX,netflixcasino1794.com
   - DOMAIN-SUFFIX,netflixcasino24.ch
   - DOMAIN-SUFFIX,netflixcasinoat.com
@@ -504585,6 +504388,7 @@ payload:
   - DOMAIN-SUFFIX,pashabet-turkiyeteklink.icu
   - DOMAIN-SUFFIX,pashabete-gir.top
   - DOMAIN-SUFFIX,pashabetgrand.com
+  - DOMAIN-SUFFIX,pashabetgunceladres.top
   - DOMAIN-SUFFIX,pashabetresmigiris.icu
   - DOMAIN-SUFFIX,pashabets.app
   - DOMAIN-SUFFIX,pashacasino186.bet
@@ -507565,7 +507369,6 @@ payload:
   - DOMAIN-SUFFIX,petir338.biz
   - DOMAIN-SUFFIX,petir338.com
   - DOMAIN-SUFFIX,petir338.xyz
-  - DOMAIN-SUFFIX,petir33asik.beauty
   - DOMAIN-SUFFIX,petir33asli.cyou
   - DOMAIN-SUFFIX,petir33asli.xyz
   - DOMAIN-SUFFIX,petir33cinta.com
@@ -532450,6 +532253,7 @@ payload:
   - DOMAIN-SUFFIX,pragmaticlivecasino.com
   - DOMAIN-SUFFIX,pragmaticplay.buzz
   - DOMAIN-SUFFIX,pragmaticplay-casino.nl
+  - DOMAIN-SUFFIX,pragmaticplay-casino.se
   - DOMAIN-SUFFIX,pragmaticplay-slots.net
   - DOMAIN-SUFFIX,pragmaticplay-win.com
   - DOMAIN-SUFFIX,pragmaticplaybestslots.lol
@@ -548458,6 +548262,7 @@ payload:
   - DOMAIN-SUFFIX,revo-slots.store
   - DOMAIN-SUFFIX,revo-slots-it.site
   - DOMAIN-SUFFIX,revo-slots-spin.shop
+  - DOMAIN-SUFFIX,revo-spin-slots.shop
   - DOMAIN-SUFFIX,revo-win.com
   - DOMAIN-SUFFIX,revo138.com
   - DOMAIN-SUFFIX,revocasino-at.com
@@ -548543,6 +548348,7 @@ payload:
   - DOMAIN-SUFFIX,revolutcasino-espana.net
   - DOMAIN-SUFFIX,revolutcasino-nl.com
   - DOMAIN-SUFFIX,revolutcasino-no.com
+  - DOMAIN-SUFFIX,revolutcasino-online.nl
   - DOMAIN-SUFFIX,revolutcasino-pl.com
   - DOMAIN-SUFFIX,revolutcasino-win.com
   - DOMAIN-SUFFIX,revolutcasino1.com
@@ -556453,6 +556259,9 @@ payload:
   - DOMAIN-SUFFIX,romabet1405.com
   - DOMAIN-SUFFIX,romabet1480.com
   - DOMAIN-SUFFIX,romabet14912.com
+  - DOMAIN-SUFFIX,romabet1492.com
+  - DOMAIN-SUFFIX,romabet1493.com
+  - DOMAIN-SUFFIX,romabet1494.com
   - DOMAIN-SUFFIX,romabet1495.cam
   - DOMAIN-SUFFIX,romabet1974.com
   - DOMAIN-SUFFIX,romabet2493.com
@@ -556460,6 +556269,7 @@ payload:
   - DOMAIN-SUFFIX,romabet90.bet
   - DOMAIN-SUFFIX,romabetadresleri1.top
   - DOMAIN-SUFFIX,romabetadreslerim-2026.icu
+  - DOMAIN-SUFFIX,romabetapps.icu
   - DOMAIN-SUFFIX,romabetcasino.com
   - DOMAIN-SUFFIX,romabete.cam
   - DOMAIN-SUFFIX,romabete-girisi.com
@@ -584770,6 +584580,7 @@ payload:
   - DOMAIN-SUFFIX,sol-casinowin.top
   - DOMAIN-SUFFIX,sol-casinoz.com
   - DOMAIN-SUFFIX,sol-crypto-casino.org
+  - DOMAIN-SUFFIX,sol-er.com
   - DOMAIN-SUFFIX,sol-hero-casino.com
   - DOMAIN-SUFFIX,sol-kz-casino.com
   - DOMAIN-SUFFIX,sol-obet.shop
@@ -593045,6 +592856,7 @@ payload:
   - DOMAIN-SUFFIX,stake-casino-bd.com
   - DOMAIN-SUFFIX,stake-casino-bet.org
   - DOMAIN-SUFFIX,stake-casino-bonus.com
+  - DOMAIN-SUFFIX,stake-casino-br.com
   - DOMAIN-SUFFIX,stake-casino-brasil.com
   - DOMAIN-SUFFIX,stake-casino-brazil.site
   - DOMAIN-SUFFIX,stake-casino-ca.ink
@@ -595003,6 +594815,7 @@ payload:
   - DOMAIN-SUFFIX,starz888-bet-uz.site
   - DOMAIN-SUFFIX,starzbet.bet
   - DOMAIN-SUFFIX,starzbet.biz
+  - DOMAIN-SUFFIX,starzbet.cc
   - DOMAIN-SUFFIX,starzbet.click
   - DOMAIN-SUFFIX,starzbet.icu
   - DOMAIN-SUFFIX,starzbet.info
@@ -595075,6 +594888,7 @@ payload:
   - DOMAIN-SUFFIX,starzbet-hemen-aktif-giris.icu
   - DOMAIN-SUFFIX,starzbet-hemen-giris-aktif.icu
   - DOMAIN-SUFFIX,starzbet-kare.com
+  - DOMAIN-SUFFIX,starzbet-kazanan.com
   - DOMAIN-SUFFIX,starzbet-link.com
   - DOMAIN-SUFFIX,starzbet-mexico.net
   - DOMAIN-SUFFIX,starzbet-mexico.org
@@ -599990,7 +599804,6 @@ payload:
   - DOMAIN-SUFFIX,sweden-casino-bast.best
   - DOMAIN-SUFFIX,sweden-topp-natcasino.best
   - DOMAIN-SUFFIX,sweden-topp-spelcasino.fun
-  - DOMAIN-SUFFIX,swedenapp-win.site
   - DOMAIN-SUFFIX,swedencasino.com
   - DOMAIN-SUFFIX,swedencasino.se
   - DOMAIN-SUFFIX,swedencasino-se.com
@@ -611121,7 +610934,6 @@ payload:
   - DOMAIN-SUFFIX,tony-good-slots.website
   - DOMAIN-SUFFIX,tony-spins-casino.ch
   - DOMAIN-SUFFIX,tony-spinscasino.ch
-  - DOMAIN-SUFFIX,tony-yin.site
   - DOMAIN-SUFFIX,tony1688-casino.run
   - DOMAIN-SUFFIX,tony88mys.com
   - DOMAIN-SUFFIX,tony99casino.shop
@@ -618627,6 +618439,7 @@ payload:
   - DOMAIN-SUFFIX,turkey-madridbet.top
   - DOMAIN-SUFFIX,turkey-paradise-slot.com
   - DOMAIN-SUFFIX,turkey1xbet.mobi
+  - DOMAIN-SUFFIX,turkeybet.casino
   - DOMAIN-SUFFIX,turkeybet-adresi.cam
   - DOMAIN-SUFFIX,turkeybet-adresim.cam
   - DOMAIN-SUFFIX,turkeybet-guncelgirisi.cam
@@ -648694,6 +648507,7 @@ payload:
   - DOMAIN-SUFFIX,win-keiba.shop
   - DOMAIN-SUFFIX,win-kel.com
   - DOMAIN-SUFFIX,win-kent.online
+  - DOMAIN-SUFFIX,win-keys.org
   - DOMAIN-SUFFIX,win-khlm.xyz
   - DOMAIN-SUFFIX,win-king.xyz
   - DOMAIN-SUFFIX,win-king88bet.com
@@ -653459,7 +653273,6 @@ payload:
   - DOMAIN-SUFFIX,winlose.xyz
   - DOMAIN-SUFFIX,winlot-au.living
   - DOMAIN-SUFFIX,winlot-au.site
-  - DOMAIN-SUFFIX,winlot-au.website
   - DOMAIN-SUFFIX,winlot-ca.living
   - DOMAIN-SUFFIX,winlot-ca.site
   - DOMAIN-SUFFIX,winlot-es.website
@@ -662004,6 +661817,7 @@ payload:
   - DOMAIN-SUFFIX,wrh.casino
   - DOMAIN-SUFFIX,wrhrc.com
   - DOMAIN-SUFFIX,wrigley22.com
+  - DOMAIN-SUFFIX,write-essay-for-me.com
   - DOMAIN-SUFFIX,writealphabets.com
   - DOMAIN-SUFFIX,writeblackjack.xyz
   - DOMAIN-SUFFIX,writeremedy.com
@@ -664734,6 +664548,7 @@ payload:
   - DOMAIN-SUFFIX,xn--aoa-j59d107t.com
   - DOMAIN-SUFFIX,xn--app-bk9d60t.com
   - DOMAIN-SUFFIX,xn--balanspjobbet-vfb.se
+  - DOMAIN-SUFFIX,xn--betmatch-kaszin-9rb.com
   - DOMAIN-SUFFIX,xn--betoffce-71a.com
   - DOMAIN-SUFFIX,xn--betppo-ewa.com
   - DOMAIN-SUFFIX,xn--betsmove-giri-utc.icu
@@ -668870,6 +668685,7 @@ payload:
   - DOMAIN-SUFFIX,yinghua-l0728.cc
   - DOMAIN-SUFFIX,yinghua-l0735.cc
   - DOMAIN-SUFFIX,yinghua-l0737.cc
+  - DOMAIN-SUFFIX,yinghua-l0741.cc
   - DOMAIN-SUFFIX,yinghua-l0742.cc
   - DOMAIN-SUFFIX,yinghua-l0743.cc
   - DOMAIN-SUFFIX,yinghua-l0745.cc
@@ -671377,6 +671193,7 @@ payload:
   - DOMAIN-SUFFIX,yukongold.casino
   - DOMAIN-SUFFIX,yukongold.site
   - DOMAIN-SUFFIX,yukongold-casino.bet
+  - DOMAIN-SUFFIX,yukongold-casino.ch
   - DOMAIN-SUFFIX,yukongold-casino.de
   - DOMAIN-SUFFIX,yukongold-casino.kr
   - DOMAIN-SUFFIX,yukongold-casino.online
