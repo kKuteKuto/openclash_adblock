@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 20 Nov 2026 22:36 UTC
-# Version: 2026.1120.2236.28
+# Last modified: 27 Nov 2026 22:29 UTC
+# Version: 2026.1127.2229.55
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1007
+# Number of entries: 1010
 #
 # OpenClash AdBlock: https://github.com/kkutekuto/openclash_adblock 
 
@@ -290,6 +290,7 @@ payload:
   - DOMAIN-SUFFIX,log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com
   - DOMAIN-SUFFIX,log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com
   - DOMAIN-SUFFIX,tiktok-perf.mncdn.com
+  - DOMAIN-SUFFIX,rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de
   - DOMAIN-SUFFIX,abtest-ch.snssdk.com
   - DOMAIN-SUFFIX,analytics.snssdk.com
   - DOMAIN-SUFFIX,applog.snssdk.com
@@ -326,6 +327,7 @@ payload:
   - DOMAIN-SUFFIX,vas-hl-x.snssdk.com
   - DOMAIN-SUFFIX,vcl-brain.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
+  - DOMAIN-SUFFIX,mon16-normal-alisg.tiktokv.com.www.sterenwifi.com
   - DOMAIN-SUFFIX,ads.in.tiktok.com
   - DOMAIN-SUFFIX,ads.us.tiktok.com
   - DOMAIN-SUFFIX,ads-ttp2.us.tiktok.com
@@ -362,6 +364,7 @@ payload:
   - DOMAIN-SUFFIX,analytics16-normal-alisg.tiktok.com
   - DOMAIN-SUFFIX,business-api.tiktok.com
   - DOMAIN-SUFFIX,location.tiktok.com
+  - DOMAIN-SUFFIX,location-i18n.tiktok.com
   - DOMAIN-SUFFIX,mcs-i18n.tiktok.com
   - DOMAIN-SUFFIX,mcs-sg.tiktok.com
   - DOMAIN-SUFFIX,mcs-va.tiktok.com
